@@ -9,6 +9,6 @@ public static class BattleSim {
         Console.WriteLine(charizard + "\n"); 
         Console.WriteLine(blastoise + "\n"); 
 
-        // this is an abritrary line 
+        Console.WriteLine("Voila"); 
     }
 }
