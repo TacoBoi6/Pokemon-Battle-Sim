@@ -1,0 +1,14 @@
+C:\Personal Programming\PokemonBattleSim\bin\Debug\net8.0\PokemonBattleSim.exe
+C:\Personal Programming\PokemonBattleSim\bin\Debug\net8.0\PokemonBattleSim.deps.json
+C:\Personal Programming\PokemonBattleSim\bin\Debug\net8.0\PokemonBattleSim.runtimeconfig.json
+C:\Personal Programming\PokemonBattleSim\bin\Debug\net8.0\PokemonBattleSim.dll
+C:\Personal Programming\PokemonBattleSim\bin\Debug\net8.0\PokemonBattleSim.pdb
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.AssemblyInfoInputs.cache
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.AssemblyInfo.cs
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.csproj.CoreCompileInputs.cache
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.dll
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\refint\PokemonBattleSim.dll
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.pdb
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.genruntimeconfig.cache
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\ref\PokemonBattleSim.dll
