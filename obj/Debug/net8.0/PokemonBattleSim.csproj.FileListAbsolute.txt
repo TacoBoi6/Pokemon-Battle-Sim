@@ -12,3 +12,4 @@ C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\refint\PokemonBattleSi
 C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.pdb
 C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.genruntimeconfig.cache
 C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\ref\PokemonBattleSim.dll
+C:\Personal Programming\PokemonBattleSim\obj\Debug\net8.0\PokemonBattleSim.sourcelink.json
