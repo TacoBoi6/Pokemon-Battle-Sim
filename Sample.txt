@@ -1,0 +1,2 @@
+this is a text file
+i want to parse it and stuff

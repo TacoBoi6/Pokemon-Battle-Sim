@@ -1,10 +1,10 @@
 public class Pokemon { 
-    String name; 
+    string name; 
     int[] baseStats = new int[6]; 
     int[] ivs = new int[6]; 
     int[] evs = new int[6]; 
-    String[] type = new string[2]; 
-    //String nature; 
+    string[] type = new string[2]; 
+    //string nature; 
     int level; 
     // should add nickname 
 
@@ -21,7 +21,7 @@ public class Pokemon {
     }
 
     // new pokemon with name, base stats, level, typing 
-    public Pokemon(String n, int[] bS, int lvl, String[] t) { 
+    public Pokemon(string n, int[] bS, int lvl, string[] t) { 
         name = n; 
         for (int i = 0; i < 6; i++) 
             baseStats[i] = bS[i]; 
@@ -32,9 +32,9 @@ public class Pokemon {
     }
 
     // string representation 
-    public override String ToString() { 
+    public override string ToString() { 
         // add species name 
-        String str = ""; 
+        string str = ""; 
         str += name; 
 
         // add types 
@@ -52,9 +52,9 @@ public class Pokemon {
 
     // capitalize the first letter of a string
     //      i dont really know what class to put this in tbh 
-    //      i want it to be able to be called on a String like .Substring() but idk how to access that class 
+    //      i want it to be able to be called on a string like .Substring() but idk how to access that class 
     //      (or if im even supposed to) 
-    public static String Capitalize(String str) { 
+    public static string Capitalize(string str) { 
         str = Char.ToUpper(str[0]) + str.Substring(1, str.Length - 1); 
         
         return str; 
