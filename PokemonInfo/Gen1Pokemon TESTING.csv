@@ -1,0 +1,10 @@
+Pokemon Id,Pokedex Number,Pokemon Name,Alternate Form Name,Pokemon Weight,Primary Type,Secondary Type,Primary Ability,Secondary Ability,Hidden Ability,Special Event Ability,Health Stat,Attack Stat,Defense Stat,Special Attack Stat,Special Defense Stat,Speed Stat,Base Stat Total,Pre-Evolution Pokemon Id,Evolution Details
+1,1,Bulbasaur,NULL,6.9,Grass,Poison,Overgrow,NULL,Chlorophyll,NULL,45,49,49,65,65,45,318,NULL,NULL
+2,2,Ivysaur,NULL,13,Grass,Poison,Overgrow,NULL,Chlorophyll,NULL,60,62,63,80,80,60,405,1,Level 16
+3,3,Venusaur,NULL,100,Grass,Poison,Overgrow,NULL,Chlorophyll,NULL,80,82,83,100,100,80,525,2,Level 32
+5,4,Charmander,NULL,8.5,Fire,NULL,Blaze,NULL,Solar Power,NULL,39,52,43,60,50,65,309,NULL,NULL
+6,5,Charmeleon,NULL,19,Fire,NULL,Blaze,NULL,Solar Power,NULL,58,64,58,80,65,80,405,5,Level 16
+7,6,Charizard,NULL,90.5,Fire,Flying,Blaze,NULL,Solar Power,NULL,78,84,78,109,85,100,534,6,Level 36
+10,7,Squirtle,NULL,9,Water,NULL,Torrent,NULL,Rain Dish,NULL,44,48,65,50,64,43,314,NULL,NULL
+11,8,Wartortle,NULL,22.5,Water,NULL,Torrent,NULL,Rain Dish,NULL,59,63,80,65,80,58,405,10,Level 16
+12,9,Blastoise,NULL,85.5,Water,NULL,Torrent,NULL,Rain Dish,NULL,79,83,100,85,105,78,530,11,Level 36
