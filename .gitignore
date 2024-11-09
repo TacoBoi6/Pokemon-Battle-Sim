@@ -1,2 +1,4 @@
 bin
 obj
+*-OLD*
+FileReading.cs 
