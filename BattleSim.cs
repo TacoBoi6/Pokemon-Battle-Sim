@@ -1,14 +1,13 @@
 ﻿using System; 
 public static class BattleSim { 
     public static void Main() { 
-        Pokemon venusaur = new Pokemon("Venusaur", new int[] {80, 82, 83, 100, 100, 80}, 100, new string[] {"grass", "poison"}); 
-        Pokemon charizard = new Pokemon("Charizard", new int[] {78, 84, 78, 109, 85, 100}, 100, new string[] {"fire", "flying"}); 
-        Pokemon blastoise = new Pokemon("Blastoise", new int[] {79, 83, 100, 85, 105, 78}, 100, new string[] {"water", "none"}); 
+        Console.WriteLine("Starting Project"); 
+        const string POKEMON_INFO_PATH = "C:\\Personal Programming\\PokemonBattleSim\\PokemonInfo\\AllPokemon SLIMMED.csv";
 
-        Console.WriteLine(venusaur + "\n"); 
-        Console.WriteLine(charizard + "\n"); 
-        Console.WriteLine(blastoise + "\n"); 
+        Console.WriteLine("What pokemon are you looking for?"); 
+        Pokemon myPoke = new Pokemon(Console.ReadLine(), POKEMON_INFO_PATH); 
 
-        Console.WriteLine("Voila"); 
+        Console.WriteLine(myPoke); 
+
     }
 }
