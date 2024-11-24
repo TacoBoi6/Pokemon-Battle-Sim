@@ -1,0 +1,12 @@
+__TODO__ 
+- Make Pokemon lookup function with alternate forms 
+    - Use split at '-' for this, probably 
+- Add finding Pokemon by ID 
+    - Use this to add Prevo and Evo Details to Pokemon lookup 
+- Split Pokemon.ToString() into basic, moderate, and very detailed versions 
+    - Name, Type 
+    - Name, Type, Abilities, Stats 
+    - Name, Dex Number, Type, Abilities, Stats, Weight, Prevo, Evo Method 
+- Add nicknames 
+- Fix PrevoID column 
+- Ignore text case

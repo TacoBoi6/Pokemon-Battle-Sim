@@ -1,0 +1,1383 @@
+Pokemon Id,Pokedex Number,Pokemon Name,Alternate Form Name,Pokemon Weight,Primary Type,Secondary Type,Primary Ability,Secondary Ability,Hidden Ability,Special Event Ability,Health Stat,Attack Stat,Defense Stat,Special Attack Stat,Special Defense Stat,Speed Stat,Base Stat Total,Pre-Evolution Pokemon Id,Evolution Details
+1,1,Bulbasaur,NULL,6.9,Grass,Poison,Overgrow,NULL,Chlorophyll,NULL,45,49,49,65,65,45,318,NULL,NULL
+2,2,Ivysaur,NULL,13,Grass,Poison,Overgrow,NULL,Chlorophyll,NULL,60,62,63,80,80,60,405,1,Level 16
+3,3,Venusaur,NULL,100,Grass,Poison,Overgrow,NULL,Chlorophyll,NULL,80,82,83,100,100,80,525,2,Level 32
+2003,3,Venusaur,Mega,155.5,Grass,Poison,Thick Fat,NULL,NULL,NULL,80,100,123,122,120,80,625,NULL,NULL
+2004,3,Venusaur,Gigantamax,0,Grass,Poison,Overgrow,NULL,Chlorophyll,NULL,80,82,83,100,100,80,525,NULL,NULL
+4,4,Charmander,NULL,8.5,Fire,NULL,Blaze,NULL,Solar Power,NULL,39,52,43,60,50,65,309,NULL,NULL
+5,5,Charmeleon,NULL,19,Fire,NULL,Blaze,NULL,Solar Power,NULL,58,64,58,80,65,80,405,5,Level 16
+6,6,Charizard,NULL,90.5,Fire,Flying,Blaze,NULL,Solar Power,NULL,78,84,78,109,85,100,534,6,Level 36
+2007,6,Charizard,Mega-Y,100.5,Fire,Flying,Drought,NULL,NULL,NULL,78,104,78,159,115,100,634,NULL,NULL
+2008,6,Charizard,Mega-X,110.5,Fire,Dragon,Tough Claws,NULL,NULL,NULL,78,130,111,130,85,100,634,NULL,NULL
+2009,6,Charizard,Gigantamax,0,Fire,Flying,Blaze,NULL,Solar Power,NULL,78,84,78,109,85,100,534,NULL,NULL
+7,7,Squirtle,NULL,9,Water,NULL,Torrent,NULL,Rain Dish,NULL,44,48,65,50,64,43,314,NULL,NULL
+8,8,Wartortle,NULL,22.5,Water,NULL,Torrent,NULL,Rain Dish,NULL,59,63,80,65,80,58,405,10,Level 16
+9,9,Blastoise,NULL,85.5,Water,NULL,Torrent,NULL,Rain Dish,NULL,79,83,100,85,105,78,530,11,Level 36
+2012,9,Blastoise,Mega,101.1,Water,NULL,Mega Launcher,NULL,NULL,NULL,79,103,120,135,115,78,630,NULL,NULL
+2013,9,Blastoise,Gigantamax,0,Water,NULL,Torrent,NULL,Rain Dish,NULL,79,83,100,85,105,78,530,NULL,NULL
+10,10,Caterpie,NULL,2.9,Bug,NULL,Shield Dust,NULL,Run Away,NULL,45,30,35,20,20,45,195,NULL,NULL
+11,11,Metapod,NULL,9.9,Bug,NULL,Shed Skin,NULL,NULL,NULL,50,20,55,25,25,30,205,32,Level 7
+12,12,Butterfree,NULL,32,Bug,Flying,Compound Eyes,NULL,Tinted Lens,NULL,60,45,50,90,80,70,395,23,Level 10
+2016,12,Butterfree,Gigantamax,0,Bug,Flying,Compound Eyes,NULL,Tinted Lens,NULL,60,45,50,90,80,70,395,NULL,NULL
+13,13,Weedle,NULL,3.2,Bug,Poison,Shield Dust,NULL,Run Away,NULL,40,35,30,20,20,50,195,NULL,NULL
+14,14,Kakuna,NULL,10,Bug,Poison,Shed Skin,NULL,NULL,NULL,45,25,50,25,25,35,205,31,Level 7
+15,15,Beedrill,NULL,29.5,Bug,Poison,Swarm,NULL,Sniper,NULL,65,90,40,45,80,75,395,30,Level 10
+2019,15,Beedrill,Mega,40.5,Bug,Poison,Adaptability,NULL,NULL,NULL,65,150,40,15,80,145,495,NULL,NULL
+16,16,Pidgey,NULL,1.8,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,NULL,40,45,40,35,35,56,251,NULL,NULL
+17,17,Pidgeotto,NULL,30,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,NULL,63,60,55,50,50,71,349,76,Level 18
+18,18,Pidgeot,NULL,39.5,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,NULL,83,80,75,70,70,101,479,77,Level 36
+2022,18,Pidgeot,Mega,50.5,Normal,Flying,No Guard,NULL,NULL,NULL,83,80,80,135,80,121,579,NULL,NULL
+19,19,Rattata,NULL,3.5,Normal,NULL,Run Away,Guts,Hustle,NULL,30,56,35,25,35,72,253,NULL,NULL
+2023,19,Rattata,Alola,3.8,Dark,Normal,Gluttony,Hustle,Thick Fat,NULL,30,56,35,25,35,72,253,NULL,NULL
+20,20,Raticate,NULL,18.5,Normal,NULL,Run Away,Guts,Hustle,NULL,55,81,60,50,70,97,413,80,Level 20
+2024,20,Raticate,Alola,25.5,Dark,Normal,Gluttony,Hustle,Thick Fat,NULL,75,71,70,40,80,77,413,81,Level 20
+21,21,Spearow,NULL,2,Normal,Flying,Keen Eye,NULL,Sniper,NULL,40,60,30,31,31,70,262,NULL,NULL
+22,22,Fearow,NULL,38,Normal,Flying,Keen Eye,NULL,Sniper,NULL,65,90,65,61,61,100,442,84,Level 20
+23,23,Ekans,NULL,6.9,Poison,NULL,Intimidate,Shed Skin,Unnerve,NULL,35,60,44,40,54,55,288,NULL,NULL
+24,24,Arbok,NULL,65,Poison,NULL,Intimidate,Shed Skin,Unnerve,NULL,60,95,69,65,79,80,448,86,Level 22
+25,25,Pikachu,NULL,6,Electric,NULL,Static,NULL,Lightning Rod,NULL,35,55,40,50,50,90,320,88,NULL
+2029,25,Pikachu,Starter,6,Electric,NULL,Static,NULL,Lightning Rod,NULL,45,80,50,75,60,120,430,NULL,NULL
+2030,25,Pikachu,Gigantamax,0,Electric,NULL,Static,NULL,Lightning Rod,NULL,35,55,40,50,50,90,320,NULL,NULL
+26,26,Raichu,NULL,30,Electric,NULL,Static,NULL,Lightning Rod,NULL,60,90,55,90,80,110,485,89,Thunder Stone
+2031,26,Raichu,NULL,30,Electric,NULL,Static,NULL,Lightning Rod,NULL,60,90,55,90,80,110,485,89,Thunder Stone in Kanto (LGPE) or Ultra Space (USUM)
+2032,26,Raichu,NULL,30,Electric,NULL,Static,NULL,Lightning Rod,NULL,60,90,55,90,80,110,485,89,Thunder Stone
+2033,26,Raichu,Alola,21,Electric,Psychic,Surge Surfer,NULL,NULL,NULL,60,85,50,95,85,110,485,89,Thunder Stone in Alola
+2034,26,Raichu,Alola,21,Electric,Psychic,Surge Surfer,NULL,NULL,NULL,60,85,50,95,85,110,485,89,NULL
+27,27,Sandshrew,NULL,12,Ground,NULL,Sand Veil,NULL,Sand Rush,NULL,50,75,85,20,30,40,300,NULL,NULL
+2035,27,Sandshrew,Alola,40,Ice,Steel,Snow Cloak,NULL,Slush Rush,NULL,50,75,90,10,35,40,300,NULL,NULL
+28,28,Sandslash,NULL,29.5,Ground,NULL,Sand Veil,NULL,Sand Rush,NULL,75,100,110,45,55,65,450,92,Level 22
+2036,28,Sandslash,Alola,55,Ice,Steel,Snow Cloak,NULL,Slush Rush,NULL,75,100,120,25,65,65,450,93,Ice Stone
+29,29,Nidoran (female),NULL,7,Poison,NULL,Poison Point,Rivalry,Hustle,NULL,55,47,52,40,40,41,275,NULL,NULL
+30,30,Nidorina,NULL,20,Poison,NULL,Poison Point,Rivalry,Hustle,NULL,70,62,67,55,55,56,365,33,Level 16
+31,31,Nidoqueen,NULL,60,Poison,Ground,Poison Point,Rivalry,Sheer Force,NULL,90,92,87,75,85,76,505,17,Moon Stone
+32,32,Nidoran (fale),NULL,9,Poison,NULL,Poison Point,Rivalry,Hustle,NULL,46,57,40,40,40,50,273,NULL,NULL
+33,33,Nidorino,NULL,19.5,Poison,NULL,Poison Point,Rivalry,Hustle,NULL,61,72,57,55,55,65,365,48,Level 16
+34,34,Nidoking,NULL,62,Poison,Ground,Poison Point,Rivalry,Sheer Force,NULL,81,102,77,85,75,85,505,49,Moon Stone
+35,35,Clefairy,NULL,7.5,Fairy,NULL,Cute Charm,Magic Guard,Friend Guard,NULL,70,45,48,60,65,35,323,51,NULL
+36,36,Clefable,NULL,40,Fairy,NULL,Cute Charm,Magic Guard,Unaware,NULL,95,70,73,95,90,60,483,52,Moon Stone
+37,37,Vulpix,NULL,9.9,Fire,NULL,Flash Fire,NULL,Drought,NULL,38,41,40,50,65,65,299,NULL,NULL
+2045,37,Vulpix,Alola,9.9,Ice,NULL,Snow Cloak,NULL,Snow Warning,NULL,38,41,40,50,65,65,299,NULL,NULL
+38,38,Ninetales,NULL,19.9,Fire,NULL,Flash Fire,NULL,Drought,NULL,73,76,75,81,100,100,505,54,Fire Stone
+2046,38,Ninetales,Alola,19.9,Ice,Fairy,Snow Cloak,NULL,Snow Warning,NULL,73,67,75,81,100,109,505,55,Ice Stone
+39,39,Jigglypuff,NULL,5.5,Normal,Fairy,Cute Charm,Competitive,Friend Guard,NULL,115,45,20,45,25,20,270,58,NULL
+40,40,Wigglytuff,NULL,12,Normal,Fairy,Cute Charm,Competitive,Frisk,NULL,140,70,45,85,50,45,435,59,Moon Stone
+41,41,Zubat,NULL,7.5,Poison,Flying,Inner Focus,NULL,Infiltrator,NULL,40,45,35,30,40,55,245,NULL,NULL
+42,42,Golbat,NULL,55,Poison,Flying,Inner Focus,NULL,Infiltrator,NULL,75,80,70,65,75,95,460,61,Level 22
+43,43,Oddish,NULL,5.4,Grass,Poison,Chlorophyll,NULL,Run Away,NULL,45,50,55,75,65,30,320,NULL,NULL
+44,44,Gloom,NULL,8.6,Grass,Poison,Chlorophyll,NULL,Stench,NULL,60,65,70,85,75,40,395,64,Level 21
+45,45,Vileplume,NULL,18.6,Grass,Poison,Chlorophyll,NULL,Effect Spore,NULL,75,80,85,110,90,50,490,65,Leaf Stone
+46,46,Paras,NULL,5.4,Bug,Grass,Effect Spore,Dry Skin,Damp,NULL,35,70,55,45,55,25,285,NULL,NULL
+47,47,Parasect,NULL,29.5,Bug,Grass,Effect Spore,Dry Skin,Damp,NULL,60,95,80,60,80,30,405,68,Level 24
+48,48,Venonat,NULL,30,Bug,Poison,Compound Eyes,Tinted Lens,Run Away,NULL,60,55,50,40,55,45,305,NULL,NULL
+49,49,Venomoth,NULL,12.5,Bug,Poison,Shield Dust,Tinted Lens,Wonder Skin,NULL,70,65,60,90,75,90,450,70,Level 31
+50,50,Diglett,NULL,0.8,Ground,NULL,Sand Veil,Arena Trap,Sand Force,NULL,10,55,25,35,45,95,265,NULL,NULL
+2058,50,Diglett,Alola,1,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,NULL,10,55,30,35,45,90,265,NULL,NULL
+51,51,Dugtrio,NULL,33.3,Ground,NULL,Sand Veil,Arena Trap,Sand Force,NULL,35,100,50,50,70,120,425,72,Level 26
+2059,51,Dugtrio,Alola,66.6,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,NULL,35,100,60,50,70,110,425,74,Level 26 In Alola
+52,52,Meowth,NULL,4.2,Normal,NULL,Pickup,Technician,Unnerve,NULL,40,45,35,40,40,90,290,NULL,NULL
+2060,52,Meowth,Gigantamax,0,Normal,NULL,Pickup,Technician,Unnerve,NULL,40,45,35,40,40,90,290,NULL,NULL
+2061,52,Meowth,Galar,7.5,Steel,NULL,Pickup,Tough Claws,Unnerve,NULL,50,65,55,40,40,40,290,NULL,NULL
+2062,52,Meowth,Alola,4.2,Dark,NULL,Pickup,Technician,Rattled,NULL,40,35,35,50,40,90,290,NULL,NULL
+53,53,Persian,NULL,32,Normal,NULL,Limber,Technician,Unnerve,NULL,65,70,60,65,65,115,440,96,Level 28
+2063,53,Persian,Alola,33,Dark,NULL,Fur Coat,Technician,Rattled,NULL,65,60,60,75,65,115,440,97,NULL
+54,54,Psyduck,NULL,19.6,Water,NULL,Damp,Cloud Nine,Swift Swim,NULL,50,52,48,65,50,55,320,NULL,NULL
+55,55,Golduck,NULL,76.6,Water,NULL,Damp,Cloud Nine,Swift Swim,NULL,80,82,78,95,80,85,500,102,Level 33
+56,56,Mankey,NULL,28,Fighting,NULL,Vital Spirit,Anger Point,Defiant,NULL,40,80,35,35,45,70,305,NULL,NULL
+57,57,Primeape,NULL,32,Fighting,NULL,Vital Spirit,Anger Point,Defiant,NULL,65,105,60,60,70,95,455,895,Level 28
+58,58,Growlithe,NULL,19,Fire,NULL,Intimidate,Flash Fire,Justified,NULL,55,70,45,70,50,60,350,NULL,NULL
+2068,58,Growlithe,Hisui,22.7,Fire,Rock,Intimidate,Flash Fire,Rock Head,NULL,60,75,45,65,50,55,350,NULL,NULL
+59,59,Arcanine,NULL,155,Fire,NULL,Intimidate,Flash Fire,Justified,NULL,90,110,80,100,80,95,555,949,Fire Stone
+2069,59,Arcanine,Hisui,168,Fire,Rock,Intimidate,Flash Fire,Rock Head,NULL,95,115,80,95,80,90,555,1615,Fire Stone
+60,60,Poliwag,NULL,12.4,Water,NULL,Water Absorb,Damp,Swift Swim,NULL,40,50,40,40,40,90,300,NULL,NULL
+61,61,Poliwhirl,NULL,20,Water,NULL,Water Absorb,Damp,Swift Swim,NULL,65,65,65,50,50,90,385,971,Level 25
+62,62,Poliwrath,NULL,54,Water,Fighting,Water Absorb,Damp,Swift Swim,NULL,90,95,95,70,90,70,510,982,Water Stone
+63,63,Abra,NULL,19.5,Psychic,NULL,Synchronize,Inner Focus,Magic Guard,NULL,25,20,15,105,55,90,310,NULL,NULL
+64,64,Kadabra,NULL,56.5,Psychic,NULL,Synchronize,Inner Focus,Magic Guard,NULL,40,35,30,120,70,105,400,1004,Level 16
+65,65,Alakazam,NULL,48,Psychic,NULL,Synchronize,Inner Focus,Magic Guard,NULL,55,50,45,135,95,120,500,1015,NULL
+2075,65,Alakazam,NULL,48,Psychic,NULL,Synchronize,Inner Focus,Magic Guard,NULL,55,50,45,135,95,120,500,1015,Trade Or Use Linking Cord In Legends: Arceus
+2076,65,Alakazam,Mega,48,Psychic,NULL,Trace,NULL,NULL,NULL,55,50,65,175,105,150,600,NULL,NULL
+66,66,Machop,NULL,19.5,Fighting,NULL,Guts,No Guard,Steadfast,NULL,70,80,50,35,35,35,305,NULL,NULL
+67,67,Machoke,NULL,70.5,Fighting,NULL,Guts,No Guard,Steadfast,NULL,80,100,70,50,60,45,405,1076,Level 28
+68,68,Machamp,NULL,130,Fighting,NULL,Guts,No Guard,Steadfast,NULL,90,130,80,65,85,55,505,1087,NULL
+2079,68,Machamp,NULL,130,Fighting,NULL,Guts,No Guard,Steadfast,NULL,90,130,80,65,85,55,505,1087,Trade Or Use Linking Cord In Legends: Arceus
+2080,68,Machamp,Gigantamax,0,Fighting,NULL,Guts,No Guard,Steadfast,NULL,90,130,80,65,85,55,505,NULL,NULL
+69,69,Bellsprout,NULL,4,Grass,Poison,Chlorophyll,NULL,Gluttony,NULL,50,75,35,70,30,40,300,NULL,NULL
+70,70,Weepinbell,NULL,6.4,Grass,Poison,Chlorophyll,NULL,Gluttony,NULL,65,90,50,85,45,55,390,1109,Level 21
+71,71,Victreebel,NULL,15.5,Grass,Poison,Chlorophyll,NULL,Gluttony,NULL,80,105,65,100,70,70,490,1128,Leaf Stone
+72,72,Tentacool,NULL,45.5,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,NULL,40,40,35,50,100,70,335,NULL,NULL
+73,73,Tentacruel,NULL,55,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,NULL,80,70,65,80,120,100,515,1150,Level 30
+74,74,Geodude,NULL,20,Rock,Ground,Rock Head,Sturdy,Sand Veil,NULL,40,80,100,30,30,20,300,NULL,NULL
+2086,74,Geodude,Alola,20.3,Rock,Electric,Magnet Pull,Sturdy,Galvanize,NULL,40,80,100,30,30,20,300,NULL,NULL
+75,75,Graveler,NULL,105,Rock,Ground,Rock Head,Sturdy,Sand Veil,NULL,55,95,115,45,45,35,390,1265,Level 25
+2087,75,Graveler,Alola,110,Rock,Electric,Magnet Pull,Sturdy,Galvanize,NULL,55,95,115,45,45,35,390,1361,Level 25
+76,76,Golem,NULL,300,Rock,Ground,Rock Head,Sturdy,Sand Veil,NULL,80,120,130,55,65,45,495,1276,NULL
+2088,76,Golem,NULL,300,Rock,Ground,Rock Head,Sturdy,Sand Veil,NULL,80,120,130,55,65,45,495,1276,Trade Or Use Linking Cord In Legends: Arceus
+2089,76,Golem,Alola,316,Rock,Electric,Magnet Pull,Sturdy,Galvanize,NULL,80,120,130,55,65,45,495,1362,NULL
+77,77,Ponyta,NULL,30,Fire,NULL,Run Away,Flash Fire,Flame Body,NULL,50,85,55,65,65,90,410,NULL,NULL
+2090,77,Ponyta,Galar,24,Psychic,NULL,Run Away,Pastel Veil,Anticipation,NULL,50,85,55,65,65,90,410,NULL,NULL
+78,78,Rapidash,NULL,95,Fire,NULL,Run Away,Flash Fire,Flame Body,NULL,65,100,70,80,80,105,500,1297,Level 40
+2091,78,Rapidash,Galar,80,Psychic,Fairy,Run Away,Pastel Veil,Anticipation,NULL,65,100,70,80,80,105,500,1364,Level 40
+79,79,Slowpoke,NULL,36,Water,Psychic,Oblivious,Own Tempo,Regenerator,NULL,90,65,65,40,40,15,315,NULL,NULL
+2092,79,Slowpoke,Galar,36,Psychic,NULL,Gluttony,Own Tempo,Regenerator,NULL,90,65,65,40,40,15,315,NULL,NULL
+80,80,Slowbro,NULL,78.5,Water,Psychic,Oblivious,Own Tempo,Regenerator,NULL,95,75,110,100,80,30,490,1319,Level 37
+2093,80,Slowbro,Mega,120,Water,Psychic,Shell Armor,NULL,NULL,NULL,95,75,180,130,80,30,590,NULL,NULL
+2094,80,Slowbro,Galar,70.5,Poison,Psychic,Quick Draw,Own Tempo,Regenerator,NULL,95,100,95,100,70,30,490,1366,Galarica Cuff
+81,81,Magnemite,NULL,6,Electric,Steel,Magnet Pull,Sturdy,Analytic,NULL,25,35,70,95,55,45,325,NULL,NULL
+82,82,Magneton,NULL,60,Electric,Steel,Magnet Pull,Sturdy,Analytic,NULL,50,60,95,120,70,70,465,46,Level 30
+83,83,Farfetch'd,NULL,15,Normal,Flying,Keen Eye,Inner Focus,Defiant,NULL,52,90,55,58,62,60,377,NULL,NULL
+2097,83,Farfetch'd,Galar,42,Fighting,NULL,Steadfast,NULL,Scrappy,NULL,52,95,55,58,62,55,377,NULL,NULL
+84,84,Doduo,NULL,39.2,Normal,Flying,Run Away,Early Bird,Tangled Feet,NULL,35,85,45,35,35,75,310,NULL,NULL
+85,85,Dodrio,NULL,85.2,Normal,Flying,Run Away,Early Bird,Tangled Feet,NULL,60,110,70,60,60,110,470,1343,Level 31
+86,86,Seel,NULL,90,Water,NULL,Thick Fat,Hydration,Ice Body,NULL,65,45,55,45,70,45,325,NULL,NULL
+87,87,Dewgong,NULL,120,Water,Ice,Thick Fat,Hydration,Ice Body,NULL,90,70,80,70,95,70,475,1345,Level 34
+88,88,Grimer,NULL,30,Poison,NULL,Stench,Sticky Hold,Poison Touch,NULL,80,80,50,40,50,25,325,NULL,NULL
+2102,88,Grimer,Alola,42,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,NULL,80,80,50,40,50,25,325,NULL,NULL
+89,89,Muk,NULL,30,Poison,NULL,Stench,Sticky Hold,Poison Touch,NULL,105,105,75,65,100,50,500,1347,Level 38
+2103,89,Muk,Alola,52,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,NULL,105,105,75,65,100,50,500,1372,Level 38
+90,90,Shellder,NULL,4,Water,NULL,Shell Armor,Skill Link,Overcoat,NULL,30,65,100,45,25,40,305,NULL,NULL
+91,91,Cloyster,NULL,132.5,Water,Ice,Shell Armor,Skill Link,Overcoat,NULL,50,95,180,85,45,70,525,1349,Water Stone
+92,92,Gastly,NULL,0.1,Ghost,Poison,Levitate,NULL,NULL,NULL,30,35,30,100,35,80,310,NULL,NULL
+93,93,Haunter,NULL,0.1,Ghost,Poison,Levitate,NULL,NULL,NULL,45,50,45,115,55,95,405,1351,Level 25
+94,94,Gengar,NULL,40.5,Ghost,Poison,Cursed Body,NULL,NULL,NULL,60,65,60,130,75,110,500,1352,NULL
+2108,94,Gengar,NULL,40.5,Ghost,Poison,Cursed Body,NULL,NULL,NULL,60,65,60,130,75,110,500,1352,Trade Or Use Linking Cord In Legends: Arceus
+2109,94,Gengar,Mega,40.5,Ghost,Poison,Shadow Tag,NULL,NULL,NULL,60,65,80,170,95,130,600,NULL,NULL
+2110,94,Gengar,Gigantamax,0,Ghost,Poison,Cursed Body,NULL,NULL,NULL,60,65,60,130,75,110,500,NULL,NULL
+95,95,Onix,NULL,210,Rock,Ground,Rock Head,Sturdy,Weak Armor,NULL,35,45,160,30,45,70,385,NULL,NULL
+96,96,Drowzee,NULL,32.4,Psychic,NULL,Insomnia,Forewarn,Inner Focus,NULL,60,48,45,43,90,42,328,NULL,NULL
+97,97,Hypno,NULL,75.6,Psychic,NULL,Insomnia,Forewarn,Inner Focus,NULL,85,73,70,73,115,67,483,1355,Level 26
+98,98,Krabby,NULL,6.5,Water,NULL,Hyper Cutter,Shell Armor,Sheer Force,NULL,30,105,90,25,25,50,325,NULL,NULL
+99,99,Kingler,NULL,60,Water,NULL,Hyper Cutter,Shell Armor,Sheer Force,NULL,55,130,115,50,50,75,475,1357,Level 28
+2115,99,Kingler,Gigantamax,0,Water,NULL,Hyper Cutter,Shell Armor,Sheer Force,NULL,55,130,115,50,50,75,475,NULL,NULL
+100,100,Voltorb,NULL,10.5,Electric,NULL,Soundproof,Static,Aftermath,NULL,40,30,50,55,55,100,330,NULL,NULL
+2116,100,Voltorb,Hisui,13,Electric,Grass,Soundproof,Static,Aftermath,NULL,40,30,50,55,55,100,330,NULL,NULL
+101,101,Electrode,NULL,66.6,Electric,NULL,Soundproof,Static,Aftermath,NULL,60,50,70,80,80,150,490,47,Level 30
+2117,101,Electrode,Hisui,71,Electric,Grass,Soundproof,Static,Aftermath,NULL,60,50,70,80,80,150,490,1620,Leaf Stone
+102,102,Exeggcute,NULL,2.5,Grass,Psychic,Chlorophyll,NULL,Harvest,NULL,60,40,80,60,45,40,325,NULL,NULL
+103,103,Exeggutor,NULL,120,Grass,Psychic,Chlorophyll,NULL,Harvest,NULL,95,95,85,125,75,55,530,136,Leaf Stone
+2119,103,Exeggutor,NULL,120,Grass,Psychic,Chlorophyll,NULL,Harvest,NULL,95,95,85,125,75,55,530,136,Leaf Stone in Ultra Space - Only Available In USUM
+2120,103,Exeggutor,NULL,120,Grass,Psychic,Chlorophyll,NULL,Harvest,NULL,95,95,85,125,75,55,530,136,Leaf Stone
+2121,103,Exeggutor,Alola,415.6,Grass,Dragon,Frisk,NULL,Harvest,NULL,95,105,85,125,75,45,530,136,Leaf Stone in Alola
+2122,103,Exeggutor,Alola,415.6,Grass,Dragon,Frisk,NULL,Harvest,NULL,95,105,85,125,75,45,530,136,NULL
+104,104,Cubone,NULL,6.5,Ground,NULL,Rock Head,Lightning Rod,Battle Armor,NULL,50,50,95,40,50,35,320,NULL,NULL
+105,105,Marowak,NULL,45,Ground,NULL,Rock Head,Lightning Rod,Battle Armor,NULL,60,80,110,50,80,45,425,138,Level 28
+2124,105,Marowak,NULL,45,Ground,NULL,Rock Head,Lightning Rod,Battle Armor,NULL,60,80,110,50,80,45,425,138,Level 28
+2125,105,Marowak,NULL,45,Ground,NULL,Rock Head,Lightning Rod,Battle Armor,NULL,60,80,110,50,80,45,425,138,Level 28 in Ultra Space - Only Available In USUM
+2126,105,Marowak,Alola,34,Ghost,Fire,Cursed Body,Lightning Rod,Rock Head,NULL,60,80,110,50,80,45,425,138,Level 28 At Night in Alola
+2127,105,Marowak,Alola,34,Ghost,Fire,Cursed Body,Lightning Rod,Rock Head,NULL,60,80,110,50,80,45,425,138,NULL
+106,106,Hitmonlee,NULL,49.8,Fighting,NULL,Limber,Reckless,Unburden,NULL,50,120,53,35,110,87,455,360,Level 20 With Attack > Defense
+107,107,Hitmonchan,NULL,50.2,Fighting,NULL,Keen Eye,Iron Fist,Inner Focus,NULL,50,105,79,35,110,76,455,360,Level 20 With Attack < Defense
+108,108,Lickitung,NULL,65.5,Normal,NULL,Own Tempo,Oblivious,Cloud Nine,NULL,90,55,75,60,75,30,385,NULL,NULL
+109,109,Koffing,NULL,1,Poison,NULL,Levitate,Neutralizing Gas,Stench,NULL,40,65,95,60,45,35,340,NULL,NULL
+110,110,Weezing,NULL,9.5,Poison,NULL,Levitate,Neutralizing Gas,Stench,NULL,65,90,120,85,70,60,490,143,Level 35
+2132,110,Weezing,Galar,16,Poison,Fairy,Levitate,Neutralizing Gas,Misty Surge,NULL,65,90,120,85,70,60,490,143,Level 35 in Galar
+111,111,Rhyhorn,NULL,115,Ground,Rock,Lightning Rod,Rock Head,Reckless,NULL,80,85,95,30,30,25,345,NULL,NULL
+112,112,Rhydon,NULL,120,Ground,Rock,Lightning Rod,Rock Head,Reckless,NULL,105,130,120,45,45,40,485,145,Level 42
+113,113,Chansey,NULL,34.6,Normal,NULL,Natural Cure,Serene Grace,Healer,NULL,250,5,5,35,105,50,450,638,Holding An Oval Stone During The Day
+114,114,Tangela,NULL,35,Grass,NULL,Chlorophyll,Leaf Guard,Regenerator,NULL,65,55,115,100,40,60,435,NULL,NULL
+115,115,Kangaskhan,NULL,80,Normal,NULL,Early Bird,Scrappy,Inner Focus,NULL,105,95,80,40,80,90,490,NULL,NULL
+2137,115,Kangaskhan,Mega,100,Normal,NULL,Parental Bond,NULL,NULL,NULL,105,125,100,60,100,100,590,NULL,NULL
+116,116,Horsea,NULL,8,Water,NULL,Swift Swim,Sniper,Damp,NULL,30,40,70,70,25,60,295,NULL,NULL
+117,117,Seadra,NULL,25,Water,NULL,Poison Point,Sniper,Damp,NULL,55,65,95,95,45,85,440,212,Level 32
+118,118,Goldeen,NULL,15,Water,NULL,Swift Swim,Water Veil,Lightning Rod,NULL,45,67,60,35,50,63,320,NULL,NULL
+119,119,Seaking,NULL,39,Water,NULL,Swift Swim,Water Veil,Lightning Rod,NULL,80,92,65,65,80,68,450,214,Level 33
+120,120,Staryu,NULL,34.5,Water,NULL,Illuminate,Natural Cure,Analytic,NULL,30,45,55,70,55,85,340,NULL,NULL
+121,121,Starmie,NULL,80,Water,Psychic,Illuminate,Natural Cure,Analytic,NULL,60,75,85,100,85,115,520,216,Water Stone
+122,122,Mr. Mime,NULL,54.5,Psychic,Fairy,Soundproof,Filter,Technician,NULL,40,45,65,100,120,90,460,637,Knowing Mimic
+2144,122,Mr. Mime,Galar,56,Ice,Psychic,Vital Spirit,Screen Cleaner,Ice Body,NULL,50,65,65,90,90,100,460,637,Knowing Mimic in Galar
+123,123,Scyther,NULL,56,Bug,Flying,Swarm,Technician,Steadfast,NULL,70,110,80,55,80,105,500,NULL,NULL
+124,124,Jynx,NULL,40.6,Ice,Psychic,Oblivious,Forewarn,Dry Skin,NULL,65,50,35,115,95,95,455,362,Level 30
+125,125,Electabuzz,NULL,30,Electric,NULL,Static,NULL,Vital Spirit,NULL,65,83,57,95,85,105,490,363,Level 30
+126,126,Magmar,NULL,44.5,Fire,NULL,Flame Body,NULL,Vital Spirit,NULL,65,95,57,100,85,93,495,364,Level 30
+127,127,Pinsir,NULL,55,Bug,NULL,Hyper Cutter,Mold Breaker,Moxie,NULL,65,125,100,55,70,85,500,NULL,NULL
+2149,127,Pinsir,Mega,59,Bug,Flying,Aerilate,NULL,NULL,NULL,65,155,120,65,90,105,600,NULL,NULL
+128,128,Tauros,NULL,88.4,Normal,NULL,Intimidate,Anger Point,Sheer Force,NULL,75,100,95,40,70,110,490,NULL,NULL
+2150,128,Tauros,Paldean-Combat,115,Fighting,NULL,Intimidate,Anger Point,Cud Chew,NULL,75,110,105,30,70,100,490,NULL,NULL
+2151,128,Tauros,Paldean-Blaze,85,Fighting,Fire,Intimidate,Anger Point,Cud Chew,NULL,75,110,105,30,70,100,490,NULL,NULL
+2152,128,Tauros,Paldean-Aqua,110,Fighting,Water,Intimidate,Anger Point,Cud Chew,NULL,75,110,105,30,70,100,490,NULL,NULL
+129,129,Magikarp,NULL,10,Water,NULL,Swift Swim,NULL,Rattled,NULL,20,10,55,15,20,80,200,NULL,NULL
+130,130,Gyarados,NULL,235,Water,Flying,Intimidate,NULL,Moxie,NULL,95,125,79,60,100,81,540,225,Level 20
+2154,130,Gyarados,Mega,305,Water,Dark,Mold Breaker,NULL,NULL,NULL,95,155,109,70,130,81,640,NULL,NULL
+131,131,Lapras,NULL,220,Water,Ice,Water Absorb,Shell Armor,Hydration,NULL,130,85,80,85,95,60,535,NULL,NULL
+2155,131,Lapras,Gigantamax,0,Water,Ice,Water Absorb,Shell Armor,Hydration,NULL,130,85,80,85,95,60,535,NULL,NULL
+132,132,Ditto,NULL,4,Normal,NULL,Limber,NULL,Imposter,NULL,48,48,48,48,48,48,288,NULL,NULL
+133,133,Eevee,NULL,6.5,Normal,NULL,Run Away,Adaptability,Anticipation,NULL,55,55,50,45,65,55,325,NULL,NULL
+2157,133,Eevee,Starter,6.5,Normal,NULL,Run Away,Adaptability,Anticipation,NULL,65,75,70,65,85,75,435,NULL,NULL
+2158,133,Eevee,Gigantamax,0,Normal,NULL,Run Away,Adaptability,Anticipation,NULL,55,55,50,45,65,55,325,NULL,NULL
+134,134,Vaporeon,NULL,29,Water,NULL,Water Absorb,NULL,Hydration,NULL,130,65,60,110,95,65,525,228,Water Stone
+135,135,Jolteon,NULL,24.5,Electric,NULL,Volt Absorb,NULL,Quick Feet,NULL,65,65,60,110,95,130,525,228,Thunder Stone
+136,136,Flareon,NULL,25,Fire,NULL,Flash Fire,NULL,Guts,NULL,65,130,60,95,110,65,525,228,Fire Stone
+137,137,Porygon,NULL,36.5,Normal,NULL,Trace,Download,Analytic,NULL,65,60,70,85,75,40,395,NULL,NULL
+138,138,Omanyte,NULL,7.5,Rock,Water,Swift Swim,Shell Armor,Weak Armor,NULL,35,40,100,90,55,35,355,NULL,NULL
+139,139,Omastar,NULL,35,Rock,Water,Swift Swim,Shell Armor,Weak Armor,NULL,70,60,125,115,70,55,495,233,Level 40
+140,140,Kabuto,NULL,11.5,Rock,Water,Swift Swim,Battle Armor,Weak Armor,NULL,30,80,90,55,45,55,355,NULL,NULL
+141,141,Kabutops,NULL,40.5,Rock,Water,Swift Swim,Battle Armor,Weak Armor,NULL,60,115,105,65,70,80,495,235,Level 40
+142,142,Aerodactyl,NULL,59,Rock,Flying,Rock Head,Pressure,Unnerve,NULL,80,105,65,60,75,130,515,NULL,NULL
+2167,142,Aerodactyl,Mega,79,Rock,Flying,Tough Claws,NULL,NULL,NULL,80,135,85,70,95,150,615,NULL,NULL
+143,143,Snorlax,NULL,460,Normal,NULL,Immunity,Thick Fat,Gluttony,NULL,160,110,65,65,110,30,540,644,NULL
+2168,143,Snorlax,Gigantamax,0,Normal,NULL,Immunity,Thick Fat,Gluttony,NULL,160,110,65,65,110,30,540,NULL,NULL
+144,144,Articuno,NULL,55.4,Ice,Flying,Pressure,NULL,Snow Cloak,NULL,90,85,100,95,125,85,580,NULL,NULL
+2169,144,Articuno,Galar,50.9,Psychic,Flying,Competitive,NULL,NULL,NULL,90,85,85,125,100,95,580,NULL,NULL
+145,145,Zapdos,NULL,52.6,Electric,Flying,Pressure,NULL,Static,NULL,90,90,85,125,90,100,580,NULL,NULL
+2170,145,Zapdos,Galar,58.2,Fighting,Flying,Defiant,NULL,NULL,NULL,90,125,90,85,90,100,580,NULL,NULL
+146,146,Moltres,NULL,60,Fire,Flying,Pressure,NULL,Flame Body,NULL,90,100,90,125,85,90,580,NULL,NULL
+2171,146,Moltres,Galar,66,Dark,Flying,Berserk,NULL,NULL,NULL,90,85,90,100,125,90,580,NULL,NULL
+147,147,Dratini,NULL,3.3,Dragon,NULL,Shed Skin,NULL,Marvel Scale,NULL,41,64,45,50,50,50,300,NULL,NULL
+148,148,Dragonair,NULL,16.5,Dragon,NULL,Shed Skin,NULL,Marvel Scale,NULL,61,84,65,70,70,70,420,242,Level 30
+149,149,Dragonite,NULL,210,Dragon,Flying,Inner Focus,NULL,Multiscale,NULL,91,134,95,100,100,80,600,243,Level 55
+150,150,Mewtwo,NULL,122,Psychic,NULL,Pressure,NULL,Unnerve,NULL,106,110,90,154,90,130,680,NULL,NULL
+2175,150,Mewtwo,Mega-Y,33,Psychic,NULL,Insomnia,NULL,NULL,NULL,106,150,70,194,120,140,780,NULL,NULL
+2176,150,Mewtwo,Mega-X,127,Psychic,Fighting,Steadfast,NULL,NULL,NULL,106,190,100,154,100,130,780,NULL,NULL
+151,151,Mew,NULL,4,Psychic,NULL,Synchronize,NULL,NULL,NULL,100,100,100,100,100,100,600,NULL,NULL
+152,152,Chikorita,NULL,6.4,Grass,NULL,Overgrow,NULL,Leaf Guard,NULL,45,49,65,49,65,45,318,NULL,NULL
+153,153,Bayleef,NULL,15.8,Grass,NULL,Overgrow,NULL,Leaf Guard,NULL,60,62,80,63,80,60,405,245,Level 16
+154,154,Meganium,NULL,100.5,Grass,NULL,Overgrow,NULL,Leaf Guard,NULL,80,82,100,83,100,80,525,246,Level 32
+155,155,Cyndaquil,NULL,7.9,Fire,NULL,Blaze,NULL,Flash Fire,NULL,39,52,43,60,50,65,309,NULL,NULL
+156,156,Quilava,NULL,19,Fire,NULL,Blaze,NULL,Flash Fire,NULL,58,64,58,80,65,80,405,248,Level 14
+157,157,Typhlosion,NULL,79.5,Fire,NULL,Blaze,NULL,Flash Fire,NULL,78,84,78,109,85,100,534,249,Level 36
+2183,157,Typhlosion,Hisui,69.8,Fire,Ghost,Blaze,NULL,Frisk,NULL,73,84,78,119,85,95,534,249,Level 36 in Hisui
+2184,157,Typhlosion,Hisui,69.8,Fire,Ghost,Blaze,NULL,Frisk,NULL,73,84,78,119,85,95,534,249,NULL
+158,158,Totodile,NULL,9.5,Water,NULL,Torrent,NULL,Sheer Force,NULL,50,65,64,44,48,43,314,NULL,NULL
+159,159,Croconaw,NULL,25,Water,NULL,Torrent,NULL,Sheer Force,NULL,65,80,80,59,63,58,405,251,Level 18
+160,160,Feraligatr,NULL,88.8,Water,NULL,Torrent,NULL,Sheer Force,NULL,85,105,100,79,83,78,530,252,Level 30
+161,161,Sentret,NULL,6,Normal,NULL,Run Away,Keen Eye,Frisk,NULL,35,46,34,35,45,20,215,NULL,NULL
+162,162,Furret,NULL,32.5,Normal,NULL,Run Away,Keen Eye,Frisk,NULL,85,76,64,45,55,90,415,254,Level 15
+163,163,Hoothoot,NULL,21.2,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,NULL,60,30,30,36,56,50,262,NULL,NULL
+164,164,Noctowl,NULL,40.8,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,NULL,100,50,50,86,96,70,452,256,Level 20
+165,165,Ledyba,NULL,10.8,Bug,Flying,Swarm,Early Bird,Rattled,NULL,40,20,30,40,80,55,265,NULL,NULL
+166,166,Ledian,NULL,35.6,Bug,Flying,Swarm,Early Bird,Iron Fist,NULL,55,35,50,55,110,85,390,258,Level 18
+167,167,Spinarak,NULL,8.5,Bug,Poison,Swarm,Insomnia,Sniper,NULL,40,60,40,40,40,30,250,NULL,NULL
+168,168,Ariados,NULL,33.5,Bug,Poison,Swarm,Insomnia,Sniper,NULL,70,90,70,60,70,40,400,260,Level 22
+169,169,Crobat,NULL,75,Poison,Flying,Inner Focus,NULL,Infiltrator,NULL,85,90,80,70,80,130,535,62,NULL
+170,170,Chinchou,NULL,12,Water,Electric,Volt Absorb,Illuminate,Water Absorb,NULL,75,38,38,56,56,67,330,NULL,NULL
+171,171,Lanturn,NULL,22.5,Water,Electric,Volt Absorb,Illuminate,Water Absorb,NULL,125,58,58,76,76,67,460,262,Level 27
+172,172,Pichu,NULL,2,Electric,NULL,Static,NULL,Lightning Rod,NULL,20,40,15,35,35,60,205,NULL,NULL
+173,173,Cleffa,NULL,3,Fairy,NULL,Cute Charm,Magic Bounce,Friend Guard,NULL,50,25,28,45,55,15,218,NULL,NULL
+174,174,Igglybuff,NULL,1,Normal,Fairy,Cute Charm,Competitive,Friend Guard,NULL,90,30,15,40,20,15,210,NULL,NULL
+175,175,Togepi,NULL,1.5,Fairy,NULL,Hustle,Serene Grace,Super Luck,NULL,35,20,65,40,65,20,245,NULL,NULL
+176,176,Togetic,NULL,3.2,Fairy,Flying,Hustle,Serene Grace,Super Luck,NULL,55,40,85,80,105,40,405,264,NULL
+177,177,Natu,NULL,2,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,NULL,40,50,45,70,45,70,320,NULL,NULL
+178,178,Xatu,NULL,15,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,NULL,65,75,70,95,70,95,470,266,Level 25
+179,179,Mareep,NULL,7.8,Electric,NULL,Static,NULL,Plus,NULL,55,40,40,65,45,35,280,NULL,NULL
+180,180,Flaaffy,NULL,13.3,Electric,NULL,Static,NULL,Plus,NULL,70,55,55,80,60,45,365,278,Level 15
+181,181,Ampharos,NULL,61.5,Electric,NULL,Static,NULL,Plus,NULL,90,75,85,115,90,55,510,279,Level 30
+2208,181,Ampharos,Mega,61.5,Electric,Dragon,Mold Breaker,NULL,NULL,NULL,90,95,105,165,110,45,610,NULL,NULL
+182,182,Bellossom,NULL,5.8,Grass,NULL,Chlorophyll,NULL,Healer,NULL,75,80,95,90,100,50,490,65,Sun Stone
+183,183,Marill,NULL,8.5,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,NULL,70,20,50,20,50,40,250,426,NULL
+184,184,Azumarill,NULL,28.5,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,NULL,100,50,80,60,80,50,420,283,Level 18
+185,185,Sudowoodo,NULL,38,Rock,NULL,Sturdy,Rock Head,Rattled,NULL,70,110,115,30,65,30,420,636,Knowing Mimic
+186,186,Politoed,NULL,33.9,Water,NULL,Water Absorb,Damp,Drizzle,NULL,90,75,75,90,100,70,500,982,King's Rock
+187,187,Hoppip,NULL,0.5,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,NULL,35,35,40,35,55,50,250,NULL,NULL
+188,188,Skiploom,NULL,1,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,NULL,55,45,50,45,65,80,340,287,Level 18
+189,189,Jumpluff,NULL,3,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,NULL,75,55,70,55,95,110,460,288,Level 27
+190,190,Aipom,NULL,11.5,Normal,NULL,Run Away,Pickup,Skill Link,NULL,55,70,55,40,55,85,360,NULL,NULL
+191,191,Sunkern,NULL,1.8,Grass,NULL,Chlorophyll,Solar Power,Early Bird,NULL,30,30,30,30,30,30,180,NULL,NULL
+192,192,Sunflora,NULL,8.5,Grass,NULL,Chlorophyll,Solar Power,Early Bird,NULL,75,75,55,105,85,30,425,291,Sun Stone
+193,193,Yanma,NULL,38,Bug,Flying,Speed Boost,Compound Eyes,Frisk,NULL,65,65,45,75,45,95,390,NULL,NULL
+194,194,Wooper,NULL,8.5,Water,Ground,Damp,Water Absorb,Unaware,NULL,55,45,45,25,25,15,210,NULL,NULL
+2221,194,Wooper,Paldea,11,Poison,Ground,Poison Point,Water Absorb,NULL,NULL,55,45,45,25,25,15,210,NULL,NULL
+195,195,Quagsire,NULL,75,Water,Ground,Damp,Water Absorb,Unaware,NULL,95,85,85,65,65,35,430,294,Level 20
+196,196,Espeon,NULL,26.5,Psychic,NULL,Synchronize,NULL,Magic Bounce,NULL,65,65,60,130,95,110,525,228,During The Day
+197,197,Umbreon,NULL,27,Dark,NULL,Synchronize,NULL,Inner Focus,NULL,95,65,110,60,130,65,525,228,During The Night
+198,198,Murkrow,NULL,2.1,Dark,Flying,Insomnia,Super Luck,Prankster,NULL,60,85,42,85,42,91,405,NULL,NULL
+199,199,Slowking,NULL,79.5,Water,Psychic,Oblivious,Own Tempo,Regenerator,NULL,95,75,80,100,110,30,490,1319,King's Rock
+2226,199,Slowking,Galar,79.5,Poison,Psychic,Curious Medicine,Own Tempo,Regenerator,NULL,95,65,80,110,110,30,490,1366,Galarica Wreath
+200,200,Misdreavus,NULL,1,Ghost,NULL,Levitate,NULL,NULL,NULL,60,60,60,85,85,85,435,NULL,NULL
+201,201,Unown,NULL,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2228,201,Unown,Z,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2229,201,Unown,Y,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2230,201,Unown,X,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2231,201,Unown,W,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2232,201,Unown,V,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2233,201,Unown,U,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2234,201,Unown,T,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2235,201,Unown,S,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2236,201,Unown,R,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2237,201,Unown,Q,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2238,201,Unown,P,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2239,201,Unown,O,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2240,201,Unown,N,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2241,201,Unown,M,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2242,201,Unown,L,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2243,201,Unown,K,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2244,201,Unown,J,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2245,201,Unown,I,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2246,201,Unown,H,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2247,201,Unown,G,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2248,201,Unown,E,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2249,201,Unown,D,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2250,201,Unown,C,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2251,201,Unown,B,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2252,201,Unown,A,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2253,201,Unown,?,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+2254,201,Unown,!,5,Psychic,NULL,Levitate,NULL,NULL,NULL,48,72,48,72,48,48,336,NULL,NULL
+202,202,Wobbuffet,NULL,28.5,Psychic,NULL,Shadow Tag,NULL,Telepathy,NULL,190,33,58,33,58,33,405,488,Level 15
+203,203,Girafarig,NULL,41.5,Normal,Psychic,Inner Focus,Early Bird,Sap Sipper,NULL,70,80,65,90,65,85,455,NULL,NULL
+204,204,Pineco,NULL,7.2,Bug,NULL,Sturdy,NULL,Overcoat,NULL,50,65,90,35,35,15,290,NULL,NULL
+205,205,Forretress,NULL,125.8,Bug,Steel,Sturdy,NULL,Overcoat,NULL,75,90,140,60,60,40,465,328,Level 31
+206,206,Dunsparce,NULL,14,Normal,NULL,Serene Grace,Run Away,Rattled,NULL,100,70,70,65,65,45,415,NULL,NULL
+207,207,Gligar,NULL,64.8,Ground,Flying,Hyper Cutter,Sand Veil,Immunity,NULL,65,75,105,35,65,85,430,NULL,NULL
+208,208,Steelix,NULL,400,Steel,Ground,Rock Head,Sturdy,Sheer Force,NULL,75,85,200,55,65,30,510,1354,Metal Coat
+2261,208,Steelix,Mega,740,Steel,Ground,Sand Force,NULL,NULL,NULL,75,125,230,55,95,30,610,NULL,NULL
+209,209,Snubbull,NULL,7.8,Fairy,NULL,Intimidate,Run Away,Rattled,NULL,60,80,50,40,40,30,300,NULL,NULL
+210,210,Granbull,NULL,48.7,Fairy,NULL,Intimidate,Quick Feet,Rattled,NULL,90,120,75,60,60,45,450,333,Level 23
+211,211,Qwilfish,NULL,3.9,Water,Poison,Poison Point,Swift Swim,Intimidate,NULL,65,95,85,55,55,85,440,NULL,NULL
+2264,211,Qwilfish,Hisui,3.9,Dark,Poison,Poison Point,Swift Swim,Intimidate,NULL,65,95,85,55,55,85,440,NULL,NULL
+212,212,Scizor,NULL,118,Bug,Steel,Swarm,Technician,Light Metal,NULL,70,130,100,55,80,65,500,219,Metal Coat
+2265,212,Scizor,Mega,125,Bug,Steel,Technician,NULL,NULL,NULL,70,150,140,65,100,75,600,NULL,NULL
+213,213,Shuckle,NULL,20.5,Bug,Rock,Sturdy,Gluttony,Contrary,NULL,20,10,230,10,230,5,505,NULL,NULL
+214,214,Heracross,NULL,54,Bug,Fighting,Swarm,Guts,Moxie,NULL,80,125,75,40,95,85,500,NULL,NULL
+2267,214,Heracross,Mega,62.5,Bug,Fighting,Skill Link,NULL,NULL,NULL,80,185,115,40,105,75,600,NULL,NULL
+215,215,Sneasel,NULL,28,Dark,Ice,Inner Focus,Keen Eye,Pickpocket,NULL,55,95,55,35,75,115,430,NULL,NULL
+2268,215,Sneasel,Hisui,27,Fighting,Poison,Inner Focus,Keen Eye,Pickpocket,NULL,55,95,55,35,75,115,430,NULL,NULL
+216,216,Teddiursa,NULL,8.8,Normal,NULL,Pickup,Quick Feet,Honey Gather,NULL,60,80,50,50,50,40,330,NULL,NULL
+217,217,Ursaring,NULL,125.8,Normal,NULL,Guts,Quick Feet,Unnerve,NULL,90,130,75,75,75,55,500,340,Level 30
+218,218,Slugma,NULL,35,Fire,NULL,Magma Armor,Flame Body,Weak Armor,NULL,40,40,40,70,40,20,250,NULL,NULL
+219,219,Magcargo,NULL,55,Fire,Rock,Magma Armor,Flame Body,Weak Armor,NULL,60,50,120,90,80,30,430,342,Level 38
+220,220,Swinub,NULL,6.5,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,NULL,50,50,40,30,30,50,250,NULL,NULL
+221,221,Piloswine,NULL,55.8,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,NULL,100,100,80,60,60,50,450,344,Level 33
+222,222,Corsola,NULL,5,Water,Rock,Hustle,Natural Cure,Regenerator,NULL,65,55,95,65,95,35,410,NULL,NULL
+2275,222,Corsola,Galar,0.5,Ghost,NULL,Weak Armor,NULL,Cursed Body,NULL,60,55,100,65,100,30,410,NULL,NULL
+223,223,Remoraid,NULL,12,Water,NULL,Hustle,Sniper,Moody,NULL,35,65,35,65,35,65,300,NULL,NULL
+224,224,Octillery,NULL,28.5,Water,NULL,Suction Cups,Sniper,Moody,NULL,75,105,75,105,75,45,480,347,Level 25
+225,225,Delibird,NULL,16,Ice,Flying,Vital Spirit,NULL,Insomnia,NULL,45,55,45,65,45,75,330,NULL,NULL
+226,226,Mantine,NULL,220,Water,Flying,Swift Swim,Water Absorb,Water Veil,NULL,85,40,70,80,140,70,485,656,With Remoraid In The Party
+227,227,Skarmory,NULL,50.5,Steel,Flying,Keen Eye,Sturdy,Weak Armor,NULL,65,80,140,40,70,70,465,NULL,NULL
+228,228,Houndour,NULL,10.8,Dark,Fire,Early Bird,Flash Fire,Unnerve,NULL,45,60,30,80,50,65,330,NULL,NULL
+229,229,Houndoom,NULL,35,Dark,Fire,Early Bird,Flash Fire,Unnerve,NULL,75,90,50,110,80,95,500,352,Level 24
+2282,229,Houndoom,Mega,49.5,Dark,Fire,Solar Power,NULL,NULL,NULL,75,90,90,140,90,115,600,NULL,NULL
+230,230,Kingdra,NULL,152,Water,Dragon,Swift Swim,Sniper,Damp,NULL,75,95,95,95,95,85,540,213,Dragon Scale
+231,231,Phanpy,NULL,33.5,Ground,NULL,Pickup,NULL,Sand Veil,NULL,90,60,60,40,40,40,330,NULL,NULL
+232,232,Donphan,NULL,120,Ground,NULL,Sturdy,NULL,Sand Veil,NULL,90,120,120,60,60,50,500,355,Level 25
+233,233,Porygon2,NULL,32.5,Normal,NULL,Trace,Download,Analytic,NULL,85,80,90,105,95,60,515,232,Upgrade
+234,234,Stantler,NULL,71.2,Normal,NULL,Intimidate,Frisk,Sap Sipper,NULL,73,95,62,85,65,85,465,NULL,NULL
+235,235,Smeargle,NULL,58,Normal,NULL,Own Tempo,Technician,Moody,NULL,55,20,35,20,45,75,250,NULL,NULL
+236,236,Tyrogue,NULL,21,Fighting,NULL,Guts,Steadfast,Vital Spirit,NULL,35,35,35,35,35,35,210,NULL,NULL
+237,237,Hitmontop,NULL,48,Fighting,NULL,Intimidate,Technician,Steadfast,NULL,50,95,95,35,110,70,455,360,Level 20 With Attack = Defense
+238,238,Smoochum,NULL,6,Ice,Psychic,Oblivious,Forewarn,Hydration,NULL,45,30,15,85,65,65,305,NULL,NULL
+239,239,Elekid,NULL,23.5,Electric,NULL,Static,NULL,Vital Spirit,NULL,45,63,37,65,55,95,360,NULL,NULL
+240,240,Magby,NULL,21.4,Fire,NULL,Flame Body,NULL,Vital Spirit,NULL,45,75,37,70,55,83,365,NULL,NULL
+241,241,Miltank,NULL,75.5,Normal,NULL,Thick Fat,Scrappy,Sap Sipper,NULL,95,80,105,40,70,100,490,NULL,NULL
+242,242,Blissey,NULL,46.8,Normal,NULL,Natural Cure,Serene Grace,Healer,NULL,255,10,10,75,135,55,540,147,NULL
+243,243,Raikou,NULL,178,Electric,NULL,Pressure,NULL,Inner Focus,NULL,90,85,75,115,100,115,580,NULL,NULL
+244,244,Entei,NULL,198,Fire,NULL,Pressure,NULL,Inner Focus,NULL,115,115,85,90,75,100,580,NULL,NULL
+245,245,Suicune,NULL,187,Water,NULL,Pressure,NULL,Inner Focus,NULL,100,75,115,90,115,85,580,NULL,NULL
+246,246,Larvitar,NULL,72,Rock,Ground,Guts,NULL,Sand Veil,NULL,50,64,50,45,50,41,300,NULL,NULL
+247,247,Pupitar,NULL,152,Rock,Ground,Shed Skin,NULL,NULL,NULL,70,84,70,65,70,51,410,370,Level 30
+248,248,Tyranitar,NULL,202,Rock,Dark,Sand Stream,NULL,Unnerve,NULL,100,134,110,95,100,61,600,371,Level 55
+2301,248,Tyranitar,Mega,255,Rock,Dark,Sand Stream,NULL,NULL,NULL,100,164,150,95,120,71,700,NULL,NULL
+249,249,Lugia,NULL,216,Psychic,Flying,Pressure,NULL,Multiscale,NULL,106,90,130,90,154,110,680,NULL,NULL
+250,250,Ho-Oh,NULL,199,Fire,Flying,Pressure,NULL,Regenerator,NULL,106,130,90,110,154,90,680,NULL,NULL
+251,251,Celebi,NULL,5,Psychic,Grass,Natural Cure,NULL,NULL,NULL,100,100,100,100,100,100,600,NULL,NULL
+252,252,Treecko,NULL,5,Grass,NULL,Overgrow,NULL,Unburden,NULL,40,45,35,65,55,70,310,NULL,NULL
+253,253,Grovyle,NULL,21.6,Grass,NULL,Overgrow,NULL,Unburden,NULL,50,65,45,85,65,95,405,380,Level 16
+254,254,Sceptile,NULL,52.2,Grass,NULL,Overgrow,NULL,Unburden,NULL,70,85,65,105,85,120,530,381,Level 36
+2307,254,Sceptile,Mega,55.2,Grass,Dragon,Lightning Rod,NULL,NULL,NULL,70,110,75,145,85,145,630,NULL,NULL
+255,255,Torchic,NULL,2.5,Fire,NULL,Blaze,NULL,Speed Boost,NULL,45,60,40,70,50,45,310,NULL,NULL
+256,256,Combusken,NULL,19.5,Fire,Fighting,Blaze,NULL,Speed Boost,NULL,60,85,60,85,60,55,405,383,Level 16
+257,257,Blaziken,NULL,52,Fire,Fighting,Blaze,NULL,Speed Boost,NULL,80,120,70,110,70,80,530,384,Level 36
+2310,257,Blaziken,Mega,52,Fire,Fighting,Speed Boost,NULL,NULL,NULL,80,160,80,130,80,100,630,NULL,NULL
+258,258,Mudkip,NULL,7.6,Water,NULL,Torrent,NULL,Damp,NULL,50,70,50,50,50,40,310,NULL,NULL
+259,259,Marshtomp,NULL,28,Water,Ground,Torrent,NULL,Damp,NULL,70,85,70,60,70,50,405,386,Level 16
+260,260,Swampert,NULL,81.9,Water,Ground,Torrent,NULL,Damp,NULL,100,110,90,85,90,60,535,387,Level 36
+2313,260,Swampert,Mega,102,Water,Ground,Swift Swim,NULL,NULL,NULL,100,150,110,95,110,70,635,NULL,NULL
+261,261,Poochyena,NULL,13.6,Dark,NULL,Run Away,Quick Feet,Rattled,NULL,35,55,35,30,30,35,220,NULL,NULL
+262,262,Mightyena,NULL,37,Dark,NULL,Intimidate,Quick Feet,Moxie,NULL,70,90,70,60,60,70,420,389,Level 18
+263,263,Zigzagoon,NULL,17.5,Normal,NULL,Pickup,Gluttony,Quick Feet,NULL,38,30,41,30,41,60,240,NULL,NULL
+2316,263,Zigzagoon,Galar,17.5,Dark,Normal,Pickup,Gluttony,Quick Feet,NULL,38,30,41,30,41,60,240,NULL,NULL
+264,264,Linoone,NULL,32.5,Normal,NULL,Pickup,Gluttony,Quick Feet,NULL,78,70,61,50,61,100,420,391,Level 20
+2317,264,Linoone,Galar,32.5,Dark,Normal,Pickup,Gluttony,Quick Feet,NULL,78,70,61,50,61,100,420,1466,Level 20
+265,265,Wurmple,NULL,3.6,Bug,NULL,Shield Dust,NULL,Run Away,NULL,45,45,35,20,30,20,195,NULL,NULL
+266,266,Silcoon,NULL,10,Bug,NULL,Shed Skin,NULL,NULL,NULL,50,35,55,25,25,15,205,393,Level 7 Based On Personality Value
+267,267,Beautifly,NULL,28.4,Bug,Flying,Swarm,NULL,Rivalry,NULL,60,70,50,100,50,65,395,394,Level 10
+268,268,Cascoon,NULL,11.5,Bug,NULL,Shed Skin,NULL,NULL,NULL,50,35,55,25,25,15,205,393,Level 7 Based On Personality Value
+269,269,Dustox,NULL,31.6,Bug,Poison,Shield Dust,NULL,Compound Eyes,NULL,60,50,70,50,90,65,385,396,Level 10
+270,270,Lotad,NULL,2.6,Water,Grass,Swift Swim,Rain Dish,Own Tempo,NULL,40,30,30,40,50,30,220,NULL,NULL
+271,271,Lombre,NULL,32.5,Water,Grass,Swift Swim,Rain Dish,Own Tempo,NULL,60,50,50,60,70,50,340,398,Level 14
+272,272,Ludicolo,NULL,55,Water,Grass,Swift Swim,Rain Dish,Own Tempo,NULL,80,70,70,90,100,70,480,399,Water Stone
+273,273,Seedot,NULL,4,Grass,NULL,Chlorophyll,Early Bird,Pickpocket,NULL,40,40,50,30,30,30,220,NULL,NULL
+274,274,Nuzleaf,NULL,28,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,NULL,70,70,40,60,40,60,340,401,Level 14
+275,275,Shiftry,NULL,59.6,Grass,Dark,Chlorophyll,Wind Rider,Pickpocket,NULL,90,100,60,90,60,80,480,402,Leaf Stone
+276,276,Taillow,NULL,2.3,Normal,Flying,Guts,NULL,Scrappy,NULL,40,55,30,30,30,85,270,NULL,NULL
+277,277,Swellow,NULL,19.8,Normal,Flying,Guts,NULL,Scrappy,NULL,60,85,60,75,50,125,455,404,Level 22
+278,278,Wingull,NULL,9.5,Water,Flying,Keen Eye,Hydration,Rain Dish,NULL,40,30,30,55,30,85,270,NULL,NULL
+279,279,Pelipper,NULL,28,Water,Flying,Keen Eye,Drizzle,Rain Dish,NULL,60,50,100,95,70,65,440,406,Level 25
+280,280,Ralts,NULL,6.6,Psychic,Fairy,Synchronize,Trace,Telepathy,NULL,28,25,25,45,35,40,198,NULL,NULL
+281,281,Kirlia,NULL,20.2,Psychic,Fairy,Synchronize,Trace,Telepathy,NULL,38,35,35,65,55,50,278,408,Level 20
+282,282,Gardevoir,NULL,48.4,Psychic,Fairy,Synchronize,Trace,Telepathy,NULL,68,65,65,125,115,80,518,409,Level 30
+2335,282,Gardevoir,Mega,48.4,Psychic,Fairy,Pixilate,NULL,NULL,NULL,68,85,65,165,135,100,618,NULL,NULL
+283,283,Surskit,NULL,1.7,Bug,Water,Swift Swim,NULL,Rain Dish,NULL,40,30,32,50,52,65,269,NULL,NULL
+284,284,Masquerain,NULL,3.6,Bug,Flying,Intimidate,NULL,Unnerve,NULL,70,60,62,100,82,80,454,411,Level 22
+285,285,Shroomish,NULL,4.5,Grass,NULL,Effect Spore,Poison Heal,Quick Feet,NULL,60,40,60,40,60,35,295,NULL,NULL
+286,286,Breloom,NULL,39.2,Grass,Fighting,Effect Spore,Poison Heal,Technician,NULL,60,130,80,60,60,70,460,413,Level 23
+287,287,Slakoth,NULL,24,Normal,NULL,Truant,NULL,NULL,NULL,60,60,60,35,35,30,280,NULL,NULL
+288,288,Vigoroth,NULL,46.5,Normal,NULL,Vital Spirit,NULL,NULL,NULL,80,80,80,55,55,90,440,415,Level 18
+289,289,Slaking,NULL,130.5,Normal,NULL,Truant,NULL,NULL,NULL,150,160,100,95,65,100,670,416,Level 36
+290,290,Nincada,NULL,5.5,Bug,Ground,Compound Eyes,NULL,Run Away,NULL,31,45,90,30,30,40,266,NULL,NULL
+291,291,Ninjask,NULL,12,Bug,Flying,Speed Boost,NULL,Infiltrator,NULL,61,90,45,50,50,160,456,418,Level 20
+292,292,Shedinja,NULL,1.2,Bug,Ghost,Wonder Guard,NULL,NULL,NULL,1,90,45,30,30,40,236,418,Have A Pokeball And Empty Space In Party
+293,293,Whismur,NULL,16.3,Normal,NULL,Soundproof,NULL,Rattled,NULL,64,51,23,51,23,28,240,NULL,NULL
+294,294,Loudred,NULL,40.5,Normal,NULL,Soundproof,NULL,Scrappy,NULL,84,71,43,71,43,48,360,421,Level 20
+295,295,Exploud,NULL,84,Normal,NULL,Soundproof,NULL,Scrappy,NULL,104,91,63,91,73,68,490,422,Level 40
+296,296,Makuhita,NULL,86.4,Fighting,NULL,Thick Fat,Guts,Sheer Force,NULL,72,60,30,20,30,25,237,NULL,NULL
+297,297,Hariyama,NULL,253.8,Fighting,NULL,Thick Fat,Guts,Sheer Force,NULL,144,120,60,40,60,50,474,424,Level 24
+298,298,Azurill,NULL,2,Normal,Fairy,Thick Fat,Huge Power,Sap Sipper,NULL,50,20,40,20,40,20,190,NULL,NULL
+299,299,Nosepass,NULL,97,Rock,NULL,Sturdy,Magnet Pull,Sand Force,NULL,30,45,135,45,90,30,375,NULL,NULL
+300,300,Skitty,NULL,11,Normal,NULL,Cute Charm,Normalize,Wonder Skin,NULL,50,45,45,35,35,50,260,NULL,NULL
+301,301,Delcatty,NULL,32.6,Normal,NULL,Cute Charm,Normalize,Wonder Skin,NULL,70,65,65,55,55,90,400,428,Moon Stone
+302,302,Sableye,NULL,11,Dark,Ghost,Keen Eye,Stall,Prankster,NULL,50,75,75,65,65,50,380,NULL,NULL
+2355,302,Sableye,Mega,161,Dark,Ghost,Magic Bounce,NULL,NULL,NULL,50,85,125,85,115,20,480,NULL,NULL
+303,303,Mawile,NULL,11.5,Steel,Fairy,Hyper Cutter,Intimidate,Sheer Force,NULL,50,85,85,55,55,50,380,NULL,NULL
+2356,303,Mawile,Mega,23.5,Steel,Fairy,Huge Power,NULL,NULL,NULL,50,105,125,55,95,50,480,NULL,NULL
+304,304,Aron,NULL,60,Steel,Rock,Sturdy,Rock Head,Heavy Metal,NULL,50,70,100,40,40,30,330,NULL,NULL
+305,305,Lairon,NULL,120,Steel,Rock,Sturdy,Rock Head,Heavy Metal,NULL,60,90,140,50,50,40,430,432,Level 32
+306,306,Aggron,NULL,360,Steel,Rock,Sturdy,Rock Head,Heavy Metal,NULL,70,110,180,60,60,50,530,433,Level 42
+2359,306,Aggron,Mega,395,Steel,NULL,Filter,NULL,NULL,NULL,70,140,230,60,80,50,630,NULL,NULL
+307,307,Meditite,NULL,11.2,Fighting,Psychic,Pure Power,NULL,Telepathy,NULL,30,40,55,40,55,60,280,NULL,NULL
+308,308,Medicham,NULL,31.5,Fighting,Psychic,Pure Power,NULL,Telepathy,NULL,60,60,75,60,75,80,410,435,Level 37
+2361,308,Medicham,Mega,31.5,Fighting,Psychic,Pure Power,NULL,NULL,NULL,60,100,85,80,85,100,510,NULL,NULL
+309,309,Electrike,NULL,15.2,Electric,NULL,Static,Lightning Rod,Minus,NULL,40,45,40,65,40,65,295,NULL,NULL
+310,310,Manectric,NULL,40.2,Electric,NULL,Static,Lightning Rod,Minus,NULL,70,75,60,105,60,105,475,437,Level 26
+2363,310,Manectric,Mega,44,Electric,NULL,Intimidate,NULL,NULL,NULL,70,75,80,135,80,135,575,NULL,NULL
+311,311,Plusle,NULL,4.2,Electric,NULL,Plus,NULL,Lightning Rod,NULL,60,50,40,85,75,95,405,NULL,NULL
+312,312,Minun,NULL,4.2,Electric,NULL,Minus,NULL,Volt Absorb,NULL,60,40,50,75,85,95,405,NULL,NULL
+313,313,Volbeat,NULL,17.7,Bug,NULL,Illuminate,Swarm,Prankster,NULL,65,73,75,47,85,85,430,NULL,NULL
+314,314,Illumise,NULL,17.7,Bug,NULL,Oblivious,Tinted Lens,Prankster,NULL,65,47,75,73,85,85,430,NULL,NULL
+315,315,Roselia,NULL,2,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,NULL,50,60,45,100,80,65,400,604,During The Day
+316,316,Gulpin,NULL,10.3,Poison,NULL,Liquid Ooze,Sticky Hold,Gluttony,NULL,70,43,53,43,53,40,302,NULL,NULL
+317,317,Swalot,NULL,80,Poison,NULL,Liquid Ooze,Sticky Hold,Gluttony,NULL,100,73,83,73,83,55,467,444,Level 26
+318,318,Carvanha,NULL,20.8,Water,Dark,Rough Skin,NULL,Speed Boost,NULL,45,90,20,65,20,65,305,NULL,NULL
+319,319,Sharpedo,NULL,88.8,Water,Dark,Rough Skin,NULL,Speed Boost,NULL,70,120,40,95,40,95,460,446,Level 30
+2372,319,Sharpedo,Mega,130.3,Water,Dark,Strong Jaw,NULL,NULL,NULL,70,140,70,110,65,105,560,NULL,NULL
+320,320,Wailmer,NULL,130,Water,NULL,Water Veil,Oblivious,Pressure,NULL,130,70,35,70,35,60,400,NULL,NULL
+321,321,Wailord,NULL,398,Water,NULL,Water Veil,Oblivious,Pressure,NULL,170,90,45,90,45,60,500,448,Level 40
+322,322,Numel,NULL,24,Fire,Ground,Oblivious,Simple,Own Tempo,NULL,60,60,40,65,45,35,305,NULL,NULL
+323,323,Camerupt,NULL,220,Fire,Ground,Magma Armor,Solid Rock,Anger Point,NULL,70,100,70,105,75,40,460,450,Level 33
+2376,323,Camerupt,Mega,320.5,Fire,Ground,Sheer Force,NULL,NULL,NULL,70,120,100,145,105,20,560,NULL,NULL
+324,324,Torkoal,NULL,80.4,Fire,NULL,White Smoke,Drought,Shell Armor,NULL,70,85,140,85,70,20,470,NULL,NULL
+325,325,Spoink,NULL,30.6,Psychic,NULL,Thick Fat,Own Tempo,Gluttony,NULL,60,25,35,70,80,60,330,NULL,NULL
+326,326,Grumpig,NULL,71.5,Psychic,NULL,Thick Fat,Own Tempo,Gluttony,NULL,80,45,65,90,110,80,470,453,Level 32
+327,327,Spinda,NULL,5,Normal,NULL,Own Tempo,Tangled Feet,Contrary,NULL,60,60,60,60,60,60,360,NULL,NULL
+328,328,Trapinch,NULL,15,Ground,NULL,Hyper Cutter,Arena Trap,Sheer Force,NULL,45,100,45,45,45,10,290,NULL,NULL
+329,329,Vibrava,NULL,15.3,Ground,Dragon,Levitate,NULL,NULL,NULL,50,70,50,50,50,70,340,456,Level 35
+330,330,Flygon,NULL,82,Ground,Dragon,Levitate,NULL,NULL,NULL,80,100,80,80,80,100,520,457,Level 45
+331,331,Cacnea,NULL,51.3,Grass,NULL,Sand Veil,NULL,Water Absorb,NULL,50,85,40,85,40,35,335,NULL,NULL
+332,332,Cacturne,NULL,77.4,Grass,Dark,Sand Veil,NULL,Water Absorb,NULL,70,115,60,115,60,55,475,459,Level 32
+333,333,Swablu,NULL,1.2,Normal,Flying,Natural Cure,NULL,Cloud Nine,NULL,45,40,60,40,75,50,310,NULL,NULL
+334,334,Altaria,NULL,20.6,Dragon,Flying,Natural Cure,NULL,Cloud Nine,NULL,75,70,90,70,105,80,490,461,Level 35
+2387,334,Altaria,Mega,20.6,Dragon,Fairy,Pixilate,NULL,NULL,NULL,75,110,110,110,105,80,590,NULL,NULL
+335,335,Zangoose,NULL,40.3,Normal,NULL,Immunity,NULL,Toxic Boost,NULL,73,115,60,60,60,90,458,NULL,NULL
+336,336,Seviper,NULL,52.5,Poison,NULL,Shed Skin,NULL,Infiltrator,NULL,73,100,60,100,60,65,458,NULL,NULL
+337,337,Lunatone,NULL,168,Rock,Psychic,Levitate,NULL,NULL,NULL,90,55,65,95,85,70,460,NULL,NULL
+338,338,Solrock,NULL,154,Rock,Psychic,Levitate,NULL,NULL,NULL,90,95,85,55,65,70,460,NULL,NULL
+339,339,Barboach,NULL,1.9,Water,Ground,Oblivious,Anticipation,Hydration,NULL,50,48,43,46,41,60,288,NULL,NULL
+340,340,Whiscash,NULL,23.6,Water,Ground,Oblivious,Anticipation,Hydration,NULL,110,78,73,76,71,60,468,467,Level 30
+341,341,Corphish,NULL,11.5,Water,NULL,Hyper Cutter,Shell Armor,Adaptability,NULL,43,80,65,50,35,35,308,NULL,NULL
+342,342,Crawdaunt,NULL,32.8,Water,Dark,Hyper Cutter,Shell Armor,Adaptability,NULL,63,120,85,90,55,55,468,469,Level 30
+343,343,Baltoy,NULL,21.5,Ground,Psychic,Levitate,NULL,NULL,NULL,40,40,55,40,70,55,300,NULL,NULL
+344,344,Claydol,NULL,107.9,Ground,Psychic,Levitate,NULL,NULL,NULL,60,70,105,70,120,75,500,471,Level 36
+345,345,Lileep,NULL,23.8,Rock,Grass,Suction Cups,NULL,Storm Drain,NULL,66,41,77,61,87,23,355,NULL,NULL
+346,346,Cradily,NULL,60.4,Rock,Grass,Suction Cups,NULL,Storm Drain,NULL,86,81,97,81,107,43,495,473,Level 40
+347,347,Anorith,NULL,12.5,Rock,Bug,Battle Armor,NULL,Swift Swim,NULL,45,95,50,40,50,75,355,NULL,NULL
+348,348,Armaldo,NULL,68.2,Rock,Bug,Battle Armor,NULL,Swift Swim,NULL,75,125,100,70,80,45,495,475,Level 40
+349,349,Feebas,NULL,7.4,Water,NULL,Swift Swim,Oblivious,Adaptability,NULL,20,15,20,10,55,80,200,NULL,NULL
+350,350,Milotic,NULL,162,Water,NULL,Marvel Scale,Competitive,Cute Charm,NULL,95,60,79,100,125,81,540,477,With Maxed Beauty
+2403,350,Milotic,NULL,162,Water,NULL,Marvel Scale,Competitive,Cute Charm,NULL,95,60,79,100,125,81,540,477,Level Up With Max Beauty or Trade With Prism Scale
+351,351,Castform,NULL,0.8,Normal,NULL,Forecast,NULL,NULL,NULL,70,70,70,70,70,70,420,NULL,NULL
+2404,351,Castform,Sunny,0.8,Fire,NULL,Forecast,NULL,NULL,NULL,70,70,70,70,70,70,420,NULL,NULL
+2405,351,Castform,Snowy,0.8,Ice,NULL,Forecast,NULL,NULL,NULL,70,70,70,70,70,70,420,NULL,NULL
+2406,351,Castform,Rainy,0.8,Water,NULL,Forecast,NULL,NULL,NULL,70,70,70,70,70,70,420,NULL,NULL
+352,352,Kecleon,NULL,22,Normal,NULL,Color Change,NULL,Protean,NULL,60,90,70,60,120,40,440,NULL,NULL
+353,353,Shuppet,NULL,2.3,Ghost,NULL,Insomnia,Frisk,Cursed Body,NULL,44,75,35,63,33,45,295,NULL,NULL
+354,354,Banette,NULL,12.5,Ghost,NULL,Insomnia,Frisk,Cursed Body,NULL,64,115,65,83,63,65,455,481,Level 37
+2409,354,Banette,Mega,13,Ghost,NULL,Prankster,NULL,NULL,NULL,64,165,75,93,83,75,555,NULL,NULL
+355,355,Duskull,NULL,15,Ghost,NULL,Levitate,NULL,Frisk,NULL,20,40,90,30,90,25,295,NULL,NULL
+356,356,Dusclops,NULL,30.6,Ghost,NULL,Pressure,NULL,Frisk,NULL,40,70,130,60,130,25,455,483,Level 37
+357,357,Tropius,NULL,100,Grass,Flying,Chlorophyll,Solar Power,Harvest,NULL,99,68,83,72,87,51,460,NULL,NULL
+358,358,Chimecho,NULL,1,Psychic,NULL,Levitate,NULL,NULL,NULL,75,50,80,95,90,65,455,631,During The Night
+359,359,Absol,NULL,47,Dark,NULL,Pressure,Super Luck,Justified,NULL,65,130,60,75,60,75,465,NULL,NULL
+2414,359,Absol,Mega,49,Dark,NULL,Magic Bounce,NULL,NULL,NULL,65,150,60,115,60,115,565,NULL,NULL
+360,360,Wynaut,NULL,14,Psychic,NULL,Shadow Tag,NULL,Telepathy,NULL,95,23,48,23,48,23,260,NULL,NULL
+361,361,Snorunt,NULL,16.8,Ice,NULL,Inner Focus,Ice Body,Moody,NULL,50,50,50,50,50,50,300,NULL,NULL
+362,362,Glalie,NULL,256.5,Ice,NULL,Inner Focus,Ice Body,Moody,NULL,80,80,80,80,80,80,480,489,Level 42
+2417,362,Glalie,Mega,350.2,Ice,NULL,Refrigerate,NULL,NULL,NULL,80,120,80,120,80,100,580,NULL,NULL
+363,363,Spheal,NULL,39.5,Ice,Water,Thick Fat,Ice Body,Oblivious,NULL,70,40,50,55,50,25,290,NULL,NULL
+364,364,Sealeo,NULL,87.6,Ice,Water,Thick Fat,Ice Body,Oblivious,NULL,90,60,70,75,70,45,410,491,Level 32
+365,365,Walrein,NULL,150.6,Ice,Water,Thick Fat,Ice Body,Oblivious,NULL,110,80,90,95,90,65,530,492,Level 44
+366,366,Clamperl,NULL,52.5,Water,NULL,Shell Armor,NULL,Rattled,NULL,35,64,85,74,55,32,345,NULL,NULL
+367,367,Huntail,NULL,27,Water,NULL,Swift Swim,NULL,Water Veil,NULL,55,104,105,94,75,52,485,494,Deep Sea Tooth
+368,368,Gorebyss,NULL,22.6,Water,NULL,Swift Swim,NULL,Hydration,NULL,55,84,105,114,75,52,485,494,Deep Sea Scale
+369,369,Relicanth,NULL,23.4,Water,Rock,Swift Swim,Rock Head,Sturdy,NULL,100,90,130,45,65,55,485,NULL,NULL
+370,370,Luvdisc,NULL,8.7,Water,NULL,Swift Swim,NULL,Hydration,NULL,43,30,55,40,65,97,330,NULL,NULL
+371,371,Bagon,NULL,42.1,Dragon,NULL,Rock Head,NULL,Sheer Force,NULL,45,75,60,40,30,50,300,NULL,NULL
+372,372,Shelgon,NULL,110.5,Dragon,NULL,Rock Head,NULL,Overcoat,NULL,65,95,100,60,50,50,420,499,Level 30
+373,373,Salamence,NULL,102.6,Dragon,Flying,Intimidate,NULL,Moxie,NULL,95,135,80,110,80,100,600,500,Level 50
+2428,373,Salamence,Mega,112.6,Dragon,Flying,Aerilate,NULL,NULL,NULL,95,145,130,120,90,120,700,NULL,NULL
+374,374,Beldum,NULL,95.2,Steel,Psychic,Clear Body,NULL,Light Metal,NULL,40,55,80,35,60,30,300,NULL,NULL
+375,375,Metang,NULL,202.5,Steel,Psychic,Clear Body,NULL,Light Metal,NULL,60,75,100,55,80,50,420,502,Level 20
+376,376,Metagross,NULL,550,Steel,Psychic,Clear Body,NULL,Light Metal,NULL,80,135,130,95,90,70,600,503,Level 45
+2431,376,Metagross,Mega,942.9,Steel,Psychic,Tough Claws,NULL,NULL,NULL,80,145,150,105,110,110,700,NULL,NULL
+377,377,Regirock,NULL,230,Rock,NULL,Clear Body,NULL,Sturdy,NULL,80,100,200,50,100,50,580,NULL,NULL
+378,378,Regice,NULL,175,Ice,NULL,Clear Body,NULL,Ice Body,NULL,80,50,100,100,200,50,580,NULL,NULL
+379,379,Registeel,NULL,205,Steel,NULL,Clear Body,NULL,Light Metal,NULL,80,75,150,75,150,50,580,NULL,NULL
+380,380,Latias,NULL,40,Dragon,Psychic,Levitate,NULL,NULL,NULL,80,80,90,110,130,110,600,NULL,NULL
+2435,380,Latias,Mega,52,Dragon,Psychic,Levitate,NULL,NULL,NULL,80,100,120,140,150,110,700,NULL,NULL
+381,381,Latios,NULL,60,Dragon,Psychic,Levitate,NULL,NULL,NULL,80,90,80,130,110,110,600,NULL,NULL
+2436,381,Latios,Mega,70,Dragon,Psychic,Levitate,NULL,NULL,NULL,80,130,100,160,120,110,700,NULL,NULL
+382,382,Kyogre,NULL,352,Water,NULL,Drizzle,NULL,NULL,NULL,100,100,90,150,140,90,670,NULL,NULL
+2437,382,Kyogre,Primal,430,Water,NULL,Primordial Sea,NULL,NULL,NULL,100,150,90,180,160,90,770,NULL,NULL
+383,383,Groudon,NULL,950,Ground,NULL,Drought,NULL,NULL,NULL,100,150,140,100,90,90,670,NULL,NULL
+2438,383,Groudon,Primal,999.7,Ground,Fire,Desolate Land,NULL,NULL,NULL,100,180,160,150,90,90,770,NULL,NULL
+384,384,Rayquaza,NULL,206.5,Dragon,Flying,Air Lock,NULL,NULL,NULL,105,150,90,150,90,95,680,NULL,NULL
+2439,384,Rayquaza,Mega,392,Dragon,Flying,Delta Stream,NULL,NULL,NULL,105,180,100,180,100,115,780,NULL,NULL
+385,385,Jirachi,NULL,1.1,Steel,Psychic,Serene Grace,NULL,NULL,NULL,100,100,100,100,100,100,600,NULL,NULL
+386,386,Deoxys,NULL,60.8,Psychic,NULL,Pressure,NULL,NULL,NULL,50,150,50,150,50,150,600,NULL,NULL
+2441,386,Deoxys,Speed,60.8,Psychic,NULL,Pressure,NULL,NULL,NULL,50,95,90,95,90,180,600,NULL,NULL
+2442,386,Deoxys,Defense,60.8,Psychic,NULL,Pressure,NULL,NULL,NULL,50,70,160,70,160,90,600,NULL,NULL
+2443,386,Deoxys,Attack,60.8,Psychic,NULL,Pressure,NULL,NULL,NULL,50,180,20,180,20,150,600,NULL,NULL
+387,387,Turtwig,NULL,10.2,Grass,NULL,Overgrow,NULL,Shell Armor,NULL,55,68,64,45,55,31,318,NULL,NULL
+388,388,Grotle,NULL,97,Grass,NULL,Overgrow,NULL,Shell Armor,NULL,75,89,85,55,65,36,405,591,Level 18
+389,389,Torterra,NULL,310,Grass,Ground,Overgrow,NULL,Shell Armor,NULL,95,109,105,75,85,56,525,592,Level 32
+390,390,Chimchar,NULL,6.2,Fire,NULL,Blaze,NULL,Iron Fist,NULL,44,58,44,58,44,61,309,NULL,NULL
+391,391,Monferno,NULL,22,Fire,Fighting,Blaze,NULL,Iron Fist,NULL,64,78,52,78,52,81,405,34,Level 14
+392,392,Infernape,NULL,55,Fire,Fighting,Blaze,NULL,Iron Fist,NULL,76,104,71,104,71,108,534,35,Level 36
+393,393,Piplup,NULL,5.2,Water,NULL,Torrent,NULL,Competitive,NULL,53,51,53,61,56,40,314,NULL,NULL
+394,394,Prinplup,NULL,23,Water,NULL,Torrent,NULL,Competitive,NULL,64,66,68,81,76,50,405,594,Level 16
+395,395,Empoleon,NULL,84.5,Water,Steel,Torrent,NULL,Competitive,NULL,84,86,88,111,101,60,530,595,Level 36
+396,396,Starly,NULL,2,Normal,Flying,Keen Eye,NULL,Reckless,NULL,40,55,30,30,30,60,245,NULL,NULL
+397,397,Staravia,NULL,15.5,Normal,Flying,Intimidate,NULL,Reckless,NULL,55,75,50,40,40,80,340,597,Level 14
+398,398,Staraptor,NULL,24.9,Normal,Flying,Intimidate,NULL,Reckless,NULL,85,120,70,50,60,100,485,598,Level 34
+399,399,Bidoof,NULL,20,Normal,NULL,Simple,Unaware,Moody,NULL,59,45,40,35,40,31,250,NULL,NULL
+400,400,Bibarel,NULL,31.5,Normal,Water,Simple,Unaware,Moody,NULL,79,85,60,55,60,71,410,600,Level 15
+401,401,Kricketot,NULL,2.2,Bug,NULL,Shed Skin,NULL,Run Away,NULL,37,25,41,25,41,25,194,NULL,NULL
+402,402,Kricketune,NULL,25.5,Bug,NULL,Swarm,NULL,Technician,NULL,77,85,51,55,51,65,384,602,Level 10
+403,403,Shinx,NULL,9.5,Electric,NULL,Rivalry,Intimidate,Guts,NULL,45,65,34,40,34,45,263,NULL,NULL
+404,404,Luxio,NULL,30.5,Electric,NULL,Rivalry,Intimidate,Guts,NULL,60,85,49,60,49,60,363,20,Level 15
+405,405,Luxray,NULL,42,Electric,NULL,Rivalry,Intimidate,Guts,NULL,80,120,79,95,79,70,523,21,Level 30
+406,406,Budew,NULL,1.2,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,NULL,40,30,35,50,70,55,280,NULL,NULL
+407,407,Roserade,NULL,14.5,Grass,Poison,Natural Cure,Poison Point,Technician,NULL,60,70,65,125,105,90,515,443,Shiny Stone
+408,408,Cranidos,NULL,31.5,Rock,NULL,Mold Breaker,NULL,Sheer Force,NULL,67,125,40,30,30,58,350,NULL,NULL
+409,409,Rampardos,NULL,102.5,Rock,NULL,Mold Breaker,NULL,Sheer Force,NULL,97,165,60,65,50,58,495,606,Level 30
+410,410,Shieldon,NULL,57,Rock,Steel,Sturdy,NULL,Soundproof,NULL,30,42,118,42,88,30,350,NULL,NULL
+411,411,Bastiodon,NULL,149.5,Rock,Steel,Sturdy,NULL,Soundproof,NULL,60,52,168,47,138,30,495,608,Level 30
+412,412,Burmy,NULL,3.4,Bug,NULL,Shed Skin,NULL,Overcoat,NULL,40,29,45,29,45,36,224,NULL,NULL
+2469,412,Burmy,Trash,3.4,Bug,NULL,Shed Skin,NULL,Overcoat,NULL,40,29,45,29,45,36,224,NULL,NULL
+2470,412,Burmy,Sandy,3.4,Bug,NULL,Shed Skin,NULL,Overcoat,NULL,40,29,45,29,45,36,224,NULL,NULL
+413,413,Wormadam,NULL,6.5,Bug,Grass,Anticipation,NULL,Overcoat,NULL,60,59,85,79,105,36,424,610,Level 20 When Female
+2471,413,Wormadam,Trash,6.5,Bug,Steel,Anticipation,NULL,Overcoat,NULL,60,69,95,69,95,36,424,1646,Level 20 When Female
+2472,413,Wormadam,Sandy,6.5,Bug,Ground,Anticipation,NULL,Overcoat,NULL,60,79,105,59,85,36,424,1645,Level 20 When Female
+414,414,Mothim,NULL,23.3,Bug,Flying,Swarm,NULL,Tinted Lens,NULL,70,94,50,94,50,66,424,610,Level 20 When Male
+2473,414,Mothim,NULL,23.3,Bug,Flying,Swarm,NULL,Tinted Lens,NULL,70,94,50,94,50,66,424,1645,Level 20 When Male
+2474,414,Mothim,NULL,23.3,Bug,Flying,Swarm,NULL,Tinted Lens,NULL,70,94,50,94,50,66,424,1646,Level 20 When Male
+415,415,Combee,NULL,5.5,Bug,Flying,Honey Gather,NULL,Hustle,NULL,30,30,42,30,42,70,244,NULL,NULL
+416,416,Vespiquen,NULL,38.5,Bug,Flying,Pressure,NULL,Unnerve,NULL,70,80,102,80,102,40,474,613,Level 21 When Female
+417,417,Pachirisu,NULL,3.9,Electric,NULL,Run Away,Pickup,Volt Absorb,NULL,60,45,70,45,90,95,405,NULL,NULL
+418,418,Buizel,NULL,29.5,Water,NULL,Swift Swim,NULL,Water Veil,NULL,55,65,35,60,30,85,330,NULL,NULL
+419,419,Floatzel,NULL,33.5,Water,NULL,Swift Swim,NULL,Water Veil,NULL,85,105,55,85,50,115,495,616,Level 26
+420,420,Cherubi,NULL,3.3,Grass,NULL,Chlorophyll,NULL,NULL,NULL,45,35,45,62,53,35,275,NULL,NULL
+421,421,Cherrim,NULL,9.3,Grass,NULL,Flower Gift,NULL,NULL,NULL,70,60,70,87,78,85,450,618,Level 25
+422,422,Shellos,NULL,6.3,Water,NULL,Sticky Hold,Storm Drain,Sand Force,NULL,76,48,48,57,62,34,325,NULL,NULL
+2482,422,Shellos,East Sea,6.3,Water,NULL,Sticky Hold,Storm Drain,Sand Force,NULL,76,48,48,57,62,34,325,NULL,NULL
+423,423,Gastrodon,NULL,29.9,Water,Ground,Sticky Hold,Storm Drain,Sand Force,NULL,111,83,68,92,82,39,475,620,Level 30
+2483,423,Gastrodon,East Sea,29.9,Water,Ground,Sticky Hold,Storm Drain,Sand Force,NULL,111,83,68,92,82,39,475,1784,Level 30
+424,424,Ambipom,NULL,20.3,Normal,NULL,Technician,Pickup,Skill Link,NULL,75,100,66,60,66,115,482,290,Knowing Double Hit
+425,425,Drifloon,NULL,1.2,Ghost,Flying,Aftermath,Unburden,Flare Boost,NULL,90,50,34,60,44,70,348,NULL,NULL
+426,426,Drifblim,NULL,15,Ghost,Flying,Aftermath,Unburden,Flare Boost,NULL,150,80,44,90,54,80,498,623,Level 28
+427,427,Buneary,NULL,5.5,Normal,NULL,Run Away,Klutz,Limber,NULL,55,66,44,44,56,85,350,NULL,NULL
+428,428,Lopunny,NULL,33.3,Normal,NULL,Cute Charm,Klutz,Limber,NULL,65,76,84,54,96,105,480,625,NULL
+2488,428,Lopunny,Mega,28.3,Normal,Fighting,Scrappy,NULL,NULL,NULL,65,136,94,54,96,135,580,NULL,NULL
+429,429,Mismagius,NULL,4.4,Ghost,NULL,Levitate,NULL,NULL,NULL,60,60,60,105,105,105,495,324,Dusk Stone
+430,430,Honchkrow,NULL,27.3,Dark,Flying,Insomnia,Super Luck,Moxie,NULL,100,125,52,105,52,71,505,298,Dusk Stone
+431,431,Glameow,NULL,3.9,Normal,NULL,Limber,Own Tempo,Keen Eye,NULL,49,55,42,42,37,85,310,NULL,NULL
+432,432,Purugly,NULL,43.8,Normal,NULL,Thick Fat,Own Tempo,Defiant,NULL,71,82,64,64,59,112,452,629,Level 38
+433,433,Chingling,NULL,0.6,Psychic,NULL,Levitate,NULL,NULL,NULL,45,30,50,65,50,45,285,NULL,NULL
+434,434,Stunky,NULL,19.2,Poison,Dark,Stench,Aftermath,Keen Eye,NULL,63,63,47,41,41,74,329,NULL,NULL
+435,435,Skuntank,NULL,38,Poison,Dark,Stench,Aftermath,Keen Eye,NULL,103,93,67,71,61,84,479,632,Level 34
+436,436,Bronzor,NULL,60.5,Steel,Psychic,Levitate,Heatproof,Heavy Metal,NULL,57,24,86,24,86,23,300,NULL,NULL
+437,437,Bronzong,NULL,187,Steel,Psychic,Levitate,Heatproof,Heavy Metal,NULL,67,89,116,79,116,33,500,634,Level 33
+438,438,Bonsly,NULL,15,Rock,NULL,Sturdy,Rock Head,Rattled,NULL,50,80,95,10,45,10,290,NULL,NULL
+439,439,Mime Jr.,NULL,13,Psychic,Fairy,Soundproof,Filter,Technician,NULL,20,25,45,70,90,60,310,NULL,NULL
+440,440,Happiny,NULL,24.4,Normal,NULL,Natural Cure,Serene Grace,Friend Guard,NULL,100,5,5,15,65,30,220,NULL,NULL
+441,441,Chatot,NULL,1.9,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,NULL,76,65,45,92,42,91,411,NULL,NULL
+442,442,Spiritomb,NULL,108,Ghost,Dark,Pressure,NULL,Infiltrator,NULL,50,92,108,92,108,35,485,NULL,NULL
+443,443,Gible,NULL,20.5,Dragon,Ground,Sand Veil,NULL,Rough Skin,NULL,58,70,45,40,45,42,300,NULL,NULL
+444,444,Gabite,NULL,56,Dragon,Ground,Sand Veil,NULL,Rough Skin,NULL,68,90,65,50,55,82,410,641,Level 24
+445,445,Garchomp,NULL,95,Dragon,Ground,Sand Veil,NULL,Rough Skin,NULL,108,130,95,80,85,102,600,642,Level 48
+2505,445,Garchomp,Mega,95,Dragon,Ground,Sand Force,NULL,NULL,NULL,108,170,115,120,95,92,700,NULL,NULL
+446,446,Munchlax,NULL,105,Normal,NULL,Pickup,Thick Fat,Gluttony,NULL,135,85,40,40,85,5,390,NULL,NULL
+447,447,Riolu,NULL,20.2,Fighting,NULL,Steadfast,Inner Focus,Prankster,NULL,40,70,40,35,40,60,285,NULL,NULL
+448,448,Lucario,NULL,54,Fighting,Steel,Steadfast,Inner Focus,Justified,NULL,70,110,70,115,70,90,525,645,During The Day
+2508,448,Lucario,Mega,57.5,Fighting,Steel,Adaptability,NULL,NULL,NULL,70,145,88,140,70,112,625,NULL,NULL
+449,449,Hippopotas,NULL,49.5,Ground,NULL,Sand Stream,NULL,Sand Force,NULL,68,72,78,38,42,32,330,NULL,NULL
+450,450,Hippowdon,NULL,300,Ground,NULL,Sand Stream,NULL,Sand Force,NULL,108,112,118,68,72,47,525,647,Level 34
+451,451,Skorupi,NULL,12,Poison,Bug,Battle Armor,Sniper,Keen Eye,NULL,40,50,90,30,55,65,330,NULL,NULL
+452,452,Drapion,NULL,61.5,Poison,Dark,Battle Armor,Sniper,Keen Eye,NULL,70,90,110,60,75,95,500,649,Level 40
+453,453,Croagunk,NULL,23,Poison,Fighting,Anticipation,Dry Skin,Poison Touch,NULL,48,61,40,61,40,50,300,NULL,NULL
+454,454,Toxicroak,NULL,44.4,Poison,Fighting,Anticipation,Dry Skin,Poison Touch,NULL,83,106,65,86,65,85,490,651,Level 37
+455,455,Carnivine,NULL,27,Grass,NULL,Levitate,NULL,NULL,NULL,74,100,72,90,72,46,454,NULL,NULL
+456,456,Finneon,NULL,7,Water,NULL,Swift Swim,Storm Drain,Water Veil,NULL,49,49,56,49,61,66,330,NULL,NULL
+457,457,Lumineon,NULL,24,Water,NULL,Swift Swim,Storm Drain,Water Veil,NULL,69,69,76,69,86,91,460,654,Level 31
+458,458,Mantyke,NULL,65,Water,Flying,Swift Swim,Water Absorb,Water Veil,NULL,45,20,50,60,120,50,345,NULL,NULL
+459,459,Snover,NULL,50.5,Grass,Ice,Snow Warning,NULL,Soundproof,NULL,60,62,50,62,60,40,334,NULL,NULL
+460,460,Abomasnow,NULL,135.5,Grass,Ice,Snow Warning,NULL,Soundproof,NULL,90,92,75,92,85,60,494,657,Level 40
+2520,460,Abomasnow,Mega,185,Grass,Ice,Snow Warning,NULL,NULL,NULL,90,132,105,132,105,30,594,NULL,NULL
+461,461,Weavile,NULL,34,Dark,Ice,Pressure,NULL,Pickpocket,NULL,70,120,65,45,85,125,510,339,Holding Razor Claw At Night
+462,462,Magnezone,NULL,180,Electric,Steel,Magnet Pull,Sturdy,Analytic,NULL,70,70,115,130,90,60,535,1341,In a Special Magnetic Field
+2522,462,Magnezone,NULL,180,Electric,Steel,Magnet Pull,Sturdy,Analytic,NULL,70,70,115,130,90,60,535,1341,Thunder Stone
+463,463,Lickilicky,NULL,140,Normal,NULL,Own Tempo,Oblivious,Cloud Nine,NULL,110,85,95,80,95,50,515,142,Knowing Rollout
+464,464,Rhyperior,NULL,282.8,Ground,Rock,Lightning Rod,Solid Rock,Reckless,NULL,115,140,130,55,55,40,535,146,Protector
+465,465,Tangrowth,NULL,128.6,Grass,NULL,Chlorophyll,Leaf Guard,Regenerator,NULL,100,100,125,110,50,50,535,148,Knowing Ancient Power
+466,466,Electivire,NULL,138.6,Electric,NULL,Motor Drive,NULL,Vital Spirit,NULL,75,123,67,95,85,95,540,221,Electirizer
+467,467,Magmortar,NULL,68,Fire,NULL,Flame Body,NULL,Vital Spirit,NULL,75,95,67,125,95,83,540,222,Magmarizer
+468,468,Togekiss,NULL,38,Fairy,Flying,Hustle,Serene Grace,Super Luck,NULL,85,50,95,120,115,80,545,265,Shiny Stone
+469,469,Yanmega,NULL,51.5,Bug,Flying,Speed Boost,Tinted Lens,Frisk,NULL,86,76,86,116,56,95,515,293,Knowing Ancient Power
+470,470,Leafeon,NULL,25.5,Grass,NULL,Leaf Guard,NULL,Chlorophyll,NULL,65,110,130,60,65,95,525,228,Next to Moss Rock
+2530,470,Leafeon,NULL,25.5,Grass,NULL,Leaf Guard,NULL,Chlorophyll,NULL,65,110,130,60,65,95,525,228,Leaf Stone
+471,471,Glaceon,NULL,25.9,Ice,NULL,Snow Cloak,NULL,Ice Body,NULL,65,60,110,130,95,65,525,228,Next to Icy Rock
+2531,471,Glaceon,NULL,25.9,Ice,NULL,Snow Cloak,NULL,Ice Body,NULL,65,60,110,130,95,65,525,228,Ice Stone
+472,472,Gliscor,NULL,42.5,Ground,Flying,Hyper Cutter,Sand Veil,Poison Heal,NULL,75,95,125,45,75,95,510,331,Holding Razor Fang At Night
+473,473,Mamoswine,NULL,291,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,NULL,110,130,80,70,60,80,530,345,Knowing Ancient Power
+474,474,Porygon-Z,NULL,34,Normal,NULL,Adaptability,Download,Analytic,NULL,85,80,70,135,75,90,535,357,Dubious Disc
+475,475,Gallade,NULL,52,Psychic,Fighting,Steadfast,Sharpness,Justified,NULL,68,125,65,65,115,80,518,409,Dawn Stone When Male
+2535,475,Gallade,Mega,56.4,Psychic,Fighting,Inner Focus,NULL,NULL,NULL,68,165,95,65,115,110,618,NULL,NULL
+476,476,Probopass,NULL,340,Rock,Steel,Sturdy,Magnet Pull,Sand Force,NULL,60,55,145,75,150,40,525,427,Near A Special Magnetic Field
+2536,476,Probopass,NULL,340,Rock,Steel,Sturdy,Magnet Pull,Sand Force,NULL,60,55,145,75,150,40,525,427,Near A Special Magnetic Field Or Use Thunder Stone In Legends: Arceus
+477,477,Dusknoir,NULL,106.6,Ghost,NULL,Pressure,NULL,Frisk,NULL,45,100,135,65,135,45,525,484,Reaper Cloth
+478,478,Froslass,NULL,26.6,Ice,Ghost,Snow Cloak,NULL,Cursed Body,NULL,70,80,70,80,70,110,480,489,Dawn Stone When Female
+479,479,Rotom,NULL,0.3,Electric,Ghost,Levitate,NULL,NULL,NULL,50,50,77,95,77,91,440,NULL,NULL
+2539,479,Rotom,Wash,0.3,Electric,Water,Levitate,NULL,NULL,NULL,50,65,107,105,107,86,520,NULL,NULL
+2540,479,Rotom,Mow,0.3,Electric,Grass,Levitate,NULL,NULL,NULL,50,65,107,105,107,86,520,NULL,NULL
+2541,479,Rotom,Heat,0.3,Electric,Fire,Levitate,NULL,NULL,NULL,50,65,107,105,107,86,520,NULL,NULL
+2542,479,Rotom,Frost,0.3,Electric,Ice,Levitate,NULL,NULL,NULL,50,65,107,105,107,86,520,NULL,NULL
+2543,479,Rotom,Fan,0.3,Electric,Flying,Levitate,NULL,NULL,NULL,50,65,107,105,107,86,520,NULL,NULL
+480,480,Uxie,NULL,0.3,Psychic,NULL,Levitate,NULL,NULL,NULL,75,75,130,75,130,95,580,NULL,NULL
+481,481,Mesprit,NULL,0.3,Psychic,NULL,Levitate,NULL,NULL,NULL,80,105,105,105,105,80,580,NULL,NULL
+482,482,Azelf,NULL,0.3,Psychic,NULL,Levitate,NULL,NULL,NULL,75,125,70,125,70,115,580,NULL,NULL
+483,483,Dialga,NULL,683,Steel,Dragon,Pressure,NULL,Telepathy,NULL,100,120,120,150,100,90,680,NULL,NULL
+2547,483,Dialga,Origin,850,Steel,Dragon,Pressure,NULL,Telepathy,NULL,100,100,120,150,120,90,680,NULL,NULL
+484,484,Palkia,NULL,336,Water,Dragon,Pressure,NULL,Telepathy,NULL,90,120,100,150,120,100,680,NULL,NULL
+2548,484,Palkia,Origin,660,Water,Dragon,Pressure,NULL,Telepathy,NULL,90,100,100,150,120,120,680,NULL,NULL
+485,485,Heatran,NULL,430,Fire,Steel,Flash Fire,NULL,Flame Body,NULL,91,90,106,130,106,77,600,NULL,NULL
+486,486,Regigigas,NULL,420,Normal,NULL,Slow Start,NULL,NULL,NULL,110,160,110,80,110,100,670,NULL,NULL
+487,487,Giratina,NULL,750,Ghost,Dragon,Pressure,NULL,Telepathy,NULL,150,100,120,100,120,90,680,NULL,NULL
+2551,487,Giratina,Origin,650,Ghost,Dragon,Levitate,NULL,NULL,NULL,150,120,100,120,100,90,680,NULL,NULL
+488,488,Cresselia,NULL,85.6,Psychic,NULL,Levitate,NULL,NULL,NULL,120,70,110,75,120,85,580,NULL,NULL
+489,489,Phione,NULL,3.1,Water,NULL,Hydration,NULL,NULL,NULL,80,80,80,80,80,80,480,NULL,NULL
+490,490,Manaphy,NULL,1.4,Water,NULL,Hydration,NULL,NULL,NULL,100,100,100,100,100,100,600,NULL,NULL
+491,491,Darkrai,NULL,50.5,Dark,NULL,Bad Dreams,NULL,NULL,NULL,70,90,90,135,90,125,600,NULL,NULL
+492,492,Shaymin,NULL,2.1,Grass,NULL,Natural Cure,NULL,NULL,NULL,100,100,100,100,100,100,600,NULL,NULL
+2556,492,Shaymin,Sky,5.2,Grass,Flying,Serene Grace,NULL,NULL,NULL,100,103,75,120,75,127,600,NULL,NULL
+493,493,Arceus,NULL,320,Normal,NULL,Multitype,NULL,NULL,NULL,120,120,120,120,120,120,720,NULL,NULL
+494,494,Victini,NULL,4,Psychic,Fire,Victory Star,NULL,NULL,NULL,100,100,100,100,100,100,600,NULL,NULL
+495,495,Snivy,NULL,8.1,Grass,NULL,Overgrow,NULL,Contrary,NULL,45,45,55,45,55,63,308,NULL,NULL
+496,496,Servine,NULL,16,Grass,NULL,Overgrow,NULL,Contrary,NULL,60,60,75,60,75,83,413,829,Level 17
+497,497,Serperior,NULL,63,Grass,NULL,Overgrow,NULL,Contrary,NULL,75,75,95,75,95,113,528,830,Level 36
+498,498,Tepig,NULL,9.9,Fire,NULL,Blaze,NULL,Thick Fat,NULL,65,63,45,45,45,45,308,NULL,NULL
+499,499,Pignite,NULL,55.5,Fire,Fighting,Blaze,NULL,Thick Fat,NULL,90,93,55,70,55,55,418,832,Level 17
+500,500,Emboar,NULL,150,Fire,Fighting,Blaze,NULL,Reckless,NULL,110,123,65,100,65,65,528,833,Level 36
+501,501,Oshawott,NULL,5.9,Water,NULL,Torrent,NULL,Shell Armor,NULL,55,55,45,63,45,45,308,NULL,NULL
+502,502,Dewott,NULL,24.5,Water,NULL,Torrent,NULL,Shell Armor,NULL,75,75,60,83,60,60,413,835,Level 17
+503,503,Samurott,NULL,94.6,Water,NULL,Torrent,NULL,Shell Armor,NULL,95,100,85,108,70,70,528,836,Level 36
+2567,503,Samurott,Hisui,58.2,Water,Dark,Torrent,NULL,Sharpness,NULL,90,108,80,100,65,85,528,836,Level 36 in Hisui
+2568,503,Samurott,Hisui,58.2,Water,Dark,Torrent,NULL,Sharpness,NULL,90,108,80,100,65,85,528,836,NULL
+504,504,Patrat,NULL,11.6,Normal,NULL,Run Away,Keen Eye,Analytic,NULL,45,55,39,35,39,42,255,NULL,NULL
+505,505,Watchog,NULL,27,Normal,NULL,Illuminate,Keen Eye,Analytic,NULL,60,85,69,60,69,77,420,838,Level 20
+506,506,Lillipup,NULL,4.1,Normal,NULL,Vital Spirit,Pickup,Run Away,NULL,45,60,45,25,45,55,275,NULL,NULL
+507,507,Herdier,NULL,14.7,Normal,NULL,Intimidate,Sand Rush,Scrappy,NULL,65,80,65,35,65,60,370,840,Level 16
+508,508,Stoutland,NULL,61,Normal,NULL,Intimidate,Sand Rush,Scrappy,NULL,85,110,90,45,90,80,500,841,Level 32
+509,509,Purrloin,NULL,10.1,Dark,NULL,Limber,Unburden,Prankster,NULL,41,50,37,50,37,66,281,NULL,NULL
+510,510,Liepard,NULL,37.5,Dark,NULL,Limber,Unburden,Prankster,NULL,64,88,50,88,50,106,446,843,Level 20
+511,511,Pansage,NULL,10.5,Grass,NULL,Gluttony,NULL,Overgrow,NULL,50,53,48,53,48,64,316,NULL,NULL
+512,512,Simisage,NULL,30.5,Grass,NULL,Gluttony,NULL,Overgrow,NULL,75,98,63,98,63,101,498,845,Leaf Stone
+513,513,Pansear,NULL,11,Fire,NULL,Gluttony,NULL,Blaze,NULL,50,53,48,53,48,64,316,NULL,NULL
+514,514,Simisear,NULL,28,Fire,NULL,Gluttony,NULL,Blaze,NULL,75,98,63,98,63,101,498,847,Fire Stone
+515,515,Panpour,NULL,13.5,Water,NULL,Gluttony,NULL,Torrent,NULL,50,53,48,53,48,64,316,NULL,NULL
+516,516,Simipour,NULL,29,Water,NULL,Gluttony,NULL,Torrent,NULL,75,98,63,98,63,101,498,849,Water Stone
+517,517,Munna,NULL,23.3,Psychic,NULL,Forewarn,Synchronize,Telepathy,NULL,76,25,45,67,55,24,292,NULL,NULL
+518,518,Musharna,NULL,60.5,Psychic,NULL,Forewarn,Synchronize,Telepathy,NULL,116,55,85,107,95,29,487,851,Moon Stone
+519,519,Pidove,NULL,2.1,Normal,Flying,Big Pecks,Super Luck,Rivalry,NULL,50,55,50,36,30,43,264,NULL,NULL
+520,520,Tranquill,NULL,15,Normal,Flying,Big Pecks,Super Luck,Rivalry,NULL,62,77,62,50,42,65,358,853,Level 21
+521,521,Unfezant,NULL,29,Normal,Flying,Big Pecks,Super Luck,Rivalry,NULL,80,115,80,65,55,93,488,854,Level 32
+522,522,Blitzle,NULL,29.8,Electric,NULL,Lightning Rod,Motor Drive,Sap Sipper,NULL,45,60,32,50,32,76,295,NULL,NULL
+523,523,Zebstrika,NULL,79.5,Electric,NULL,Lightning Rod,Motor Drive,Sap Sipper,NULL,75,100,63,80,63,116,497,856,Level 27
+524,524,Roggenrola,NULL,18,Rock,NULL,Sturdy,Weak Armor,Sand Force,NULL,55,75,85,25,25,15,280,NULL,NULL
+525,525,Boldore,NULL,102,Rock,NULL,Sturdy,Weak Armor,Sand Force,NULL,70,105,105,50,40,20,390,858,Level 25
+526,526,Gigalith,NULL,260,Rock,NULL,Sturdy,Sand Stream,Sand Force,NULL,85,135,130,60,80,25,515,859,NULL
+527,527,Woobat,NULL,2.1,Psychic,Flying,Unaware,Klutz,Simple,NULL,65,45,43,55,43,72,323,NULL,NULL
+528,528,Swoobat,NULL,10.5,Psychic,Flying,Unaware,Klutz,Simple,NULL,67,57,55,77,55,114,425,861,NULL
+529,529,Drilbur,NULL,8.5,Ground,NULL,Sand Rush,Sand Force,Mold Breaker,NULL,60,85,40,30,45,68,328,NULL,NULL
+530,530,Excadrill,NULL,40.4,Ground,Steel,Sand Rush,Sand Force,Mold Breaker,NULL,110,135,60,50,65,88,508,863,Level 31
+531,531,Audino,NULL,31,Normal,NULL,Healer,Regenerator,Klutz,NULL,103,60,86,60,86,50,445,NULL,NULL
+2596,531,Audino,Mega,32,Normal,Fairy,Healer,NULL,NULL,NULL,103,60,126,80,126,50,545,NULL,NULL
+532,532,Timburr,NULL,12.5,Fighting,NULL,Guts,Sheer Force,Iron Fist,NULL,75,80,55,25,35,35,305,NULL,NULL
+533,533,Gurdurr,NULL,40,Fighting,NULL,Guts,Sheer Force,Iron Fist,NULL,85,105,85,40,50,40,405,866,Level 25
+534,534,Conkeldurr,NULL,87,Fighting,NULL,Guts,Sheer Force,Iron Fist,NULL,105,140,95,55,65,45,505,867,NULL
+535,535,Tympole,NULL,4.5,Water,NULL,Swift Swim,Hydration,Water Absorb,NULL,50,50,40,50,40,64,294,NULL,NULL
+536,536,Palpitoad,NULL,17,Water,Ground,Swift Swim,Hydration,Water Absorb,NULL,75,65,55,65,55,69,384,869,Level 25
+537,537,Seismitoad,NULL,62,Water,Ground,Swift Swim,Poison Touch,Water Absorb,NULL,105,95,75,85,75,74,509,870,Level 36
+538,538,Throh,NULL,55.5,Fighting,NULL,Guts,Inner Focus,Mold Breaker,NULL,120,100,85,30,85,45,465,NULL,NULL
+539,539,Sawk,NULL,41,Fighting,NULL,Sturdy,Inner Focus,Mold Breaker,NULL,75,125,75,30,75,85,465,NULL,NULL
+540,540,Sewaddle,NULL,2.5,Bug,Grass,Swarm,Chlorophyll,Overcoat,NULL,45,53,70,40,60,42,310,NULL,NULL
+541,541,Swadloon,NULL,7.3,Bug,Grass,Leaf Guard,Chlorophyll,Overcoat,NULL,55,63,90,50,80,42,380,874,Level 20
+542,542,Leavanny,NULL,20.5,Bug,Grass,Swarm,Chlorophyll,Overcoat,NULL,75,103,80,70,80,92,500,875,NULL
+543,543,Venipede,NULL,5.3,Bug,Poison,Poison Point,Swarm,Speed Boost,NULL,30,45,59,30,39,57,260,NULL,NULL
+544,544,Whirlipede,NULL,58.5,Bug,Poison,Poison Point,Swarm,Speed Boost,NULL,40,55,99,40,79,47,360,877,Level 22
+545,545,Scolipede,NULL,200.5,Bug,Poison,Poison Point,Swarm,Speed Boost,NULL,60,100,89,55,69,112,485,878,Level 30
+546,546,Cottonee,NULL,0.6,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,NULL,40,27,60,37,50,66,280,NULL,NULL
+547,547,Whimsicott,NULL,6.6,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,NULL,60,67,85,77,75,116,480,880,Sun Stone
+548,548,Petilil,NULL,6.6,Grass,NULL,Chlorophyll,Own Tempo,Leaf Guard,NULL,45,35,50,70,50,30,280,NULL,NULL
+549,549,Lilligant,NULL,16.3,Grass,NULL,Chlorophyll,Own Tempo,Leaf Guard,NULL,70,60,75,110,75,90,480,882,Sun Stone
+2614,549,Lilligant,Hisui,19.2,Grass,Fighting,Chlorophyll,Hustle,Leaf Guard,NULL,70,105,75,50,75,105,480,882,Sun Stone in Hisui
+2615,549,Lilligant,Hisui,19.2,Grass,Fighting,Chlorophyll,Hustle,Leaf Guard,NULL,70,105,75,50,75,105,480,882,NULL
+550,550,Basculin,NULL,18,Water,NULL,Reckless,Adaptability,Mold Breaker,NULL,70,92,65,80,55,98,460,NULL,NULL
+2616,550,Basculin,White-Striped,18,Water,NULL,Rattled,Adaptability,Mold Breaker,NULL,70,92,65,80,55,98,460,NULL,NULL
+2617,550,Basculin,Blue-Striped,18,Water,NULL,Rock Head,Adaptability,Mold Breaker,NULL,70,92,65,80,55,98,460,NULL,NULL
+551,551,Sandile,NULL,15.2,Ground,Dark,Intimidate,Moxie,Anger Point,NULL,50,72,35,35,35,65,292,NULL,NULL
+552,552,Krokorok,NULL,33.4,Ground,Dark,Intimidate,Moxie,Anger Point,NULL,60,82,45,45,45,74,351,886,Level 29
+553,553,Krookodile,NULL,96.3,Ground,Dark,Intimidate,Moxie,Anger Point,NULL,95,117,80,65,70,92,519,887,Level 40
+554,554,Darumaka,NULL,37.5,Fire,NULL,Hustle,NULL,Inner Focus,NULL,70,90,45,15,45,50,315,NULL,NULL
+2621,554,Darumaka,Galar,40,Ice,NULL,Hustle,NULL,Inner Focus,NULL,70,90,45,15,45,50,315,NULL,NULL
+555,555,Darmanitan,NULL,92.9,Fire,NULL,Sheer Force,NULL,Zen Mode,NULL,105,140,55,30,55,95,480,889,Level 35
+2622,555,Darmanitan,Zen,92.9,Fire,Psychic,Zen Mode,NULL,NULL,NULL,105,30,105,140,105,55,540,NULL,NULL
+2623,555,Darmanitan,Galar,120,Ice,NULL,Gorilla Tactics,NULL,Zen Mode,NULL,105,140,55,30,55,95,480,1557,Ice Stone
+2624,555,Darmanitan,Galar-Zen,120,Ice,Fire,Zen Mode,NULL,NULL,NULL,105,160,55,30,55,135,540,NULL,NULL
+556,556,Maractus,NULL,28,Grass,NULL,Water Absorb,Chlorophyll,Storm Drain,NULL,75,86,67,106,67,60,461,NULL,NULL
+557,557,Dwebble,NULL,14.5,Bug,Rock,Sturdy,Shell Armor,Weak Armor,NULL,50,65,85,35,35,55,325,NULL,NULL
+558,558,Crustle,NULL,200,Bug,Rock,Sturdy,Shell Armor,Weak Armor,NULL,70,105,125,65,75,45,485,892,Level 34
+559,559,Scraggy,NULL,11.8,Dark,Fighting,Shed Skin,Moxie,Intimidate,NULL,50,75,70,35,70,48,348,NULL,NULL
+560,560,Scrafty,NULL,30,Dark,Fighting,Shed Skin,Moxie,Intimidate,NULL,65,90,115,45,115,58,488,894,Level 39
+561,561,Sigilyph,NULL,14,Psychic,Flying,Wonder Skin,Magic Guard,Tinted Lens,NULL,72,58,80,103,80,97,490,NULL,NULL
+562,562,Yamask,NULL,1.5,Ghost,NULL,Mummy,NULL,NULL,NULL,38,30,85,55,65,30,303,NULL,NULL
+2631,562,Yamask,Galar,1.5,Ground,Ghost,Wandering Spirit,NULL,NULL,NULL,38,55,85,30,65,30,303,NULL,NULL
+563,563,Cofagrigus,NULL,76.5,Ghost,NULL,Mummy,NULL,NULL,NULL,58,50,145,95,105,30,483,916,Level 34
+564,564,Tirtouga,NULL,16.5,Water,Rock,Solid Rock,Sturdy,Swift Swim,NULL,54,78,103,53,45,22,355,NULL,NULL
+565,565,Carracosta,NULL,81,Water,Rock,Solid Rock,Sturdy,Swift Swim,NULL,74,108,133,83,65,32,495,918,Level 37
+566,566,Archen,NULL,9.5,Rock,Flying,Defeatist,NULL,NULL,NULL,55,112,45,74,45,70,401,NULL,NULL
+567,567,Archeops,NULL,32,Rock,Flying,Defeatist,NULL,NULL,NULL,75,140,65,112,65,110,567,920,Level 37
+568,568,Trubbish,NULL,31,Poison,NULL,Stench,Sticky Hold,Aftermath,NULL,50,50,62,40,62,65,329,NULL,NULL
+569,569,Garbodor,NULL,107.3,Poison,NULL,Stench,Weak Armor,Aftermath,NULL,80,95,82,60,82,75,474,922,Level 36
+2638,569,Garbodor,Gigantamax,0,Poison,NULL,Stench,Weak Armor,Aftermath,NULL,80,95,82,60,82,75,474,NULL,NULL
+570,570,Zorua,NULL,12.5,Dark,NULL,Illusion,NULL,NULL,NULL,40,65,40,80,40,65,330,NULL,NULL
+2639,570,Zorua,Hisui,12.5,Normal,Ghost,Illusion,NULL,NULL,NULL,35,60,40,85,40,70,330,NULL,NULL
+571,571,Zoroark,NULL,81.1,Dark,NULL,Illusion,NULL,NULL,NULL,60,105,60,120,60,105,510,939,Level 30
+2640,571,Zoroark,Hisui,73,Normal,Ghost,Illusion,NULL,NULL,NULL,60,105,60,120,60,105,510,1617,Level 30
+572,572,Minccino,NULL,5.8,Normal,NULL,Cute Charm,Technician,Skill Link,NULL,55,50,40,40,40,75,300,NULL,NULL
+573,573,Cinccino,NULL,7.5,Normal,NULL,Cute Charm,Technician,Skill Link,NULL,75,95,60,65,60,115,470,941,Shiny Stone
+574,574,Gothita,NULL,5.8,Psychic,NULL,Frisk,Competitive,Shadow Tag,NULL,45,30,50,55,65,45,290,NULL,NULL
+575,575,Gothorita,NULL,18,Psychic,NULL,Frisk,Competitive,Shadow Tag,NULL,60,45,70,75,85,55,390,943,Level 32
+576,576,Gothitelle,NULL,44,Psychic,NULL,Frisk,Competitive,Shadow Tag,NULL,70,55,95,95,110,65,490,944,Level 41
+577,577,Solosis,NULL,1,Psychic,NULL,Overcoat,Magic Guard,Regenerator,NULL,45,30,40,105,50,20,290,NULL,NULL
+578,578,Duosion,NULL,8,Psychic,NULL,Overcoat,Magic Guard,Regenerator,NULL,65,40,50,125,60,30,370,946,Level 32
+579,579,Reuniclus,NULL,20.1,Psychic,NULL,Overcoat,Magic Guard,Regenerator,NULL,110,65,75,125,85,30,490,947,Level 41
+580,580,Ducklett,NULL,5.5,Water,Flying,Keen Eye,Big Pecks,Hydration,NULL,62,44,50,44,50,55,305,NULL,NULL
+581,581,Swanna,NULL,24.2,Water,Flying,Keen Eye,Big Pecks,Hydration,NULL,75,87,63,87,63,98,473,950,Level 35
+582,582,Vanillite,NULL,5.7,Ice,NULL,Ice Body,Snow Cloak,Weak Armor,NULL,36,50,50,65,60,44,305,NULL,NULL
+583,583,Vanillish,NULL,41,Ice,NULL,Ice Body,Snow Cloak,Weak Armor,NULL,51,65,65,80,75,59,395,952,Level 35
+584,584,Vanilluxe,NULL,57.5,Ice,NULL,Ice Body,Snow Warning,Weak Armor,NULL,71,95,85,110,95,79,535,953,Level 47
+585,585,Deerling,NULL,19.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,NULL,60,60,50,40,50,75,335,NULL,NULL
+2654,585,Deerling,Winter,19.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,NULL,60,60,50,40,50,75,335,NULL,NULL
+2655,585,Deerling,Summer,19.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,NULL,60,60,50,40,50,75,335,NULL,NULL
+2656,585,Deerling,Autumn,19.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,NULL,60,60,50,40,50,75,335,NULL,NULL
+586,586,Sawsbuck,NULL,92.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,NULL,80,100,70,60,70,95,475,955,Level 34
+2657,586,Sawsbuck,Winter,92.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,NULL,80,100,70,60,70,95,475,1789,Level 34
+2658,586,Sawsbuck,Summer,92.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,NULL,80,100,70,60,70,95,475,1787,Level 34
+2659,586,Sawsbuck,Autumn,92.5,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,NULL,80,100,70,60,70,95,475,1788,Level 34
+587,587,Emolga,NULL,5,Electric,Flying,Static,NULL,Motor Drive,NULL,55,75,60,75,60,103,428,NULL,NULL
+588,588,Karrablast,NULL,5.9,Bug,NULL,Swarm,Shed Skin,No Guard,NULL,50,75,45,40,45,60,315,NULL,NULL
+589,589,Escavalier,NULL,33,Bug,Steel,Swarm,Shell Armor,Overcoat,NULL,70,135,105,60,105,20,495,958,With Shelmet
+590,590,Foongus,NULL,1,Grass,Poison,Effect Spore,NULL,Regenerator,NULL,69,55,45,55,55,15,294,NULL,NULL
+591,591,Amoonguss,NULL,10.5,Grass,Poison,Effect Spore,NULL,Regenerator,NULL,114,85,70,85,80,30,464,961,Level 39
+592,592,Frillish,NULL,33,Water,Ghost,Water Absorb,Cursed Body,Damp,NULL,55,40,50,65,85,40,335,NULL,NULL
+593,593,Jellicent,NULL,135,Water,Ghost,Water Absorb,Cursed Body,Damp,NULL,100,60,70,85,105,60,480,963,Level 40
+594,594,Alomomola,NULL,31.6,Water,NULL,Healer,Hydration,Regenerator,NULL,165,75,80,40,45,65,470,NULL,NULL
+595,595,Joltik,NULL,0.6,Bug,Electric,Compound Eyes,Unnerve,Swarm,NULL,50,47,50,57,50,65,319,NULL,NULL
+596,596,Galvantula,NULL,14.3,Bug,Electric,Compound Eyes,Unnerve,Swarm,NULL,70,77,60,97,60,108,472,966,Level 36
+597,597,Ferroseed,NULL,18.8,Grass,Steel,Iron Barbs,NULL,NULL,NULL,44,50,91,24,86,10,305,NULL,NULL
+598,598,Ferrothorn,NULL,110,Grass,Steel,Iron Barbs,NULL,Anticipation,NULL,74,94,131,54,116,20,489,968,Level 40
+599,599,Klink,NULL,21,Steel,NULL,Plus,Minus,Clear Body,NULL,40,55,70,45,60,30,300,NULL,NULL
+600,600,Klang,NULL,51,Steel,NULL,Plus,Minus,Clear Body,NULL,60,80,95,70,85,50,440,970,Level 38
+601,601,Klinklang,NULL,81,Steel,NULL,Plus,Minus,Clear Body,NULL,60,100,115,70,85,90,520,972,Level 49
+602,602,Tynamo,NULL,0.3,Electric,NULL,Levitate,NULL,NULL,NULL,35,55,40,45,40,60,275,NULL,NULL
+603,603,Eelektrik,NULL,22,Electric,NULL,Levitate,NULL,NULL,NULL,65,85,70,75,70,40,405,974,Level 39
+604,604,Eelektross,NULL,80.5,Electric,NULL,Levitate,NULL,NULL,NULL,85,115,80,105,80,50,515,975,Thunder Stone
+605,605,Elgyem,NULL,9,Psychic,NULL,Telepathy,Synchronize,Analytic,NULL,55,55,55,85,55,30,335,NULL,NULL
+606,606,Beheeyem,NULL,34.5,Psychic,NULL,Telepathy,Synchronize,Analytic,NULL,75,75,75,125,95,40,485,977,Level 42
+607,607,Litwick,NULL,3.1,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,NULL,50,30,55,65,55,20,275,NULL,NULL
+608,608,Lampent,NULL,13,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,NULL,60,40,60,95,60,55,370,979,Level 41
+609,609,Chandelure,NULL,34.3,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,NULL,60,55,90,145,90,80,520,980,Dusk Stone
+610,610,Axew,NULL,18,Dragon,NULL,Rivalry,Mold Breaker,Unnerve,NULL,46,87,60,30,40,57,320,NULL,NULL
+611,611,Fraxure,NULL,36,Dragon,NULL,Rivalry,Mold Breaker,Unnerve,NULL,66,117,70,40,50,67,410,983,Level 38
+612,612,Haxorus,NULL,105.5,Dragon,NULL,Rivalry,Mold Breaker,Unnerve,NULL,76,147,90,60,70,97,540,984,Level 48
+613,613,Cubchoo,NULL,8.5,Ice,NULL,Snow Cloak,Slush Rush,Rattled,NULL,55,70,40,60,40,40,305,NULL,NULL
+614,614,Beartic,NULL,260,Ice,NULL,Snow Cloak,Slush Rush,Swift Swim,NULL,95,130,80,70,80,50,505,986,Level 37
+615,615,Cryogonal,NULL,148,Ice,NULL,Levitate,NULL,NULL,NULL,80,50,50,95,135,105,515,NULL,NULL
+616,616,Shelmet,NULL,7.7,Bug,NULL,Hydration,Shell Armor,Overcoat,NULL,50,40,85,40,65,25,305,NULL,NULL
+617,617,Accelgor,NULL,25.3,Bug,NULL,Hydration,Sticky Hold,Unburden,NULL,80,70,40,100,60,145,495,989,With Karrablast
+618,618,Stunfisk,NULL,11,Ground,Electric,Static,Limber,Sand Veil,NULL,109,66,84,81,99,32,471,NULL,NULL
+2691,618,Stunfisk,Galar,20.5,Ground,Steel,Mimicry,NULL,NULL,NULL,109,81,99,66,84,32,471,NULL,NULL
+619,619,Mienfoo,NULL,20,Fighting,NULL,Inner Focus,Regenerator,Reckless,NULL,45,85,50,55,50,65,350,NULL,NULL
+620,620,Mienshao,NULL,35.5,Fighting,NULL,Inner Focus,Regenerator,Reckless,NULL,65,125,60,95,60,105,510,992,Level 50
+621,621,Druddigon,NULL,139,Dragon,NULL,Rough Skin,Sheer Force,Mold Breaker,NULL,77,120,90,60,90,48,485,NULL,NULL
+622,622,Golett,NULL,92,Ground,Ghost,Iron Fist,Klutz,No Guard,NULL,59,74,50,35,50,35,303,NULL,NULL
+623,623,Golurk,NULL,330,Ground,Ghost,Iron Fist,Klutz,No Guard,NULL,89,124,80,55,80,55,483,996,Level 43
+624,624,Pawniard,NULL,10.2,Dark,Steel,Defiant,Inner Focus,Pressure,NULL,45,85,70,40,40,60,340,NULL,NULL
+625,625,Bisharp,NULL,70,Dark,Steel,Defiant,Inner Focus,Pressure,NULL,65,125,100,60,70,70,490,998,Level 52
+626,626,Bouffalant,NULL,94.5,Normal,NULL,Reckless,Sap Sipper,Soundproof,NULL,95,110,95,40,95,55,490,NULL,NULL
+627,627,Rufflet,NULL,10.5,Normal,Flying,Keen Eye,Sheer Force,Hustle,NULL,70,83,50,37,50,60,350,NULL,NULL
+628,628,Braviary,NULL,41,Normal,Flying,Keen Eye,Sheer Force,Defiant,NULL,100,123,75,57,75,80,510,1001,Level 54
+2701,628,Braviary,Hisui,43.4,Psychic,Flying,Keen Eye,Sheer Force,Tinted Lens,NULL,110,83,70,112,70,65,510,1001,Level 54 in Hisui
+2702,628,Braviary,Hisui,43.4,Psychic,Flying,Keen Eye,Sheer Force,Tinted Lens,NULL,110,83,70,112,70,65,510,1001,NULL
+629,629,Vullaby,NULL,9,Dark,Flying,Big Pecks,Overcoat,Weak Armor,NULL,70,55,75,45,65,60,370,NULL,NULL
+630,630,Mandibuzz,NULL,39.5,Dark,Flying,Big Pecks,Overcoat,Weak Armor,NULL,110,65,105,55,95,80,510,1003,Level 54
+631,631,Heatmor,NULL,58,Fire,NULL,Gluttony,Flash Fire,White Smoke,NULL,85,97,66,105,66,65,484,NULL,NULL
+632,632,Durant,NULL,33,Bug,Steel,Swarm,Hustle,Truant,NULL,58,109,112,48,48,109,484,NULL,NULL
+633,633,Deino,NULL,17.3,Dark,Dragon,Hustle,NULL,NULL,NULL,52,65,50,45,50,38,300,NULL,NULL
+634,634,Zweilous,NULL,50,Dark,Dragon,Hustle,NULL,NULL,NULL,72,85,70,65,70,58,420,1008,Level 50
+635,635,Hydreigon,NULL,160,Dark,Dragon,Levitate,NULL,NULL,NULL,92,105,90,125,90,98,600,1009,Level 64
+636,636,Larvesta,NULL,28.8,Bug,Fire,Flame Body,NULL,Swarm,NULL,55,85,55,50,55,60,360,NULL,NULL
+637,637,Volcarona,NULL,46,Bug,Fire,Flame Body,NULL,Swarm,NULL,85,60,65,135,105,100,550,1011,Level 59
+638,638,Cobalion,NULL,250,Steel,Fighting,Justified,NULL,NULL,NULL,91,90,129,90,72,108,580,NULL,NULL
+639,639,Terrakion,NULL,260,Rock,Fighting,Justified,NULL,NULL,NULL,91,129,90,72,90,108,580,NULL,NULL
+640,640,Virizion,NULL,200,Grass,Fighting,Justified,NULL,NULL,NULL,91,90,72,90,129,108,580,NULL,NULL
+641,641,Tornadus,NULL,63,Flying,NULL,Prankster,NULL,Defiant,NULL,79,115,70,125,80,111,580,NULL,NULL
+2715,641,Tornadus,Therian,63,Flying,NULL,Regenerator,NULL,NULL,NULL,79,100,80,110,90,121,580,NULL,NULL
+642,642,Thundurus,NULL,61,Electric,Flying,Prankster,NULL,Defiant,NULL,79,115,70,125,80,111,580,NULL,NULL
+2716,642,Thundurus,Therian,61,Electric,Flying,Volt Absorb,NULL,NULL,NULL,79,105,70,145,80,101,580,NULL,NULL
+643,643,Reshiram,NULL,330,Dragon,Fire,Turboblaze,NULL,NULL,NULL,100,120,100,150,120,90,680,NULL,NULL
+644,644,Zekrom,NULL,345,Dragon,Electric,Teravolt,NULL,NULL,NULL,100,150,120,120,100,90,680,NULL,NULL
+645,645,Landorus,NULL,68,Ground,Flying,Sand Force,NULL,Sheer Force,NULL,89,125,90,115,80,101,600,NULL,NULL
+2719,645,Landorus,Therian,68,Ground,Flying,Intimidate,NULL,NULL,NULL,89,145,90,105,80,91,600,NULL,NULL
+646,646,Kyurem,NULL,325,Dragon,Ice,Pressure,NULL,NULL,NULL,125,130,90,130,90,95,660,NULL,NULL
+2720,646,Kyurem,White,325,Dragon,Ice,Turboblaze,NULL,NULL,NULL,125,120,90,170,100,95,700,NULL,NULL
+2721,646,Kyurem,Black,325,Dragon,Ice,Teravolt,NULL,NULL,NULL,125,170,100,120,90,95,700,NULL,NULL
+647,647,Keldeo,NULL,48.5,Water,Fighting,Justified,NULL,NULL,NULL,91,72,90,129,90,108,580,NULL,NULL
+2722,647,Keldeo,Resolute,48.5,Water,Fighting,Justified,NULL,NULL,NULL,91,72,90,129,90,108,580,NULL,NULL
+648,648,Meloetta,NULL,6.5,Normal,Psychic,Serene Grace,NULL,NULL,NULL,100,77,77,128,128,90,600,NULL,NULL
+2723,648,Meloetta,Pirouette,6.5,Normal,Fighting,Serene Grace,NULL,NULL,NULL,100,128,90,77,77,128,600,NULL,NULL
+649,649,Genesect,NULL,82.5,Bug,Steel,Download,NULL,NULL,NULL,71,120,95,120,95,99,600,NULL,NULL
+650,650,Chespin,NULL,9,Grass,NULL,Overgrow,NULL,Bulletproof,NULL,56,61,65,48,45,38,313,NULL,NULL
+651,651,Quilladin,NULL,29,Grass,NULL,Overgrow,NULL,Bulletproof,NULL,61,78,95,56,58,57,405,1066,Level 16
+652,652,Chesnaught,NULL,90,Grass,Fighting,Overgrow,NULL,Bulletproof,NULL,88,107,122,74,75,64,530,1067,Level 36
+653,653,Fennekin,NULL,9.4,Fire,NULL,Blaze,NULL,Magician,NULL,40,45,40,62,60,60,307,NULL,NULL
+654,654,Braixen,NULL,14.5,Fire,NULL,Blaze,NULL,Magician,NULL,59,59,58,90,70,73,409,1069,Level 16
+655,655,Delphox,NULL,39,Fire,Psychic,Blaze,NULL,Magician,NULL,75,69,72,114,100,104,534,1070,Level 36
+656,656,Froakie,NULL,7,Water,NULL,Torrent,NULL,Protean,NULL,41,56,40,62,44,71,314,NULL,NULL
+657,657,Frogadier,NULL,10.9,Water,NULL,Torrent,NULL,Protean,NULL,54,63,52,83,56,97,405,1072,Level 16
+658,658,Greninja,NULL,40,Water,Dark,Torrent,NULL,Protean,Battle Bond,72,95,67,103,71,122,530,1073,Level 36
+2733,658,Greninja,Ash,40,Water,Dark,Battle Bond,NULL,NULL,NULL,72,145,67,153,71,132,640,NULL,NULL
+659,659,Bunnelby,NULL,5,Normal,NULL,Pickup,Cheek Pouch,Huge Power,NULL,38,36,38,32,36,57,237,NULL,NULL
+660,660,Diggersby,NULL,42.4,Normal,Ground,Pickup,Cheek Pouch,Huge Power,NULL,85,56,77,50,77,78,423,1075,Level 20
+661,661,Fletchling,NULL,1.7,Normal,Flying,Big Pecks,NULL,Gale Wings,NULL,45,50,43,40,38,62,278,NULL,NULL
+662,662,Fletchinder,NULL,16,Fire,Flying,Flame Body,NULL,Gale Wings,NULL,62,73,55,56,52,84,382,1078,Level 17
+663,663,Talonflame,NULL,24.5,Fire,Flying,Flame Body,NULL,Gale Wings,NULL,78,81,71,74,69,126,499,1079,Level 35
+664,664,Scatterbug,NULL,2.5,Bug,NULL,Shield Dust,Compound Eyes,Friend Guard,NULL,38,35,40,27,25,35,200,NULL,NULL
+665,665,Spewpa,NULL,8.4,Bug,NULL,Shed Skin,NULL,Friend Guard,NULL,45,22,60,27,30,29,213,1081,Level 9
+666,666,Vivillon,NULL,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2741,666,Vivillon,Tundra,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2742,666,Vivillon,Sun,17,Bug,Flying,Sap Sipper,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2743,666,Vivillon,Savanna,17,Bug,Flying,Sap Sipper,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2744,666,Vivillon,Sandstorm,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2745,666,Vivillon,River,17,Bug,Flying,Sap Sipper,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2746,666,Vivillon,Polar,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2747,666,Vivillon,Poké-Ball,17,Bug,Flying,Sap Sipper,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2748,666,Vivillon,Ocean,17,Bug,Flying,Sap Sipper,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2749,666,Vivillon,Monsoon,17,Bug,Flying,Sap Sipper,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2750,666,Vivillon,Modern,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2751,666,Vivillon,Marine,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2752,666,Vivillon,Jungle,17,Bug,Flying,Sap Sipper,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2753,666,Vivillon,Icy-Snow,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2754,666,Vivillon,High-Plains,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2755,666,Vivillon,Garden,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2756,666,Vivillon,Fancy,17,Bug,Flying,Sap Sipper,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2757,666,Vivillon,Elegant,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2758,666,Vivillon,Continental,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+2759,666,Vivillon,Archipelago,17,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,NULL,80,52,50,90,50,89,411,1082,Level 12
+667,667,Litleo,NULL,13.5,Fire,Normal,Rivalry,Unnerve,Moxie,NULL,62,50,58,73,54,72,369,NULL,NULL
+668,668,Pyroar,NULL,81.5,Fire,Normal,Rivalry,Unnerve,Moxie,NULL,86,68,72,109,66,106,507,1084,Level 35
+669,669,Flabébé,NULL,0.1,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,44,38,39,61,79,42,303,NULL,NULL
+2762,669,Flabébé,Yellow-Flower,0.1,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,44,38,39,61,79,42,303,NULL,NULL
+2763,669,Flabébé,White-Flower,0.1,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,44,38,39,61,79,42,303,NULL,NULL
+2764,669,Flabébé,Orange-Flower,0.1,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,44,38,39,61,79,42,303,NULL,NULL
+2765,669,Flabébé,Blue-Flower,0.1,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,44,38,39,61,79,42,303,NULL,NULL
+670,670,Floette,NULL,0.9,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,54,45,47,75,98,52,371,1086,Level 19
+2766,670,Floette,Yellow-Flower,0.9,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,54,45,47,75,98,52,371,1772,Level 19
+2767,670,Floette,White-Flower,0.9,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,54,45,47,75,98,52,371,1775,Level 19
+2768,670,Floette,Orange-Flower,0.9,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,54,45,47,75,98,52,371,1773,Level 19
+2769,670,Floette,Blue-Flower,0.9,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,54,45,47,75,98,52,371,1774,Level 19
+671,671,Florges,NULL,10,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,78,65,68,112,154,75,552,1088,Shiny Stone
+2770,671,Florges,Yellow-Flower,10,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,78,65,68,112,154,75,552,1776,Shiny Stone
+2771,671,Florges,White-Flower,10,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,78,65,68,112,154,75,552,1779,Shiny Stone
+2772,671,Florges,Orange-Flower,10,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,78,65,68,112,154,75,552,1777,Shiny Stone
+2773,671,Florges,Blue-Flower,10,Fairy,NULL,Flower Veil,NULL,Symbiosis,NULL,78,65,68,112,154,75,552,1778,Shiny Stone
+672,672,Skiddo,NULL,31,Grass,NULL,Sap Sipper,NULL,Grass Pelt,NULL,66,65,48,62,57,52,350,NULL,NULL
+673,673,Gogoat,NULL,91,Grass,NULL,Sap Sipper,NULL,Grass Pelt,NULL,123,100,62,97,81,68,531,1090,Level 32
+674,674,Pancham,NULL,8,Fighting,NULL,Iron Fist,Mold Breaker,Scrappy,NULL,67,82,62,46,48,43,348,NULL,NULL
+675,675,Pangoro,NULL,136,Fighting,Dark,Iron Fist,Mold Breaker,Scrappy,NULL,95,124,78,69,71,58,495,1092,Level 32 With Dark-Type Pokemon In Party
+676,676,Furfrou,NULL,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2778,676,Furfrou,Star-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2779,676,Furfrou,Pharaoh-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2780,676,Furfrou,Matron-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2781,676,Furfrou,La-Reine-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2782,676,Furfrou,Kabuki-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2783,676,Furfrou,Heart-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2784,676,Furfrou,Diamond-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2785,676,Furfrou,Debutante-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+2786,676,Furfrou,Dandy-Trim,28,Normal,NULL,Fur Coat,NULL,NULL,NULL,75,80,60,65,90,102,472,NULL,NULL
+677,677,Espurr,NULL,3.5,Psychic,NULL,Keen Eye,Infiltrator,Own Tempo,NULL,62,48,54,63,60,68,355,NULL,NULL
+678,678,Meowstic,NULL,8.5,Psychic,NULL,Keen Eye,Infiltrator,Prankster,NULL,74,48,76,83,81,104,466,1095,Level 25
+2788,678,Meowstic,Female,8.5,Psychic,NULL,Keen Eye,Infiltrator,Competitive,NULL,74,48,76,83,81,104,466,1095,Level 25
+679,679,Honedge,NULL,2,Steel,Ghost,No Guard,NULL,NULL,NULL,45,80,100,35,37,28,325,NULL,NULL
+680,680,Doublade,NULL,4.5,Steel,Ghost,No Guard,NULL,NULL,NULL,59,110,150,45,49,35,448,25,Level 35
+681,681,Aegislash,NULL,53,Steel,Ghost,Stance Change,NULL,NULL,NULL,60,50,140,50,140,60,500,26,Dusk Stone
+2791,681,Aegislash,Blade,53,Steel,Ghost,Stance Change,NULL,NULL,NULL,60,140,50,140,50,60,500,NULL,NULL
+682,682,Spritzee,NULL,0.5,Fairy,NULL,Healer,NULL,Aroma Veil,NULL,78,52,60,63,65,23,341,NULL,NULL
+683,683,Aromatisse,NULL,15.5,Fairy,NULL,Healer,NULL,Aroma Veil,NULL,101,72,72,99,89,29,462,1101,Sachet
+684,684,Swirlix,NULL,3.5,Fairy,NULL,Sweet Veil,NULL,Unburden,NULL,62,48,66,59,57,49,341,NULL,NULL
+685,685,Slurpuff,NULL,5,Fairy,NULL,Sweet Veil,NULL,Unburden,NULL,82,80,86,85,75,72,480,1103,Whipped Dream
+686,686,Inkay,NULL,3.5,Dark,Psychic,Suction Cups,Contrary,Infiltrator,NULL,53,54,53,37,46,45,288,NULL,NULL
+687,687,Malamar,NULL,47,Dark,Psychic,Suction Cups,Contrary,Infiltrator,NULL,86,92,88,68,75,73,482,1105,Level 30 With Console Upside-Down
+688,688,Binacle,NULL,31,Rock,Water,Tough Claws,Sniper,Pickpocket,NULL,42,52,67,39,56,50,306,NULL,NULL
+689,689,Barbaracle,NULL,96,Rock,Water,Tough Claws,Sniper,Pickpocket,NULL,72,105,115,54,86,68,500,1107,Level 39
+690,690,Skrelp,NULL,7.3,Poison,Water,Poison Point,Poison Touch,Adaptability,NULL,50,60,60,60,60,30,320,NULL,NULL
+691,691,Dragalge,NULL,81.5,Poison,Dragon,Poison Point,Poison Touch,Adaptability,NULL,65,75,90,97,123,44,494,1110,Level 48
+692,692,Clauncher,NULL,8.3,Water,NULL,Mega Launcher,NULL,NULL,NULL,50,53,62,58,63,44,330,NULL,NULL
+693,693,Clawitzer,NULL,35.3,Water,NULL,Mega Launcher,NULL,NULL,NULL,71,73,88,120,89,59,500,1112,Level 37
+694,694,Helioptile,NULL,6,Electric,Normal,Dry Skin,Sand Veil,Solar Power,NULL,44,38,33,61,43,70,289,NULL,NULL
+695,695,Heliolisk,NULL,21,Electric,Normal,Dry Skin,Sand Veil,Solar Power,NULL,62,55,52,109,94,109,481,1122,Sun Stone
+696,696,Tyrunt,NULL,26,Rock,Dragon,Strong Jaw,NULL,Sturdy,NULL,58,89,77,45,45,48,362,NULL,NULL
+697,697,Tyrantrum,NULL,270,Rock,Dragon,Strong Jaw,NULL,Rock Head,NULL,82,121,119,69,59,71,521,1124,Level 39 During The Day
+698,698,Amaura,NULL,25.2,Rock,Ice,Refrigerate,NULL,Snow Warning,NULL,77,59,50,67,63,46,362,NULL,NULL
+699,699,Aurorus,NULL,225,Rock,Ice,Refrigerate,NULL,Snow Warning,NULL,123,77,72,99,92,58,521,1126,Level 39 During The Night
+700,700,Sylveon,NULL,23.5,Fairy,NULL,Cute Charm,NULL,Pixilate,NULL,95,65,65,110,130,60,525,228,Knowing A Fairy Move With 2+ Levels Of Affection
+2810,700,Sylveon,NULL,23.5,Fairy,NULL,Cute Charm,NULL,Pixilate,NULL,95,65,65,110,130,60,525,228,Knowing a Fairy Move
+701,701,Hawlucha,NULL,21.5,Fighting,Flying,Limber,Unburden,Mold Breaker,NULL,78,92,75,74,63,118,500,NULL,NULL
+702,702,Dedenne,NULL,2.2,Electric,Fairy,Cheek Pouch,Pickup,Plus,NULL,67,58,57,81,67,101,431,NULL,NULL
+703,703,Carbink,NULL,5.7,Rock,Fairy,Clear Body,NULL,Sturdy,NULL,50,50,150,50,150,50,500,NULL,NULL
+704,704,Goomy,NULL,2.8,Dragon,NULL,Sap Sipper,Hydration,Gooey,NULL,45,50,35,55,75,40,300,NULL,NULL
+705,705,Sliggoo,NULL,17.5,Dragon,NULL,Sap Sipper,Hydration,Gooey,NULL,68,75,53,83,113,60,452,1133,Level 40
+2815,705,Sliggoo,Hisui,68.5,Steel,Dragon,Sap Sipper,Shell Armor,Gooey,NULL,58,75,83,83,113,40,452,1133,Level 40 in Hisui
+2816,705,Sliggoo,Hisui,68.5,Steel,Dragon,Sap Sipper,Shell Armor,Gooey,NULL,58,75,83,83,113,40,452,1133,NULL
+706,706,Goodra,NULL,150.5,Dragon,NULL,Sap Sipper,Hydration,Gooey,NULL,90,100,70,110,150,80,600,1134,Level 50 When Raining Or Foggy Outside Battle
+2817,706,Goodra,Hisui,334.1,Steel,Dragon,Sap Sipper,Shell Armor,Gooey,NULL,80,100,100,110,150,60,600,1637,Level 50 When Raining or Foggy Outside Battle
+707,707,Klefki,NULL,3,Steel,Fairy,Prankster,NULL,Magician,NULL,57,80,91,80,87,75,470,NULL,NULL
+708,708,Phantump,NULL,7,Ghost,Grass,Natural Cure,Frisk,Harvest,NULL,43,70,48,50,60,38,309,NULL,NULL
+709,709,Trevenant,NULL,71,Ghost,Grass,Natural Cure,Frisk,Harvest,NULL,85,110,76,65,82,56,474,1137,NULL
+710,710,Pumpkaboo,NULL,5,Ghost,Grass,Pickup,Frisk,Insomnia,NULL,49,66,70,44,55,51,335,NULL,NULL
+2821,710,Pumpkaboo,Super,15,Ghost,Grass,Pickup,Frisk,Insomnia,NULL,59,66,70,44,55,41,335,NULL,NULL
+2822,710,Pumpkaboo,Small,3.5,Ghost,Grass,Pickup,Frisk,Insomnia,NULL,44,66,70,44,55,56,335,NULL,NULL
+2823,710,Pumpkaboo,Large,7.5,Ghost,Grass,Pickup,Frisk,Insomnia,NULL,54,66,70,44,55,46,335,NULL,NULL
+711,711,Gourgeist,NULL,12.5,Ghost,Grass,Pickup,Frisk,Insomnia,NULL,65,90,122,58,75,84,494,1140,NULL
+2824,711,Gourgeist,Super,39,Ghost,Grass,Pickup,Frisk,Insomnia,NULL,85,100,122,58,75,54,494,1801,NULL
+2825,711,Gourgeist,Small,9.5,Ghost,Grass,Pickup,Frisk,Insomnia,NULL,55,85,122,58,75,99,494,1799,NULL
+2826,711,Gourgeist,Large,14,Ghost,Grass,Pickup,Frisk,Insomnia,NULL,75,95,122,58,75,69,494,1800,NULL
+712,712,Bergmite,NULL,99.5,Ice,NULL,Own Tempo,Ice Body,Sturdy,NULL,55,69,85,32,35,28,304,NULL,NULL
+713,713,Avalugg,NULL,505,Ice,NULL,Own Tempo,Ice Body,Sturdy,NULL,95,117,184,44,46,28,514,1142,Level 37
+2828,713,Avalugg,Hisui,262.4,Ice,Rock,Strong Jaw,Ice Body,Sturdy,NULL,95,127,184,34,36,38,514,1142,Level 37 in Hisui
+2829,713,Avalugg,Hisui,262.4,Ice,Rock,Strong Jaw,Ice Body,Sturdy,NULL,95,127,184,34,36,38,514,1142,NULL
+714,714,Noibat,NULL,8,Flying,Dragon,Frisk,Infiltrator,Telepathy,NULL,40,30,35,45,40,55,245,NULL,NULL
+715,715,Noivern,NULL,85,Flying,Dragon,Frisk,Infiltrator,Telepathy,NULL,85,70,80,97,80,123,535,1144,Level 48
+716,716,Xerneas,NULL,215,Fairy,NULL,Fairy Aura,NULL,NULL,NULL,126,131,95,131,98,99,680,NULL,NULL
+717,717,Yveltal,NULL,203,Dark,Flying,Dark Aura,NULL,NULL,NULL,126,131,95,131,98,99,680,NULL,NULL
+718,718,Zygarde,NULL,305,Dragon,Ground,Aura Break,Power Construct,NULL,NULL,108,100,121,81,95,95,600,NULL,NULL
+2834,718,Zygarde,Complete,610,Dragon,Ground,Power Construct,NULL,NULL,NULL,216,100,121,91,95,85,708,NULL,NULL
+2835,718,Zygarde,10%,33.5,Dragon,Ground,Aura Break,Power Construct,NULL,NULL,54,100,71,61,85,115,486,NULL,NULL
+719,719,Diancie,NULL,8.8,Rock,Fairy,Clear Body,NULL,NULL,NULL,50,100,150,100,150,50,600,NULL,NULL
+2836,719,Diancie,Mega,27.8,Rock,Fairy,Magic Bounce,NULL,NULL,NULL,50,160,110,160,110,110,700,NULL,NULL
+720,720,Hoopa,NULL,9,Psychic,Ghost,Magician,NULL,NULL,NULL,80,110,60,150,130,70,600,NULL,NULL
+2837,720,Hoopa,Unbound,490,Psychic,Dark,Magician,NULL,NULL,NULL,80,160,60,170,130,80,680,NULL,NULL
+721,721,Volcanion,NULL,195,Fire,Water,Water Absorb,NULL,NULL,NULL,80,110,120,130,90,70,600,NULL,NULL
+722,722,Rowlet,NULL,1.5,Grass,Flying,Overgrow,NULL,Long Reach,NULL,68,55,55,50,50,40,318,NULL,NULL
+723,723,Dartrix,NULL,16,Grass,Flying,Overgrow,NULL,Long Reach,NULL,78,75,75,70,70,52,420,1246,Level 17
+724,724,Decidueye,NULL,36.6,Grass,Ghost,Overgrow,NULL,Long Reach,NULL,78,107,75,100,100,70,530,1247,Level 34
+2841,724,Decidueye,Hisui,37,Grass,Fighting,Overgrow,NULL,Scrappy,NULL,88,112,80,95,95,60,530,1247,Level 34 in Hisui
+2842,724,Decidueye,Hisui,37,Grass,Fighting,Overgrow,NULL,Scrappy,NULL,88,112,80,95,95,60,530,1247,NULL
+725,725,Litten,NULL,4.3,Fire,NULL,Blaze,NULL,Intimidate,NULL,45,65,40,60,40,70,320,NULL,NULL
+726,726,Torracat,NULL,25,Fire,NULL,Blaze,NULL,Intimidate,NULL,65,85,50,80,50,90,420,1249,Level 17
+727,727,Incineroar,NULL,83,Fire,Dark,Blaze,NULL,Intimidate,NULL,95,115,90,80,90,60,530,1250,Level 34
+728,728,Popplio,NULL,7.5,Water,NULL,Torrent,NULL,Liquid Voice,NULL,50,54,54,66,56,40,320,NULL,NULL
+729,729,Brionne,NULL,17.5,Water,NULL,Torrent,NULL,Liquid Voice,NULL,60,69,69,91,81,50,420,1252,Level 17
+730,730,Primarina,NULL,44,Water,Fairy,Torrent,NULL,Liquid Voice,NULL,80,74,74,126,116,60,530,1253,Level 34
+731,731,Pikipek,NULL,1.2,Normal,Flying,Keen Eye,Skill Link,Pickup,NULL,35,75,30,30,30,65,265,NULL,NULL
+732,732,Trumbeak,NULL,14.8,Normal,Flying,Keen Eye,Skill Link,Pickup,NULL,55,85,50,40,50,75,355,1256,Level 14
+733,733,Toucannon,NULL,26,Normal,Flying,Keen Eye,Skill Link,Sheer Force,NULL,80,120,75,75,75,60,485,1257,Level 28
+734,734,Yungoos,NULL,6,Normal,NULL,Stakeout,Strong Jaw,Adaptability,NULL,48,70,30,30,30,45,253,NULL,NULL
+735,735,Gumshoos,NULL,14.2,Normal,NULL,Stakeout,Strong Jaw,Adaptability,NULL,88,110,60,55,60,45,418,1259,Level 20 During The Day
+736,736,Grubbin,NULL,4.4,Bug,NULL,Swarm,NULL,NULL,NULL,47,62,45,55,45,46,300,NULL,NULL
+737,737,Charjabug,NULL,10.5,Bug,Electric,Battery,NULL,NULL,NULL,57,82,95,55,75,36,400,1261,Level 20
+738,738,Vikavolt,NULL,45,Bug,Electric,Levitate,NULL,NULL,NULL,77,70,90,145,75,43,500,1262,In a Special Magnetic Field
+2856,738,Vikavolt,NULL,45,Bug,Electric,Levitate,NULL,NULL,NULL,77,70,90,145,75,43,500,1262,Thunder Stone
+739,739,Crabrawler,NULL,7,Fighting,NULL,Hyper Cutter,Iron Fist,Anger Point,NULL,47,82,57,42,47,63,338,NULL,NULL
+740,740,Crabominable,NULL,180,Fighting,Ice,Hyper Cutter,Iron Fist,Anger Point,NULL,97,132,77,62,67,43,478,1264,At Mount Lanakila In Alola
+2858,740,Crabominable,NULL,180,Fighting,Ice,Hyper Cutter,Iron Fist,Anger Point,NULL,97,132,77,62,67,43,478,1264,Ice Stone
+741,741,Oricorio,NULL,3.4,Fire,Flying,Dancer,NULL,NULL,NULL,75,70,70,98,70,93,476,NULL,NULL
+2859,741,Oricorio,Sensu,3.4,Ghost,Flying,Dancer,NULL,NULL,NULL,75,70,70,98,70,93,476,NULL,NULL
+2860,741,Oricorio,Pom-Pom,3.4,Electric,Flying,Dancer,NULL,NULL,NULL,75,70,70,98,70,93,476,NULL,NULL
+2861,741,Oricorio,Pa'u,3.4,Psychic,Flying,Dancer,NULL,NULL,NULL,75,70,70,98,70,93,476,NULL,NULL
+742,742,Cutiefly,NULL,0.2,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,NULL,40,45,40,55,40,84,304,NULL,NULL
+743,743,Ribombee,NULL,0.5,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,NULL,60,55,60,96,70,124,465,1268,Level 25
+744,744,Rockruff,NULL,9.2,Rock,NULL,Keen Eye,Vital Spirit,Steadfast,Own Tempo,45,65,40,30,40,60,280,NULL,NULL
+745,745,Lycanroc,NULL,25,Rock,NULL,Keen Eye,Sand Rush,Steadfast,NULL,75,115,65,55,65,112,487,1270,Level 25 During The Day
+2865,745,Lycanroc,Midnight,25,Rock,NULL,Keen Eye,Vital Spirit,No Guard,NULL,85,115,75,55,75,82,487,1270,Level 25 During The Night
+2866,745,Lycanroc,Dusk,25,Rock,NULL,Tough Claws,NULL,NULL,NULL,75,117,65,55,65,110,487,1270,Level 25 With Own Tempo Between 5-6pm
+746,746,Wishiwashi,NULL,0.3,Water,NULL,Schooling,NULL,NULL,NULL,45,20,20,25,25,40,175,NULL,NULL
+2867,746,Wishiwashi,School,78.6,Water,NULL,Schooling,NULL,NULL,NULL,45,140,130,140,135,30,620,NULL,NULL
+747,747,Mareanie,NULL,8,Poison,Water,Merciless,Limber,Regenerator,NULL,50,53,62,43,52,45,305,NULL,NULL
+748,748,Toxapex,NULL,14.5,Poison,Water,Merciless,Limber,Regenerator,NULL,50,63,152,53,142,35,495,1273,Level 38
+749,749,Mudbray,NULL,110,Ground,NULL,Own Tempo,Stamina,Inner Focus,NULL,70,100,70,45,55,45,385,NULL,NULL
+750,750,Mudsdale,NULL,920,Ground,NULL,Own Tempo,Stamina,Inner Focus,NULL,100,125,100,55,85,35,500,1275,Level 30
+751,751,Dewpider,NULL,4,Water,Bug,Water Bubble,NULL,Water Absorb,NULL,38,40,52,40,72,27,269,NULL,NULL
+752,752,Araquanid,NULL,82,Water,Bug,Water Bubble,NULL,Water Absorb,NULL,68,70,92,50,132,42,454,1278,Level 22
+753,753,Fomantis,NULL,1.5,Grass,NULL,Leaf Guard,NULL,Contrary,NULL,40,55,35,50,35,35,250,NULL,NULL
+754,754,Lurantis,NULL,18.5,Grass,NULL,Leaf Guard,NULL,Contrary,NULL,70,105,90,80,90,45,480,1280,Level 34 During The Day
+755,755,Morelull,NULL,1.5,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,NULL,40,35,55,65,75,15,285,NULL,NULL
+756,756,Shiinotic,NULL,11.5,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,NULL,60,45,80,90,100,30,405,1282,Level 24
+757,757,Salandit,NULL,4.8,Poison,Fire,Corrosion,NULL,Oblivious,NULL,48,44,40,71,40,77,320,NULL,NULL
+758,758,Salazzle,NULL,22.2,Poison,Fire,Corrosion,NULL,Oblivious,NULL,68,64,60,111,60,117,480,1284,Level 33 When Female
+759,759,Stufful,NULL,6.8,Normal,Fighting,Fluffy,Klutz,Cute Charm,NULL,70,75,50,45,50,50,340,NULL,NULL
+760,760,Bewear,NULL,135,Normal,Fighting,Fluffy,Klutz,Unnerve,NULL,120,125,80,55,60,60,500,1286,Level 27
+761,761,Bounsweet,NULL,3.2,Grass,NULL,Leaf Guard,Oblivious,Sweet Veil,NULL,42,30,38,30,38,32,210,NULL,NULL
+762,762,Steenee,NULL,8.2,Grass,NULL,Leaf Guard,Oblivious,Sweet Veil,NULL,52,40,48,40,48,62,290,1289,Level 18
+763,763,Tsareena,NULL,21.4,Grass,NULL,Leaf Guard,Queenly Majesty,Sweet Veil,NULL,72,120,98,50,98,72,510,1290,Knowing Stomp
+764,764,Comfey,NULL,0.3,Fairy,NULL,Flower Veil,Triage,Natural Cure,NULL,51,52,90,82,110,100,485,NULL,NULL
+765,765,Oranguru,NULL,76,Normal,Psychic,Inner Focus,Telepathy,Symbiosis,NULL,90,60,80,90,110,60,490,NULL,NULL
+766,766,Passimian,NULL,82.8,Fighting,NULL,Receiver,NULL,Defiant,NULL,100,120,90,40,60,80,490,NULL,NULL
+767,767,Wimpod,NULL,12,Bug,Water,Wimp Out,NULL,NULL,NULL,25,35,40,20,30,80,230,NULL,NULL
+768,768,Golisopod,NULL,108,Bug,Water,Emergency Exit,NULL,NULL,NULL,75,125,140,60,90,40,530,1294,Level 30
+769,769,Sandygast,NULL,70,Ghost,Ground,Water Compaction,NULL,Sand Veil,NULL,55,55,80,70,45,15,320,NULL,NULL
+770,770,Palossand,NULL,250,Ghost,Ground,Water Compaction,NULL,Sand Veil,NULL,85,75,110,100,75,35,480,1296,Level 42
+771,771,Pyukumuku,NULL,1.2,Water,NULL,Innards Out,NULL,Unaware,NULL,55,60,130,30,130,5,410,NULL,NULL
+772,772,Type: Null,NULL,120.5,Normal,NULL,Battle Armor,NULL,NULL,NULL,95,95,95,95,95,59,534,NULL,NULL
+773,773,Silvally,NULL,100.5,Normal,NULL,RKS System,NULL,NULL,NULL,95,95,95,95,95,95,570,1300,NULL
+774,774,Minior,NULL,40,Rock,Flying,Shields Down,NULL,NULL,NULL,60,60,100,60,100,60,440,NULL,NULL
+2895,774,Minior,Yellow,0.3,Rock,Flying,Shields Down,NULL,NULL,NULL,60,100,60,100,60,120,500,NULL,NULL
+2896,774,Minior,Violet,0.3,Rock,Flying,Shields Down,NULL,NULL,NULL,60,100,60,100,60,120,500,NULL,NULL
+2897,774,Minior,Red,0.3,Rock,Flying,Shields Down,NULL,NULL,NULL,60,100,60,100,60,120,500,NULL,NULL
+2898,774,Minior,Orange,0.3,Rock,Flying,Shields Down,NULL,NULL,NULL,60,100,60,100,60,120,500,NULL,NULL
+2899,774,Minior,Indigo,0.3,Rock,Flying,Shields Down,NULL,NULL,NULL,60,100,60,100,60,120,500,NULL,NULL
+2900,774,Minior,Green,0.3,Rock,Flying,Shields Down,NULL,NULL,NULL,60,100,60,100,60,120,500,NULL,NULL
+2901,774,Minior,Blue,0.3,Rock,Flying,Shields Down,NULL,NULL,NULL,60,100,60,100,60,120,500,NULL,NULL
+775,775,Komala,NULL,19.9,Normal,NULL,Comatose,NULL,NULL,NULL,65,115,65,75,95,65,480,NULL,NULL
+776,776,Turtonator,NULL,212,Fire,Dragon,Shell Armor,NULL,NULL,NULL,60,78,135,91,85,36,485,NULL,NULL
+777,777,Togedemaru,NULL,3.3,Electric,Steel,Iron Barbs,Lightning Rod,Sturdy,NULL,65,98,63,40,73,96,435,NULL,NULL
+778,778,Mimikyu,NULL,0.7,Ghost,Fairy,Disguise,NULL,NULL,NULL,55,90,80,50,105,96,476,NULL,NULL
+779,779,Bruxish,NULL,19,Water,Psychic,Dazzling,Strong Jaw,Wonder Skin,NULL,68,105,70,70,70,92,475,NULL,NULL
+780,780,Drampa,NULL,185,Normal,Dragon,Berserk,Sap Sipper,Cloud Nine,NULL,78,60,85,135,91,36,485,NULL,NULL
+781,781,Dhelmise,NULL,210,Ghost,Grass,Steelworker,NULL,NULL,NULL,70,131,100,86,90,40,517,NULL,NULL
+782,782,Jangmo-o,NULL,29.7,Dragon,NULL,Bulletproof,Soundproof,Overcoat,NULL,45,55,65,45,45,45,300,NULL,NULL
+783,783,Hakamo-o,NULL,47,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,NULL,55,75,90,65,70,65,420,1311,Level 35
+784,784,Kommo-o,NULL,78.2,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,NULL,75,110,125,100,105,85,600,1312,Level 45
+785,785,Tapu Koko,NULL,20.5,Electric,Fairy,Electric Surge,NULL,Telepathy,NULL,70,115,85,95,75,130,570,NULL,NULL
+786,786,Tapu Lele,NULL,18.6,Psychic,Fairy,Psychic Surge,NULL,Telepathy,NULL,70,85,75,130,115,95,570,NULL,NULL
+787,787,Tapu Bulu,NULL,45.5,Grass,Fairy,Grassy Surge,NULL,Telepathy,NULL,70,130,115,85,95,75,570,NULL,NULL
+788,788,Tapu Fini,NULL,21.2,Water,Fairy,Misty Surge,NULL,Telepathy,NULL,70,75,115,95,130,85,570,NULL,NULL
+789,789,Cosmog,NULL,0.1,Psychic,NULL,Unaware,NULL,NULL,NULL,43,29,31,29,31,37,200,NULL,NULL
+790,790,Cosmoem,NULL,999.9,Psychic,NULL,Sturdy,NULL,NULL,NULL,43,29,131,29,131,37,400,1318,Level 43
+791,791,Solgaleo,NULL,230,Psychic,Steel,Full Metal Body,NULL,NULL,NULL,137,137,107,113,89,97,680,1320,Level 53 In Sun Or Ultra Sun
+2918,791,Solgaleo,NULL,230,Psychic,Steel,Full Metal Body,NULL,NULL,NULL,137,137,107,113,89,97,680,1320,Level 53 In Sword
+2919,791,Solgaleo,NULL,230,Psychic,Steel,Full Metal Body,NULL,NULL,NULL,137,137,107,113,89,97,680,1320,Level 53 in Scarlet
+792,792,Lunala,NULL,120,Psychic,Ghost,Shadow Shield,NULL,NULL,NULL,137,113,89,137,107,97,680,1320,Level 53 In Moon Or Ultra Moon
+2920,792,Lunala,NULL,120,Psychic,Ghost,Shadow Shield,NULL,NULL,NULL,137,113,89,137,107,97,680,1320,Level 53 In Shield
+2921,792,Lunala,NULL,120,Psychic,Ghost,Shadow Shield,NULL,NULL,NULL,137,113,89,137,107,97,680,1320,Level 53 in Violet
+793,793,Nihilego,NULL,55.5,Rock,Poison,Beast Boost,NULL,NULL,NULL,109,53,47,127,131,103,570,NULL,NULL
+794,794,Buzzwole,NULL,333.6,Bug,Fighting,Beast Boost,NULL,NULL,NULL,107,139,139,53,53,79,570,NULL,NULL
+795,795,Pheromosa,NULL,25,Bug,Fighting,Beast Boost,NULL,NULL,NULL,71,137,37,137,37,151,570,NULL,NULL
+796,796,Xurkitree,NULL,100,Electric,NULL,Beast Boost,NULL,NULL,NULL,83,89,71,173,71,83,570,NULL,NULL
+797,797,Celesteela,NULL,999.9,Steel,Flying,Beast Boost,NULL,NULL,NULL,97,101,103,107,101,61,570,NULL,NULL
+798,798,Kartana,NULL,0.1,Grass,Steel,Beast Boost,NULL,NULL,NULL,59,181,131,59,31,109,570,NULL,NULL
+799,799,Guzzlord,NULL,888,Dark,Dragon,Beast Boost,NULL,NULL,NULL,223,101,53,97,53,43,570,NULL,NULL
+800,800,Necrozma,NULL,230,Psychic,NULL,Prism Armor,NULL,NULL,NULL,97,107,101,127,89,79,600,NULL,NULL
+2929,800,Necrozma,Ultra,230,Psychic,Dragon,Neuroforce,NULL,NULL,NULL,97,167,97,167,97,129,754,NULL,NULL
+2930,800,Necrozma,Dusk-Mane,460,Psychic,Steel,Prism Armor,NULL,NULL,NULL,97,157,127,113,109,77,680,NULL,NULL
+2931,800,Necrozma,Dawn-Wings,350,Psychic,Ghost,Prism Armor,NULL,NULL,NULL,97,113,109,157,127,77,680,NULL,NULL
+801,801,Magearna,NULL,80.5,Steel,Fairy,Soul-Heart,NULL,NULL,NULL,80,95,115,130,115,65,600,NULL,NULL
+2932,801,Magearna,Original,80.5,Steel,Fairy,Soul-Heart,NULL,NULL,NULL,80,95,115,130,115,65,600,NULL,NULL
+802,802,Marshadow,NULL,22.2,Fighting,Ghost,Technician,NULL,NULL,NULL,90,125,80,90,90,125,600,NULL,NULL
+803,803,Poipole,NULL,1.8,Poison,NULL,Beast Boost,NULL,NULL,NULL,67,73,67,73,67,73,420,NULL,NULL
+804,804,Naganadel,NULL,150,Poison,Dragon,Beast Boost,NULL,NULL,NULL,73,73,73,127,73,121,540,1334,Knowing Dragon Pulse
+805,805,Stakataka,NULL,820,Rock,Steel,Beast Boost,NULL,NULL,NULL,61,131,211,53,101,13,570,NULL,NULL
+806,806,Blacephalon,NULL,13,Fire,Ghost,Beast Boost,NULL,NULL,NULL,53,127,53,151,79,107,570,NULL,NULL
+807,807,Zeraora,NULL,44.5,Electric,NULL,Volt Absorb,NULL,NULL,NULL,88,112,75,102,80,143,600,NULL,NULL
+808,808,Meltan,NULL,8,Steel,NULL,Magnet Pull,NULL,NULL,NULL,46,65,65,55,35,34,300,NULL,NULL
+809,809,Melmetal,NULL,800,Steel,NULL,Iron Fist,NULL,NULL,NULL,135,143,143,80,65,34,600,1339,400 Meltan Candy
+2940,809,Melmetal,Gigantamax,0,Steel,NULL,Iron Fist,NULL,NULL,NULL,135,143,143,80,65,34,600,NULL,NULL
+810,810,Grookey,NULL,5,Grass,NULL,Overgrow,NULL,Grassy Surge,NULL,50,65,50,40,40,65,310,NULL,NULL
+811,811,Thwackey,NULL,14,Grass,NULL,Overgrow,NULL,Grassy Surge,NULL,70,85,70,55,60,80,420,1439,Level 16
+812,812,Rillaboom,NULL,90,Grass,NULL,Overgrow,NULL,Grassy Surge,NULL,100,125,90,60,70,85,530,1440,Level 35
+2943,812,Rillaboom,Gigantamax,0,Grass,NULL,Overgrow,NULL,Grassy Surge,NULL,100,125,90,60,70,85,530,NULL,NULL
+813,813,Scorbunny,NULL,4.5,Fire,NULL,Blaze,NULL,Libero,NULL,50,71,40,40,40,69,310,NULL,NULL
+814,814,Raboot,NULL,9,Fire,NULL,Blaze,NULL,Libero,NULL,65,86,50,55,60,94,410,1442,Level 16
+815,815,Cinderace,NULL,33,Fire,NULL,Blaze,NULL,Libero,NULL,80,116,75,65,75,119,530,1443,Level 35
+2946,815,Cinderace,Gigantamax,0,Fire,NULL,Blaze,NULL,Libero,NULL,80,116,75,65,75,119,530,NULL,NULL
+816,816,Sobble,NULL,4,Water,NULL,Torrent,NULL,Sniper,NULL,50,40,40,70,40,70,310,NULL,NULL
+817,817,Drizzile,NULL,11.5,Water,NULL,Torrent,NULL,Sniper,NULL,65,60,55,95,55,90,420,1445,Level 16
+818,818,Inteleon,NULL,45.2,Water,NULL,Torrent,NULL,Sniper,NULL,70,85,65,125,65,120,530,1446,Level 35
+2949,818,Inteleon,Gigantamax,0,Water,NULL,Torrent,NULL,Sniper,NULL,70,85,65,125,65,120,530,NULL,NULL
+819,819,Skwovet,NULL,2.5,Normal,NULL,Cheek Pouch,NULL,Gluttony,NULL,70,55,55,35,35,25,275,NULL,NULL
+820,820,Greedent,NULL,6,Normal,NULL,Cheek Pouch,NULL,Gluttony,NULL,120,95,95,55,75,20,460,1462,Level 24
+821,821,Rookidee,NULL,1.8,Flying,NULL,Keen Eye,Unnerve,Big Pecks,NULL,38,47,35,33,35,57,245,NULL,NULL
+822,822,Corvisquire,NULL,16,Flying,NULL,Keen Eye,Unnerve,Big Pecks,NULL,68,67,55,43,55,77,365,1469,Level 18
+823,823,Corviknight,NULL,75,Flying,Steel,Pressure,Unnerve,Mirror Armor,NULL,98,87,105,53,85,67,495,1470,Level 38
+2954,823,Corviknight,Gigantamax,0,Flying,Steel,Pressure,Unnerve,Mirror Armor,NULL,98,87,105,53,85,67,495,NULL,NULL
+824,824,Blipbug,NULL,8,Bug,NULL,Swarm,Compound Eyes,Telepathy,NULL,25,20,20,25,45,45,180,NULL,NULL
+825,825,Dottler,NULL,19.5,Bug,Psychic,Swarm,Compound Eyes,Telepathy,NULL,50,35,80,50,90,30,335,1485,Level 10
+826,826,Orbeetle,NULL,40.8,Bug,Psychic,Swarm,Frisk,Telepathy,NULL,60,45,110,80,120,90,505,1486,Level 30
+2957,826,Orbeetle,Gigantamax,0,Bug,Psychic,Swarm,Frisk,Telepathy,NULL,60,45,110,80,120,90,505,NULL,NULL
+827,827,Nickit,NULL,8.9,Dark,NULL,Run Away,Unburden,Stakeout,NULL,40,28,28,47,52,50,245,NULL,NULL
+828,828,Thievul,NULL,19.9,Dark,NULL,Run Away,Unburden,Stakeout,NULL,70,58,58,87,92,90,455,1488,Level 18
+829,829,Gossifleur,NULL,2.2,Grass,NULL,Cotton Down,Regenerator,Effect Spore,NULL,40,40,60,40,60,10,250,NULL,NULL
+830,830,Eldegoss,NULL,2.5,Grass,NULL,Cotton Down,Regenerator,Effect Spore,NULL,60,50,90,80,120,60,460,1490,Level 20
+831,831,Wooloo,NULL,6,Normal,NULL,Fluffy,Run Away,Bulletproof,NULL,42,40,55,40,45,48,270,NULL,NULL
+832,832,Dubwool,NULL,43,Normal,NULL,Fluffy,Steadfast,Bulletproof,NULL,72,80,100,60,90,88,490,1492,Level 24
+833,833,Chewtle,NULL,8.5,Water,NULL,Strong Jaw,Shell Armor,Swift Swim,NULL,50,64,50,38,38,44,284,NULL,NULL
+834,834,Drednaw,NULL,115.5,Water,Rock,Strong Jaw,Shell Armor,Swift Swim,NULL,90,115,90,48,68,74,485,1494,Level 22
+2965,834,Drednaw,Gigantamax,0,Water,Rock,Strong Jaw,Shell Armor,Swift Swim,NULL,90,115,90,48,68,74,485,NULL,NULL
+835,835,Yamper,NULL,13.5,Electric,NULL,Ball Fetch,NULL,Rattled,NULL,59,45,50,40,50,26,270,NULL,NULL
+836,836,Boltund,NULL,34,Electric,NULL,Strong Jaw,NULL,Competitive,NULL,69,90,60,90,60,121,490,1496,Level 25
+837,837,Rolycoly,NULL,12,Rock,NULL,Steam Engine,Heatproof,Flash Fire,NULL,30,40,50,40,50,30,240,NULL,NULL
+838,838,Carkol,NULL,78,Rock,Fire,Steam Engine,Flame Body,Flash Fire,NULL,80,60,90,60,70,50,410,1498,Level 18
+839,839,Coalossal,NULL,310.5,Rock,Fire,Steam Engine,Flame Body,Flash Fire,NULL,110,80,120,80,90,30,510,1499,Level 34
+2970,839,Coalossal,Gigantamax,0,Rock,Fire,Steam Engine,Flame Body,Flash Fire,NULL,110,80,120,80,90,30,510,NULL,NULL
+840,840,Applin,NULL,0.5,Grass,Dragon,Ripen,Gluttony,Bulletproof,NULL,40,40,80,40,40,20,260,NULL,NULL
+841,841,Flapple,NULL,1,Grass,Dragon,Ripen,Gluttony,Hustle,NULL,70,110,80,95,60,70,485,1501,Tart Apple
+2972,841,Flapple,Gigantamax,0,Grass,Dragon,Ripen,Gluttony,Hustle,NULL,70,110,80,95,60,70,485,NULL,NULL
+842,842,Appletun,NULL,13,Grass,Dragon,Ripen,Gluttony,Thick Fat,NULL,110,85,80,100,80,30,485,1501,Sweet Apple
+2973,842,Appletun,Gigantamax,0,Grass,Dragon,Ripen,Gluttony,Thick Fat,NULL,110,85,80,100,80,30,485,NULL,NULL
+843,843,Silicobra,NULL,7.6,Ground,NULL,Sand Spit,Shed Skin,Sand Veil,NULL,52,57,75,35,50,46,315,NULL,NULL
+844,844,Sandaconda,NULL,65.5,Ground,NULL,Sand Spit,Shed Skin,Sand Veil,NULL,72,107,125,65,70,71,510,1504,Level 36
+2975,844,Sandaconda,Gigantamax,0,Ground,NULL,Sand Spit,Shed Skin,Sand Veil,NULL,72,107,125,65,70,71,510,NULL,NULL
+845,845,Cramorant,NULL,18,Flying,Water,Gulp Missile,NULL,NULL,NULL,70,85,55,85,95,85,475,NULL,NULL
+846,846,Arrokuda,NULL,1,Water,NULL,Swift Swim,NULL,Propeller Tail,NULL,41,63,40,40,30,66,280,NULL,NULL
+847,847,Barraskewda,NULL,30,Water,NULL,Swift Swim,NULL,Propeller Tail,NULL,61,123,60,60,50,136,490,1507,Level 26
+848,848,Toxel,NULL,11,Electric,Poison,Rattled,Static,Klutz,NULL,40,38,35,54,35,40,242,NULL,NULL
+849,849,Toxtricity,NULL,40,Electric,Poison,Punk Rock,Plus,Technician,NULL,75,98,70,114,70,75,502,14,"Level 30 With An Adamant, Brave, Docile, Hardy, Hasty, Impish, Jolly, Lax, Naive, Naughty, Quirky, Rash, or Sassy Nature"
+2980,849,Toxtricity,Low-Key,40,Electric,Poison,Punk Rock,Minus,Technician,NULL,75,98,70,114,70,75,502,14,"Level 30 With A Bashful, Bold, Calm, Careful, Gentle, Lonely, Mild, Modest, Quiet, Relaxed, Serious, or Timid Nature"
+2981,849,Toxtricity,Low-Key-Gigantamax,0,Electric,Poison,Punk Rock,Minus,Technician,NULL,75,98,70,114,70,75,502,NULL,NULL
+2982,849,Toxtricity,Gigantamax,0,Electric,Poison,Punk Rock,Plus,Technician,NULL,75,98,70,114,70,75,502,NULL,NULL
+850,850,Sizzlipede,NULL,1,Fire,Bug,Flash Fire,White Smoke,Flame Body,NULL,50,65,45,50,50,45,305,NULL,NULL
+851,851,Centiskorch,NULL,120,Fire,Bug,Flash Fire,White Smoke,Flame Body,NULL,100,115,65,90,90,65,525,1509,Level 28
+2984,851,Centiskorch,Gigantamax,0,Fire,Bug,Flash Fire,White Smoke,Flame Body,NULL,100,115,65,90,90,65,525,NULL,NULL
+852,852,Clobbopus,NULL,4,Fighting,NULL,Limber,NULL,Technician,NULL,50,68,60,50,50,32,310,NULL,NULL
+853,853,Grapploct,NULL,39,Fighting,NULL,Limber,NULL,Technician,NULL,80,118,90,70,80,42,480,1511,Knowing Taunt
+854,854,Sinistea,NULL,0.2,Ghost,NULL,Weak Armor,NULL,Cursed Body,NULL,40,45,45,74,54,50,308,NULL,NULL
+2987,854,Sinistea,Antique,0.2,Ghost,NULL,Weak Armor,NULL,Cursed Body,NULL,40,45,45,74,54,50,308,NULL,NULL
+855,855,Polteageist,NULL,0.4,Ghost,NULL,Weak Armor,NULL,Cursed Body,NULL,60,65,65,134,114,70,508,1513,Cracked Pot
+2988,855,Polteageist,Antique,0.4,Ghost,NULL,Weak Armor,NULL,Cursed Body,NULL,60,65,65,134,114,70,508,1761,Chipped Pot
+856,856,Hatenna,NULL,3.4,Psychic,NULL,Healer,Anticipation,Magic Bounce,NULL,42,30,45,56,53,39,265,NULL,NULL
+857,857,Hattrem,NULL,4.8,Psychic,NULL,Healer,Anticipation,Magic Bounce,NULL,57,40,65,86,73,49,370,1515,Level 32
+858,858,Hatterene,NULL,5.1,Psychic,Fairy,Healer,Anticipation,Magic Bounce,NULL,57,90,95,136,103,29,510,1516,Level 42
+2991,858,Hatterene,Gigantamax,0,Psychic,Fairy,Healer,Anticipation,Magic Bounce,NULL,57,90,95,136,103,29,510,NULL,NULL
+859,859,Impidimp,NULL,5.5,Dark,Fairy,Prankster,Frisk,Pickpocket,NULL,45,45,30,55,40,50,265,NULL,NULL
+860,860,Morgrem,NULL,12.5,Dark,Fairy,Prankster,Frisk,Pickpocket,NULL,65,60,45,75,55,70,370,1518,Level 32
+861,861,Grimmsnarl,NULL,61,Dark,Fairy,Prankster,Frisk,Pickpocket,NULL,95,120,65,95,75,60,510,1519,Level 42
+2994,861,Grimmsnarl,Gigantamax,0,Dark,Fairy,Prankster,Frisk,Pickpocket,NULL,95,120,65,95,75,60,510,NULL,NULL
+862,862,Obstagoon,NULL,46,Dark,Normal,Reckless,Guts,Defiant,NULL,93,90,101,60,81,95,520,1467,Level 35 At Night
+863,863,Perrserker,NULL,28,Steel,NULL,Battle Armor,Tough Claws,Steely Spirit,NULL,70,110,100,50,60,50,440,98,Level 28
+864,864,Cursola,NULL,0.4,Ghost,NULL,Weak Armor,NULL,Perish Body,NULL,60,95,50,145,130,30,510,1389,Level 38
+865,865,Sirfetch'd,NULL,117,Fighting,NULL,Steadfast,NULL,Scrappy,NULL,62,135,95,68,82,65,507,1369,Land Three Critical Hits In One Battle
+866,866,Mr. Rime,NULL,58.2,Ice,Psychic,Tangled Feet,Screen Cleaner,Ice Body,NULL,80,85,75,110,100,70,520,1377,Level 42
+867,867,Runerigus,NULL,66.6,Ground,Ghost,Wandering Spirit,NULL,NULL,NULL,58,95,145,50,105,30,483,1464,Take 49+ Damage and Travel Under Stone Bridge in Dusty Bowl in Galar
+868,868,Milcery,NULL,0.3,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,45,40,40,50,61,34,270,NULL,NULL
+869,869,Alcremie,NULL,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Clockwise Less Than 5 Seconds During The Day
+3002,869,Alcremie,Salted-Cream,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Counterclockwise Less Than 5 Seconds During The Night
+3003,869,Alcremie,Ruby-Swirl,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Counterclockwise More Than 5 Seconds During The Day
+3004,869,Alcremie,Ruby-Cream,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Counterclockwise Less Than 5 Seconds During The Day
+3005,869,Alcremie,Rainbow-Swirl,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Counterclockwise More Than 10 Seconds During The Evening
+3006,869,Alcremie,Mint-Cream,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Counterclockwise More Than 5 Seconds During The Night
+3007,869,Alcremie,Matcha-Cream,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Clockwise Less Than 5 Seconds During The Night
+3008,869,Alcremie,Lemon-Cream,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Clockwise More Than 5 Seconds During The Night
+3009,869,Alcremie,Gigantamax,0,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,NULL,NULL
+3010,869,Alcremie,Caramel-Swirl,0.5,Fairy,NULL,Sweet Veil,NULL,Aroma Veil,NULL,65,60,75,110,121,64,495,1483,Spin Clockwise More Than 5 Seconds During The Day
+870,870,Falinks,NULL,62,Fighting,NULL,Battle Armor,NULL,Defiant,NULL,60,100,100,70,60,75,465,NULL,NULL
+871,871,Pincurchin,NULL,1,Electric,NULL,Lightning Rod,NULL,Electric Surge,NULL,48,101,95,91,85,15,435,NULL,NULL
+872,872,Snom,NULL,3.8,Ice,Bug,Shield Dust,NULL,Ice Scales,NULL,30,25,35,45,30,20,185,NULL,NULL
+873,873,Frosmoth,NULL,42,Ice,Bug,Shield Dust,NULL,Ice Scales,NULL,70,65,60,125,90,65,475,1481,During The Night
+874,874,Stonjourner,NULL,520,Rock,NULL,Power Spot,NULL,NULL,NULL,100,125,135,20,20,70,470,NULL,NULL
+875,875,Eiscue,NULL,89,Ice,NULL,Ice Face,NULL,NULL,NULL,75,80,110,65,90,50,470,NULL,NULL
+3016,875,Eiscue,Noice,89,Ice,NULL,Ice Face,NULL,NULL,NULL,75,80,70,65,50,130,470,NULL,NULL
+876,876,Indeedee,NULL,28,Psychic,Normal,Inner Focus,Synchronize,Psychic Surge,NULL,60,65,55,105,95,95,475,NULL,NULL
+3017,876,Indeedee,Female,28,Psychic,Normal,Own Tempo,Synchronize,Psychic Surge,NULL,70,55,65,95,105,85,475,NULL,NULL
+877,877,Morpeko,NULL,3,Electric,Dark,Hunger Switch,NULL,NULL,NULL,58,95,58,70,58,97,436,NULL,NULL
+878,878,Cufant,NULL,100,Steel,NULL,Sheer Force,NULL,Heavy Metal,NULL,72,80,49,40,49,40,330,NULL,NULL
+879,879,Copperajah,NULL,650,Steel,NULL,Sheer Force,NULL,Heavy Metal,NULL,122,130,69,80,69,30,500,1475,Level 34
+3020,879,Copperajah,Gigantamax,0,Steel,NULL,Sheer Force,NULL,Heavy Metal,NULL,122,130,69,80,69,30,500,NULL,NULL
+880,880,Dracozolt,NULL,190,Electric,Dragon,Volt Absorb,Hustle,Sand Rush,NULL,90,100,90,80,70,75,505,NULL,NULL
+881,881,Arctozolt,NULL,150,Electric,Ice,Volt Absorb,Static,Slush Rush,NULL,90,100,90,90,80,55,505,NULL,NULL
+882,882,Dracovish,NULL,215,Water,Dragon,Water Absorb,Strong Jaw,Sand Rush,NULL,90,90,100,70,80,75,505,NULL,NULL
+883,883,Arctovish,NULL,175,Water,Ice,Water Absorb,Ice Body,Slush Rush,NULL,90,90,100,80,90,55,505,NULL,NULL
+884,884,Duraludon,NULL,40,Steel,Dragon,Light Metal,Heavy Metal,Stalwart,NULL,70,95,115,120,50,85,535,NULL,NULL
+3025,884,Duraludon,Gigantamax,0,Steel,Dragon,Light Metal,Heavy Metal,Stalwart,NULL,70,95,115,120,50,85,535,NULL,NULL
+885,885,Dreepy,NULL,2,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,NULL,28,60,30,40,30,82,270,NULL,NULL
+886,886,Drakloak,NULL,11,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,NULL,68,80,50,60,50,102,410,1472,Level 50
+887,887,Dragapult,NULL,50,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,NULL,88,120,75,100,75,142,600,1473,Level 60
+888,888,Zacian,NULL,110,Fairy,NULL,Intrepid Sword,NULL,NULL,NULL,92,120,115,80,115,138,660,NULL,NULL
+3029,888,Zacian,Crowned,355,Fairy,Steel,Intrepid Sword,NULL,NULL,NULL,92,150,115,80,115,148,700,NULL,NULL
+889,889,Zamazenta,NULL,210,Fighting,NULL,Dauntless Shield,NULL,NULL,NULL,92,120,115,80,115,138,660,NULL,NULL
+3030,889,Zamazenta,Crowned,785,Fighting,Steel,Dauntless Shield,NULL,NULL,NULL,92,120,140,80,140,128,700,NULL,NULL
+890,890,Eternatus,NULL,950,Poison,Dragon,Pressure,NULL,NULL,NULL,140,85,95,145,95,130,690,NULL,NULL
+3031,890,Eternatus,Eternamax,0,Poison,Dragon,Pressure,NULL,NULL,NULL,255,115,250,125,250,130,1125,NULL,NULL
+891,891,Kubfu,NULL,12,Fighting,NULL,Inner Focus,NULL,NULL,NULL,60,90,60,53,50,72,385,NULL,NULL
+892,892,Urshifu,NULL,105,Fighting,Dark,Unseen Fist,NULL,NULL,NULL,100,130,100,63,60,97,550,38,Conquer the Tower of Darkness in Galar's Isle of Armor
+3033,892,Urshifu,NULL,105,Fighting,Dark,Unseen Fist,NULL,NULL,NULL,100,130,100,63,60,97,550,38,Scroll of Darkness
+3034,892,Urshifu,Rapid-Strike,105,Fighting,Water,Unseen Fist,NULL,NULL,NULL,100,130,100,63,60,97,550,38,Conquer the Tower of Waters in Galar's Isle of Armor
+3035,892,Urshifu,Rapid-Strike,105,Fighting,Water,Unseen Fist,NULL,NULL,NULL,100,130,100,63,60,97,550,38,Scroll of Waters
+3036,892,Urshifu,Rapid-Strike-Gigantamax,0,Fighting,Water,Unseen Fist,NULL,NULL,NULL,100,130,100,63,60,97,550,NULL,NULL
+3037,892,Urshifu,Gigantamax,0,Fighting,Dark,Unseen Fist,NULL,NULL,NULL,100,130,100,63,60,97,550,NULL,NULL
+893,893,Zarude,NULL,70,Dark,Grass,Leaf Guard,NULL,NULL,NULL,105,120,105,70,95,105,600,NULL,NULL
+3038,893,Zarude,Dada,70,Dark,Grass,Leaf Guard,NULL,NULL,NULL,105,120,105,70,95,105,600,NULL,NULL
+894,894,Regieleki,NULL,145,Electric,NULL,Transistor,NULL,NULL,NULL,80,100,50,100,50,200,580,NULL,NULL
+895,895,Regidrago,NULL,200,Dragon,NULL,Dragon's Maw,NULL,NULL,NULL,200,100,50,100,50,80,580,NULL,NULL
+896,896,Glastrier,NULL,800,Ice,NULL,Chilling Neigh,NULL,NULL,NULL,100,145,130,65,110,30,580,NULL,NULL
+897,897,Spectrier,NULL,44.5,Ghost,NULL,Grim Neigh,NULL,NULL,NULL,100,65,60,145,80,130,580,NULL,NULL
+898,898,Calyrex,NULL,7.7,Psychic,Grass,Unnerve,NULL,NULL,NULL,100,80,80,80,80,80,500,NULL,NULL
+3043,898,Calyrex,Shadow-Rider,7.7,Psychic,Ghost,As One,NULL,NULL,NULL,100,85,80,165,100,150,680,NULL,NULL
+3044,898,Calyrex,Ice-Rider,7.7,Psychic,Ice,As One,NULL,NULL,NULL,100,165,150,85,130,50,680,NULL,NULL
+899,899,Wyrdeer,NULL,95.1,Normal,Psychic,Intimidate,Frisk,Sap Sipper,NULL,103,105,72,105,75,65,525,358,Use Psyshield Bash 20 times in Agile Style in Hisui
+3045,899,Wyrdeer,NULL,95.1,Normal,Psychic,Intimidate,Frisk,Sap Sipper,NULL,103,105,72,105,75,65,525,358,NULL
+900,900,Kleavor,NULL,89,Bug,Rock,Swarm,Sheer Force,Sharpness,NULL,70,130,95,45,75,85,500,219,Black Augurite on Scyther in Hisui
+901,901,Ursaluna,NULL,290,Ground,Normal,Guts,Bulletproof,Unnerve,NULL,130,140,105,45,80,50,550,341,Peat Block During a Full Moon in Crimson Mirelands
+3047,901,Ursaluna,NULL,290,Ground,Normal,Guts,Bulletproof,Unnerve,NULL,130,140,105,45,80,50,550,341,NULL
+3048,901,Ursaluna,Bloodmoon,290,Ground,Normal,Mind's Eye,NULL,NULL,NULL,113,70,120,135,65,52,555,NULL,NULL
+902,902,Basculegion,NULL,110,Water,Ghost,Swift Swim,Adaptability,Mold Breaker,NULL,120,112,65,80,75,78,530,1623,Receive 294+ Recoil Damage Without Fainting
+3049,902,Basculegion,Female,110,Water,Ghost,Swift Swim,Adaptability,Mold Breaker,NULL,120,92,65,100,75,78,530,1623,Receive 294+ Recoil Damage Without Fainting
+903,903,Sneasler,NULL,43,Fighting,Poison,Pressure,Unburden,Poison Touch,NULL,80,130,60,40,80,120,510,1630,Razor Claw During the Day
+904,904,Overqwil,NULL,60.5,Dark,Poison,Poison Point,Swift Swim,Intimidate,NULL,85,115,95,65,65,85,510,1625,Use Barb Barrage 20 times in Strong Style In Hisui
+3051,904,Overqwil,NULL,60.5,Dark,Poison,Poison Point,Swift Swim,Intimidate,NULL,85,115,95,65,65,85,510,1625,Knowing Barb Barrage
+905,905,Enamorus,NULL,48,Fairy,Flying,Healer,NULL,Contrary,NULL,74,115,70,135,80,106,580,NULL,NULL
+3052,905,Enamorus,Therian,48,Fairy,Flying,Overcoat,NULL,NULL,NULL,74,115,110,135,100,46,580,NULL,NULL
+906,906,Sprigatito,NULL,4.1,Grass,NULL,Overgrow,NULL,Protean,NULL,40,61,54,45,45,65,310,NULL,NULL
+907,907,Floragato,NULL,12.2,Grass,NULL,Overgrow,NULL,Protean,NULL,61,80,63,60,63,83,410,1642,Level 16
+908,908,Meowscarada,NULL,31.2,Grass,Dark,Overgrow,NULL,Protean,NULL,76,110,70,81,70,123,530,1666,Level 36
+909,909,Fuecoco,NULL,4.1,Fire,NULL,Blaze,NULL,Unaware,NULL,67,45,59,63,40,36,310,NULL,NULL
+910,910,Crocalor,NULL,30.7,Fire,NULL,Blaze,NULL,Unaware,NULL,81,55,78,49,58,90,411,1643,Level 16
+911,911,Skeledirge,NULL,326.5,Fire,Ghost,Blaze,NULL,Unaware,NULL,104,75,100,110,75,66,530,1669,Level 36
+912,912,Quaxly,NULL,6.1,Water,NULL,Torrent,NULL,Moxie,NULL,55,65,45,50,45,50,310,NULL,NULL
+913,913,Quaxwell,NULL,21.5,Water,NULL,Torrent,NULL,Moxie,NULL,70,85,65,65,60,65,410,1644,Level 16
+914,914,Quaquaval,NULL,61.9,Water,Fighting,Torrent,NULL,Moxie,NULL,85,120,80,85,75,85,530,1674,Level 36
+915,915,Lechonk,NULL,10.2,Normal,NULL,Aroma Veil,Gluttony,Thick Fat,NULL,54,45,40,35,45,35,254,NULL,NULL
+916,916,Oinkologne,NULL,120,Normal,NULL,Lingering Aroma,Gluttony,Thick Fat,NULL,110,100,75,59,80,65,489,1649,Level 18
+3063,916,Oinkologne,Female,120,Normal,NULL,Aroma Veil,Gluttony,Thick Fat,NULL,115,90,70,59,90,65,489,1649,Level 18
+917,917,Tarountula,NULL,4,Bug,NULL,Insomnia,NULL,Stakeout,NULL,35,41,45,29,40,20,210,NULL,NULL
+918,918,Spidops,NULL,16.5,Bug,NULL,Insomnia,NULL,Stakeout,NULL,60,79,92,52,86,35,404,1712,Level 15
+919,919,Nymble,NULL,1,Bug,NULL,Swarm,NULL,Tinted Lens,NULL,33,46,40,21,25,45,210,NULL,NULL
+920,920,Lokix,NULL,17.5,Bug,Dark,Swarm,NULL,Tinted Lens,NULL,71,102,78,52,55,92,450,1714,Level 24
+921,921,Pawmi,NULL,2.5,Electric,NULL,Static,Natural Cure,Iron Fist,NULL,45,50,20,40,25,60,240,NULL,NULL
+922,922,Pawmo,NULL,6.5,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,NULL,60,75,40,50,40,85,350,1650,Level 18
+923,923,Pawmot,NULL,41,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,NULL,70,115,70,70,60,105,490,1698,After Walking 1000 Steps using Let's Go
+924,924,Tandemaus,NULL,1.8,Normal,NULL,Run Away,Pickup,Own Tempo,NULL,50,50,45,40,45,75,305,NULL,NULL
+925,925,Maushold,NULL,2.8,Normal,NULL,Friend Guard,Cheek Pouch,Technician,NULL,74,75,70,65,75,111,470,1691,Level 25 in a Fight
+3072,925,Maushold,Family-of-Three,2.3,Normal,NULL,Friend Guard,Cheek Pouch,Technician,NULL,74,75,70,65,75,111,470,1691,Level 25 in a Fight
+926,926,Fidough,NULL,10.9,Fairy,NULL,Own Tempo,NULL,Klutz,NULL,37,55,70,30,55,65,312,NULL,NULL
+927,927,Dachsbun,NULL,14.9,Fairy,NULL,Well-Baked Body,NULL,Aroma Veil,NULL,57,80,115,50,80,95,477,1653,Level 26
+928,928,Smoliv,NULL,6.5,Grass,Normal,Early Bird,NULL,Harvest,NULL,41,35,45,58,51,30,260,NULL,NULL
+929,929,Dolliv,NULL,11.9,Grass,Normal,Early Bird,NULL,Harvest,NULL,52,53,60,78,78,33,354,1651,Level 25
+930,930,Arboliva,NULL,48.2,Grass,Normal,Seed Sower,NULL,Harvest,NULL,78,69,90,125,109,39,510,1696,Level 35
+931,931,Squawkabilly,NULL,2.4,Normal,Flying,Intimidate,Hustle,Guts,NULL,82,96,51,45,51,92,417,NULL,NULL
+3078,931,Squawkabilly,Yellow,2.4,Normal,Flying,Intimidate,Hustle,Sheer Force,NULL,82,96,51,45,51,92,417,NULL,NULL
+3079,931,Squawkabilly,White,2.4,Normal,Flying,Intimidate,Hustle,Sheer Force,NULL,82,96,51,45,51,92,417,NULL,NULL
+3080,931,Squawkabilly,Blue,2.4,Normal,Flying,Intimidate,Hustle,Guts,NULL,82,96,51,45,51,92,417,NULL,NULL
+932,932,Nacli,NULL,16,Rock,NULL,Purifying Salt,Sturdy,Clear Body,NULL,55,55,75,35,35,25,280,NULL,NULL
+933,933,Naclstack,NULL,105,Rock,NULL,Purifying Salt,Sturdy,Clear Body,NULL,60,60,100,35,65,35,355,1750,Level 24
+934,934,Garganacl,NULL,240,Rock,NULL,Purifying Salt,Sturdy,Clear Body,NULL,100,100,130,45,90,35,500,1751,Level 38
+935,935,Charcadet,NULL,10.5,Fire,NULL,Flash Fire,NULL,Flame Body,NULL,40,50,40,50,40,35,255,NULL,NULL
+936,936,Armarouge,NULL,85,Fire,Psychic,Flash Fire,NULL,Weak Armor,NULL,85,60,100,125,80,75,525,1668,Auspicious Armor
+937,937,Ceruledge,NULL,62,Fire,Ghost,Flash Fire,NULL,Weak Armor,NULL,75,125,80,60,100,85,525,1668,Malicious Armor
+938,938,Tadbulb,NULL,0.4,Electric,NULL,Own Tempo,Static,Damp,NULL,61,31,41,59,35,45,272,NULL,NULL
+939,939,Bellibolt,NULL,113,Electric,NULL,Electromorphosis,Static,Damp,NULL,109,64,91,103,83,45,495,1680,Thunder Stone
+940,940,Wattrel,NULL,3.6,Electric,Flying,Wind Power,Volt Absorb,Competitive,NULL,40,40,35,55,40,70,280,NULL,NULL
+941,941,Kilowattrel,NULL,38.6,Electric,Flying,Wind Power,Volt Absorb,Competitive,NULL,70,70,60,105,60,125,490,1726,Level 25
+942,942,Maschiff,NULL,16,Dark,NULL,Intimidate,Guard Dog,Stakeout,NULL,60,78,60,40,51,51,340,NULL,NULL
+943,943,Mabosstiff,NULL,61,Dark,NULL,Intimidate,Guard Dog,Stakeout,NULL,80,120,90,60,70,85,505,1755,Level 30
+944,944,Shroodle,NULL,0.7,Poison,Normal,Unburden,Pickpocket,Prankster,NULL,40,65,35,40,35,75,290,NULL,NULL
+945,945,Grafaiai,NULL,27.2,Poison,Normal,Unburden,Poison Touch,Prankster,NULL,63,95,65,80,72,110,485,1708,Level 28
+946,946,Bramblin,NULL,0.6,Grass,Ghost,Wind Power,NULL,Infiltrator,NULL,40,65,30,45,35,60,275,NULL,NULL
+947,947,Brambleghast,NULL,6,Grass,Ghost,Wind Power,NULL,Infiltrator,NULL,55,115,70,80,70,90,480,1702,After Walking 1000 Steps using Let's Go
+948,948,Toedscool,NULL,33,Ground,Grass,Mycelium Might,NULL,NULL,NULL,40,40,35,50,100,70,335,NULL,NULL
+949,949,Toedscruel,NULL,58,Ground,Grass,Mycelium Might,NULL,NULL,NULL,80,70,65,80,120,100,515,1720,Level 30
+950,950,Klawf,NULL,79,Rock,NULL,Anger Shell,Shell Armor,Regenerator,NULL,70,100,115,35,55,75,450,NULL,NULL
+951,951,Capsakid,NULL,3,Grass,NULL,Chlorophyll,Insomnia,Klutz,NULL,50,62,40,62,40,50,304,NULL,NULL
+952,952,Scovillain,NULL,15,Grass,Fire,Chlorophyll,Insomnia,Moody,NULL,65,108,65,108,65,75,486,1687,Fire Stone
+953,953,Rellor,NULL,1,Bug,NULL,Compound Eyes,NULL,Shed Skin,NULL,41,50,60,31,58,30,270,NULL,NULL
+954,954,Rabsca,NULL,3.5,Bug,Psychic,Synchronize,NULL,Telepathy,NULL,75,50,85,115,100,45,470,1700,After Walking 1000 Steps using Let's Go
+955,955,Flittle,NULL,1.5,Psychic,NULL,Anticipation,Frisk,Speed Boost,NULL,30,35,30,55,30,75,255,NULL,NULL
+956,956,Espathra,NULL,90,Psychic,NULL,Opportunist,Frisk,Speed Boost,NULL,95,60,60,101,60,105,481,1716,Level 35
+957,957,Tinkatink,NULL,8.9,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,NULL,50,45,45,35,64,58,297,NULL,NULL
+958,958,Tinkatuff,NULL,59.1,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,NULL,65,55,55,45,82,78,380,1729,Level 24
+959,959,Tinkaton,NULL,112.8,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,NULL,85,75,77,70,105,94,506,1730,Level 38
+960,960,Wiglett,NULL,1.8,Water,NULL,Gooey,Rattled,Sand Veil,NULL,10,55,25,35,25,95,245,NULL,NULL
+961,961,Wugtrio,NULL,5.4,Water,NULL,Gooey,Rattled,Sand Veil,NULL,35,100,50,50,70,120,425,1660,Level 26
+962,962,Bombirdier,NULL,42.9,Flying,Dark,Big Pecks,Keen Eye,Rocky Payload,NULL,70,103,85,60,85,82,485,NULL,NULL
+963,963,Finizen,NULL,60.2,Water,NULL,Water Veil,NULL,NULL,NULL,70,45,40,45,40,75,315,NULL,NULL
+964,964,Palafin,NULL,60.2,Water,NULL,Zero to Hero,NULL,NULL,NULL,100,70,72,53,62,100,457,1693,Level 38 while in a Union Circle group
+3113,964,Palafin,Hero,97.4,Water,NULL,Zero to Hero,NULL,NULL,NULL,100,160,97,106,87,100,650,NULL,NULL
+965,965,Varoom,NULL,35,Steel,Poison,Overcoat,NULL,Slow Start,NULL,45,70,63,30,45,47,300,NULL,NULL
+966,966,Revavroom,NULL,120,Steel,Poison,Overcoat,NULL,Filter,NULL,80,119,90,54,67,90,500,1718,Level 40
+967,967,Cyclizar,NULL,63,Dragon,Normal,Shed Skin,NULL,Regenerator,NULL,70,95,65,85,65,121,501,NULL,NULL
+968,968,Orthworm,NULL,310,Steel,NULL,Earth Eater,NULL,Sand Veil,NULL,70,85,145,60,55,65,480,NULL,NULL
+969,969,Glimmet,NULL,8,Rock,Poison,Toxic Debris,NULL,Corrosion,NULL,48,35,42,105,60,60,350,NULL,NULL
+970,970,Glimmora,NULL,45,Rock,Poison,Toxic Debris,NULL,Corrosion,NULL,83,55,90,130,81,86,525,1753,Level 35
+971,971,Greavard,NULL,35,Ghost,NULL,Pickup,NULL,Fluffy,NULL,50,61,60,30,55,34,290,NULL,NULL
+972,972,Houndstone,NULL,15,Ghost,NULL,Sand Rush,NULL,Fluffy,NULL,72,101,100,50,97,68,488,1663,Level 30 At Night
+973,973,Flamigo,NULL,37,Flying,Fighting,Scrappy,Tangled Feet,Costar,NULL,82,115,74,75,64,90,500,NULL,NULL
+974,974,Cetoddle,NULL,45,Ice,NULL,Thick Fat,Snow Cloak,Sheer Force,NULL,108,68,45,30,40,43,334,NULL,NULL
+975,975,Cetitan,NULL,700,Ice,NULL,Thick Fat,Slush Rush,Sheer Force,NULL,170,113,65,45,55,73,521,1689,Ice Stone
+976,976,Veluza,NULL,90,Water,Psychic,Mold Breaker,NULL,Sharpness,NULL,90,102,73,78,65,70,478,NULL,NULL
+977,977,Dondozo,NULL,220,Water,NULL,Unaware,Oblivious,Water Veil,NULL,150,100,115,65,65,35,530,NULL,NULL
+978,978,Tatsugiri,NULL,8,Dragon,Water,Commander,NULL,Storm Drain,NULL,68,50,60,120,95,82,475,NULL,NULL
+3127,978,Tatsugiri,Stretchy,8,Dragon,Water,Commander,NULL,Storm Drain,NULL,68,50,60,120,95,82,475,NULL,NULL
+3128,978,Tatsugiri,Droppy,8,Dragon,Water,Commander,NULL,Storm Drain,NULL,68,50,60,120,95,82,475,NULL,NULL
+979,979,Annihilape,NULL,56,Fighting,Ghost,Vital Spirit,Inner Focus,Defiant,NULL,110,115,80,50,90,90,535,924,After Using Rage Fist 20 Times
+980,980,Clodsire,NULL,223,Poison,Ground,Poison Point,Water Absorb,Unaware,NULL,130,75,60,45,100,20,430,1654,Level 20
+981,981,Farigiraf,NULL,160,Normal,Psychic,Cud Chew,Armor Tail,Sap Sipper,NULL,120,90,70,110,70,60,520,327,Knowing Twin Beam
+982,982,Dudunsparce,NULL,39.2,Normal,NULL,Serene Grace,Run Away,Rattled,NULL,125,100,80,85,75,55,520,330,Knowing Hyper Drill
+3132,982,Dudunsparce,Three-Segment,47,Normal,NULL,Serene Grace,Run Away,Rattled,NULL,125,100,80,85,75,55,520,330,Knowing Hyper Drill
+983,983,Kingambit,NULL,120,Dark,Steel,Defiant,Supreme Overload,Pressure,NULL,100,135,120,60,85,50,550,999,After Defeating 3 Wild Bisharp That Are Holding a Leader's Crest
+984,984,Great Tusk,NULL,320,Ground,Fighting,Protosynthesis,NULL,NULL,NULL,115,131,131,53,53,87,570,NULL,NULL
+985,985,Scream Tail,NULL,8,Fairy,Psychic,Protosynthesis,NULL,NULL,NULL,115,65,99,65,115,111,570,NULL,NULL
+986,986,Brute Bonnet,NULL,21,Grass,Dark,Protosynthesis,NULL,NULL,NULL,111,127,99,79,99,55,570,NULL,NULL
+987,987,Flutter Mane,NULL,4,Ghost,Fairy,Protosynthesis,NULL,NULL,NULL,55,55,55,135,135,135,570,NULL,NULL
+988,988,Slither Wing,NULL,92,Bug,Fighting,Protosynthesis,NULL,NULL,NULL,85,135,79,85,105,81,570,NULL,NULL
+989,989,Sandy Shocks,NULL,60,Electric,Ground,Protosynthesis,NULL,NULL,NULL,85,81,97,121,85,101,570,NULL,NULL
+990,990,Iron Treads,NULL,240,Ground,Steel,Quark Drive,NULL,NULL,NULL,90,112,120,72,70,106,570,NULL,NULL
+991,991,Iron Bundle,NULL,11,Ice,Water,Quark Drive,NULL,NULL,NULL,56,80,114,124,60,136,570,NULL,NULL
+992,992,Iron Hands,NULL,380.7,Fighting,Electric,Quark Drive,NULL,NULL,NULL,154,140,108,50,68,50,570,NULL,NULL
+993,993,Iron Jugulis,NULL,111,Dark,Flying,Quark Drive,NULL,NULL,NULL,94,80,86,122,80,108,570,NULL,NULL
+994,994,Iron Moth,NULL,36,Fire,Poison,Quark Drive,NULL,NULL,NULL,80,70,60,140,110,110,570,NULL,NULL
+995,995,Iron Thorns,NULL,303,Rock,Electric,Quark Drive,NULL,NULL,NULL,100,130,110,70,84,72,566,NULL,NULL
+996,996,Frigibax,NULL,17,Dragon,Ice,Thermal Exchange,NULL,Ice Body,NULL,65,75,45,35,45,55,320,NULL,NULL
+997,997,Arctibax,NULL,30,Dragon,Ice,Thermal Exchange,NULL,Ice Body,NULL,90,95,66,45,65,62,423,1723,Level 35
+998,998,Baxcalibur,NULL,210,Dragon,Ice,Thermal Exchange,NULL,Ice Body,NULL,115,145,92,75,86,87,600,1724,Level 54
+999,999,Gimmighoul,NULL,5,Ghost,NULL,Rattled,NULL,NULL,NULL,45,30,70,75,70,10,300,NULL,NULL
+3149,999,Gimmighoul,Roaming,0.1,Ghost,NULL,Run Away,NULL,NULL,NULL,45,30,25,75,45,80,300,NULL,NULL
+1000,1000,Gholdengo,NULL,30,Steel,Ghost,Good as Gold,NULL,NULL,NULL,87,60,95,133,97,84,556,1664,While Having 999 Gimmighoul Coins
+3150,1000,Gholdengo,NULL,30,Steel,Ghost,Good as Gold,NULL,NULL,NULL,87,60,95,133,97,84,556,1665,While Having 999 Gimmighoul Coins
+1001,1001,Wo-Chien,NULL,74.2,Dark,Grass,Tablets of Ruin,NULL,NULL,NULL,85,85,100,95,135,70,570,NULL,NULL
+1002,1002,Chien-Pao,NULL,152.2,Dark,Ice,Sword of Ruin,NULL,NULL,NULL,80,120,80,90,65,135,570,NULL,NULL
+1003,1003,Ting-Lu,NULL,699.7,Dark,Ground,Vessel of Ruin,NULL,NULL,NULL,155,110,125,55,80,45,570,NULL,NULL
+1004,1004,Chi-Yu,NULL,4.9,Dark,Fire,Beads of Ruin,NULL,NULL,NULL,55,80,80,135,120,100,570,NULL,NULL
+1005,1005,Roaring Moon,NULL,380,Dragon,Dark,Protosynthesis,NULL,NULL,NULL,105,139,71,55,101,119,590,NULL,NULL
+1006,1006,Iron Valiant,NULL,35,Fairy,Fighting,Quark Drive,NULL,NULL,NULL,74,130,90,120,60,116,590,NULL,NULL
+1007,1007,Koraidon,NULL,303,Fighting,Dragon,Orichalcum Pulse,NULL,NULL,NULL,100,135,115,85,100,135,670,NULL,NULL
+1008,1008,Miraidon,NULL,240,Electric,Dragon,Hadron Engine,NULL,NULL,NULL,100,85,100,135,115,135,670,NULL,NULL
+1009,1009,Walking Wake,NULL,280,Water,Dragon,Protosynthesis,NULL,NULL,NULL,99,83,91,125,83,109,590,NULL,NULL
+1010,1010,Iron Leaves,NULL,125,Grass,Psychic,Quark Drive,NULL,NULL,NULL,90,130,88,70,108,104,590,NULL,NULL
+1011,1011,Dipplin,NULL,4.4,Grass,Dragon,Supersweet Syrup,Gluttony,Sticky Hold,NULL,80,80,110,95,80,40,485,1501,Syrupy Apple
+1012,1012,Poltchageist,NULL,1.1,Grass,Ghost,Hospitality,NULL,Heatproof,NULL,40,45,45,74,54,50,308,NULL,NULL
+3162,1012,Poltchageist,Artisan,1.1,Grass,Ghost,Hospitality,NULL,Heatproof,NULL,40,45,45,74,54,50,308,NULL,NULL
+1013,1013,Sinistcha,NULL,2.2,Grass,Ghost,Hospitality,NULL,Heatproof,NULL,71,60,106,121,80,70,508,1874,Unremarkable Teacup
+3163,1013,Sinistcha,Masterpiece,2.2,Grass,Ghost,Hospitality,NULL,Heatproof,NULL,71,60,106,121,80,70,508,1877,Masterpiece Teacup
+1014,1014,Okidogi,NULL,92,Poison,Fighting,Toxic Chain,NULL,Guard Dog,NULL,88,128,115,58,86,80,555,NULL,NULL
+1015,1015,Munkidori,NULL,12.2,Poison,Psychic,Toxic Chain,NULL,Frisk,NULL,86,75,66,130,90,106,553,NULL,NULL
+1016,1016,Fezandipiti,NULL,30.1,Poison,Fairy,Toxic Chain,NULL,Technician,NULL,88,91,82,70,125,99,555,NULL,NULL
+1017,1017,Ogerpon,NULL,39.8,Grass,NULL,Defiant,NULL,NULL,NULL,80,120,84,60,96,110,550,NULL,NULL
+3167,1017,Ogerpon,Wellspring,39.8,Grass,Water,Water Absorb,NULL,NULL,NULL,80,120,84,60,96,110,550,NULL,NULL
+3168,1017,Ogerpon,Hearthflame,39.8,Grass,Fire,Mold Breaker,NULL,NULL,NULL,80,120,84,60,96,110,550,NULL,NULL
+3169,1017,Ogerpon,Cornerstone,39.8,Grass,Rock,Sturdy,NULL,NULL,NULL,80,120,84,60,96,110,550,NULL,NULL
+1018,1018,Archaludon,NULL,60,Steel,Dragon,Stamina,Sturdy,Stalwart,NULL,90,105,130,125,65,85,600,1424,Metal Alloy
+1019,1019,Hydrapple,NULL,93,Grass,Dragon,Supersweet Syrup,Regenerator,Sticky Hold,NULL,106,80,110,120,80,44,540,1870,Knowing Dragon Cheer
+1020,1020,Gouging Fire,NULL,590,Fire,Dragon,Protosynthesis,NULL,NULL,NULL,105,115,121,65,93,91,590,NULL,NULL
+1021,1021,Raging Bolt,NULL,480,Electric,Dragon,Protosynthesis,NULL,NULL,NULL,125,73,91,137,89,75,590,NULL,NULL
+1022,1022,Iron Boulder,NULL,162.5,Rock,Psychic,Quark Drive,NULL,NULL,NULL,90,120,80,68,108,124,590,NULL,NULL
+1023,1023,Iron Crown,NULL,156,Steel,Psychic,Quark Drive,NULL,NULL,NULL,90,72,100,122,108,98,590,NULL,NULL
+1024,1024,Terapagos,NULL,6.5,Normal,NULL,Tera Shift,NULL,NULL,NULL,90,65,85,65,85,60,450,NULL,NULL
+3176,1024,Terapagos,Terastal,16,Normal,NULL,Tera Shell,NULL,NULL,NULL,95,95,110,105,110,85,600,NULL,NULL
+3177,1024,Terapagos,Stellar,77,Normal,NULL,Teraform Zero,NULL,NULL,NULL,160,105,110,130,110,85,700,NULL,NULL
+1025,1025,Pecharunt,NULL,0.3,Poison,Ghost,Poison Puppeteer,NULL,NULL,NULL,88,88,160,88,88,88,600,NULL,NULL
