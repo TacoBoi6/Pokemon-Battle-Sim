@@ -1,12 +1,18 @@
 using System;
 public class Pokemon { 
-    static string RESET_FORMATTING = "\u001b[0m"; 
+    static string RESET_FORMATTING = "\u001b[0m"; // Reset console output to default formatting 
     int ID, dexNumber, BST, prevoID; 
     int[] stats; 
-    string species, form, evoDetails; 
+    public string species; 
+    string form, evoDetails; 
     string[] types, abilities; 
     double weight; 
 
+    // Method:       Pokemon(int, int, string, string, double, string[], string[], int[], int, int, string) 
+    // Description:  Generate a new Pokemon object, given all of its info separately. 
+    // Parameters:   All of the values of the Pokemon object's member variables.   
+    //               Can be found at the top of the class. 
+    // Returns:      N/A; Constructor. 
     public Pokemon(int ID, int dexNumber, string species, string form, double weight, string[] types, string[] abilities, int[] stats, int BST, int prevoID, string evoDetails) { 
         this.ID = ID; 
         this.dexNumber = dexNumber; 
@@ -21,6 +27,10 @@ public class Pokemon {
         this.evoDetails = evoDetails; 
     } 
 
+    // Method:       Pokemon(string) 
+    // Description:  Generate a new Pokemon object, given all of its info in one line. 
+    // Parameters:   string infoString  : The string containing all of the values of the Pokemon's info, in order.
+    // Returns:      N/A; Constructor  
     public Pokemon(string infoString) { 
         object[] info = infoString.Split(','); 
 
@@ -49,15 +59,11 @@ public class Pokemon {
 
     } 
 
-    /*public static Pokemon[] GetAllPokemon() { 
-        string[] allPokemonInfo = GetAllPokemonInfo(); 
-        Pokemon[] allPokemon = new Pokemon[allPokemonInfo.Length]; 
-
-        for (int i = 0; i < allPokemonInfo.Length; i++) { 
-            allPokemon[i] = new Pokemon();
-        }
-    }*/
-
+    // Method:       GetAllPokemonInfo()  
+    // Description:  Collect every line from a file containing info on every Pokemon. 
+    //               Every line should be an individual Pokemon, formatted as shown in PokemonInfo.csv and the README. 
+    // Parameters:   N/A
+    // Returns:      Every line in the PokemonInfo.csv file, as an array. 
     public static string[] GetAllPokemonInfo() { 
         // Back out once from Program folder; End up in PokemonBattleSim; Enter PokemonInfo -> PokemonInfo.csv 
         string Pokemon_Info_Path = Path.GetFullPath("..\\PokemonInfo\\PokemonInfo.csv"); 
@@ -74,6 +80,12 @@ public class Pokemon {
         return allInfoWithoutHeader; 
     }
 
+    // Method:       ToString() 
+    // Description:  Generate a string representation of the given Pokemon. 
+    //               Species, form, types, abilities, stats. 
+    // Parameters:   N/A
+    // Returns:      A string representation of the given Pokemon including species, form, types, 
+    //               abilities, and stats. Types have their colour.   
     public override string ToString() {
         // add species name 
         string str = species; 
@@ -117,51 +129,11 @@ public class Pokemon {
         // should add evo line and evo stage 
     } 
 
-    /*public void Write() { 
-        // Write species name 
-        Console.Write(species); 
-
-        // add form name 
-        if (form != "NULL")
-            Console.Write("-" + form);
-
-        // add types 
-        // Type: TYPE1    or    Types: TYPE1/TYPE2
-        // First type
-        Console.Write("\t"); 
-        WriteType(types[0]); 
-        // Second type, if it exists 
-        if (types[1] != "NULL") { 
-            Console.Write("/"); 
-            WriteType(types[1]); 
-        }
-        Console.Write("\n"); 
-
-        // add base abilities 
-        // Ability: ABILITY    or    Abilities: ABILITY1, ABILITY2 
-        if (abilities[1] == "NULL")
-            Console.WriteLine("Ability: " + abilities[0]); 
-        else 
-            Console.WriteLine("Abilities: {0}, {1}", abilities[0], abilities[1]); 
-        
-        // add hidden abilities 
-        // empty    or    Hidden Ability: ABILITY3 
-        if (abilities[2] != "NULL")
-            Console.WriteLine("Hidden Ability: {0}", abilities[2]); 
-
-        // add event abilities 
-        // empty    or    Event Ability: ABILITY4 
-        if (abilities[3] != "NULL")
-            Console.WriteLine("Event Ability: {0}", abilities[3]); 
-
-        // add stats 
-        Console.WriteLine("HP\tAtk\tDef\tSpAtk\tSpDef\tSpe\tTotal"); 
-        foreach (int statVal in stats) 
-            Console.Write("{0}\t", statVal); 
-        Console.WriteLine(BST); 
-
-    }*/
-
+    // Method:       TypeWithColour(string) 
+    // Description:  Generate a coloured string for the given type. 
+    // Parameters:   string type:   The type to be given its colour. 
+    // Returns:      The given type with its corresponding colour. 
+    //               If the type is invalid, returns "INVALID TYPE". 
     public static string TypeWithColour(string type) { 
         // Set the colour according to the given type
         switch (type) { 
@@ -202,7 +174,7 @@ public class Pokemon {
             case "Bug": 
                 return "\u001b[38;2;135;150;15mBug\u001b[0m"; // Dull Green
             default: 
-                return "INVALID TYPE "; 
+                return "INVALID TYPE"; 
         }
     }
 

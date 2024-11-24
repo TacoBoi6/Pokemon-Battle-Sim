@@ -10,3 +10,6 @@ __TODO__
 - Add nicknames 
 - Fix PrevoID column 
 - Ignore text case
+- Make Type a class? 
+    - Good for easily accessing effectiveness and STAB 
+    - Move TypeWithColour() out of Pokemon. 
