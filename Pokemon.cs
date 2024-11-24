@@ -1,19 +1,24 @@
 using System;
 public class Pokemon { 
-    static string RESET_FORMATTING = "\u001b[0m"; // Reset console output to default formatting 
-    int ID, dexNumber, BST, prevoID; 
-    int[] stats; 
-    public string species; 
-    string form, evoDetails; 
-    string[] types, abilities; 
-    double weight; 
+    // static string RESET_FORMATTING = "\u001b[0m"; // Reset console output to default formatting 
+    public int ID { get; private set; }             // POKEMON ID
+    public int dexNumber { get; private set; }      // POKEDEX NUMBER 
+    public string species { get; private set; }     // SPECIES NAME 
+    public string form { get; private set; }        // FORM NAME (hyphenated)
+    public double weight { get; private set; }      // WEIGHT 
+    public string[] types { get; private set; }     // TYPES 
+    public string[] abilities { get; private set; } // ABILITIES (1/2 Base, Hidden, Event)
+    public int[] stats { get; private set; }        // STATS (HP, Atk, Def, SpAtk, SpDef, Spe)
+    public int bst { get; private set; }            // BASE STAT TOTAL 
+    public int prevoID { get; private set; }        // PRE-EVOLUTION ID 
+    public string evoDetails { get; private set; }  // EVOLUTION DETAILS/METHOD 
 
     // Method:       Pokemon(int, int, string, string, double, string[], string[], int[], int, int, string) 
     // Description:  Generate a new Pokemon object, given all of its info separately. 
     // Parameters:   All of the values of the Pokemon object's member variables.   
     //               Can be found at the top of the class. 
     // Returns:      N/A; Constructor. 
-    public Pokemon(int ID, int dexNumber, string species, string form, double weight, string[] types, string[] abilities, int[] stats, int BST, int prevoID, string evoDetails) { 
+    public Pokemon(int ID, int dexNumber, string species, string form, double weight, string[] types, string[] abilities, int[] stats, int bst, int prevoID, string evoDetails) { 
         this.ID = ID; 
         this.dexNumber = dexNumber; 
         this.species = species; 
@@ -22,7 +27,7 @@ public class Pokemon {
         this.types = types; 
         this.abilities = abilities; 
         this.stats = stats; 
-        this.BST = BST; 
+        this.bst = bst; 
         this.prevoID = prevoID; 
         this.evoDetails = evoDetails; 
     } 
@@ -51,7 +56,7 @@ public class Pokemon {
         // stats 
         this.stats = new int[] { Convert.ToInt32(info[11]), Convert.ToInt32(info[12]), Convert.ToInt32(info[13]), Convert.ToInt32(info[14]), Convert.ToInt32(info[15]), Convert.ToInt32(info[16]) }; 
         // bst
-        this.BST = Convert.ToInt32(info[17]); 
+        this.bst = Convert.ToInt32(info[17]); 
         // prevoID
         this.prevoID = ((string) info[18] == "NULL") ? 0 : Convert.ToInt32(info[18]); 
         // evoDetails 
@@ -113,7 +118,7 @@ public class Pokemon {
         str += "HP\tAtk\tDef\tSpAtk\tSpDef\tSpe\tTotal\n"; 
         foreach (int statVal in stats) 
             str += statVal + "\t"; 
-        str += BST; 
+        str += bst; 
 
         // PREVOID COLUMN IS WRONG 
         /*
