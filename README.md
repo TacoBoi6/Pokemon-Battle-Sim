@@ -1,4 +1,4 @@
-exe is in the `program` folder. 
+exe is in the `program` folder.  
 Currently a work in progress.  
 
 ## Plans  
