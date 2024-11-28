@@ -3,7 +3,7 @@ using System.IO;
 public class PokemonBattleSim { 
     public static void Main() { 
         Console.Clear(); 
-        Console.WriteLine("Starting program..."); 
+        Console.WriteLine(Pokemon.RESET_FORMATTING + "Starting program..."); 
 
         string[] monsInfo = Pokemon.GetAllPokemonInfo(); 
         Pokemon[] mons = new Pokemon[1383]; 
@@ -15,17 +15,16 @@ public class PokemonBattleSim {
         Console.WriteLine("All Pokemon have been generated!"); 
 
         while (true) { 
-            Console.WriteLine("\nIf nothing shows up, you probably spelled it wrong. Or it\'s an alternate form that isn\'t implemented yet.");
             Console.WriteLine("This is an infinite loop. Close the program to exit."); 
             Console.Write("Enter a Pokemon: "); 
             string input = Console.ReadLine().ToLower(); 
             Console.WriteLine(); 
 
-            for (int i = 0; i < mons.Length - 1; i++) { 
-                if (mons[i].species.ToLower().Equals(input)) {
-                    Console.WriteLine(mons[i]); 
-                    break; 
-                } 
+            try {
+                Console.WriteLine(mons[Pokemon.IndexOfPokemon(mons, input)]); 
+            }
+            catch { 
+                Console.WriteLine("\"{0}\" may not exist, or you spelled it wrong, or it is unimplemented.\n", input); 
             }
 
         }
