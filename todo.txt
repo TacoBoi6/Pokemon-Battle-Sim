@@ -13,3 +13,4 @@ __TODO__
 - Make Type a class? 
     - Good for easily accessing effectiveness and STAB 
     - Move TypeWithColour() out of Pokemon. 
+- Add colour to types in Pokemon.ToString() 
