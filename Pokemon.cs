@@ -1,4 +1,5 @@
 using System;
+using StringExtensions;
 public class Pokemon { 
     public static string RESET_FORMATTING = "\u001b[0m"; // Reset console output to default formatting 
     public int ID { get; private set; }             // POKEMON ID
@@ -10,7 +11,7 @@ public class Pokemon {
     public string[] Abilities { get; private set; } // ABILITIES (1/2 Base, Hidden, Event)
     public int[] Stats { get; private set; }        // STATS (HP, Atk, Def, SpAtk, SpDef, Spe)
     public int BST { get; private set; }            // BASE STAT TOTAL 
-    public int PrevoID { get; private set; }        // PRE-EVOLUTION ID 
+    public int PrevoID { get; private set; }        // PRE-EVOLUTION ID (not DexNumber)
     public string EvoDetails { get; private set; }  // EVOLUTION DETAILS/METHOD 
 
     // Method:       Pokemon(int, int, string, string, double, string[], string[], int[], int, int, string) 
@@ -121,25 +122,8 @@ public class Pokemon {
     // Returns:      A string representation of the given Pokemon including species, form, types, 
     //               abilities, and stats. Types have their colour.   
     public override string ToString() {
-        /* OLD BIT
-            // add species name 
-            string str = species; 
-
-            // add form name 
-            str += (form == "NULL") ? "" : "-" + form; 
-
-            // add types 
-            // Type: TYPE1    or    Types: TYPE1/TYPE2
-            str += "\t" + (types[1] == "NULL" ? TypeWithColour(types[0]) : TypeWithColour(types[0]) + "/" + TypeWithColour(types[1])) + "\n"; 
-
-            // Other try
-            // Issue with alignment due to escape characters 
-            {((types[1] == "NULL") ? GetTypeColour(types[0]) + types[0] : GetTypeColour(types[0]) + types[0] + RESET_FORMATTING + "/" + GetTypeColour(types[1]) + types[1]), 10}
-        */
-
-        // Add species name, form (if there is one), and types (right aligned)
-        string str = $"{Species + ((Form == "NULL") ? "" : "-" + Form), -27}{((Types[1] == "NULL") ? Types[0] : Types[0] + "/" + Types[1]), 26}\n"; 
-        str += RESET_FORMATTING;          
+        // Add species name and form (if there is one) (left aligned), and types (right aligned)
+        string str = (Species + ((Form == "NULL") ? "" : "-" + Form)).PadVisible(27) + ((Types[1] == "NULL") ? TypeWithColour(Types[0]) : TypeWithColour(Types[0]) + "/" + TypeWithColour(Types[1])).PadVisible(26, -1) + "\n"; 
         
         // Add base abilities 
         // Ability: ABILITY    or    Abilities: ABILITY1, ABILITY2 
@@ -185,98 +169,101 @@ public class Pokemon {
 
     // Method:       TypeWithColour(string) 
     // Description:  Generate a coloured string for the given type. 
+    //               Ordered by number of Pokemon in each type for a lil cool efficiency :]
     // Parameters:   string type:   The type to be given its colour. 
     // Returns:      The given type with its corresponding colour. 
-    //               If the type is invalid, returns "INVALID TYPE". 
+    //               If the type is invalid, returns an empty string. 
     public static string TypeWithColour(string type) { 
         // Set the colour according to the given type
-        switch (type) { 
-            case "Normal": 
-                return "\u001b[38;2;255;255;255mNormal\u001b[0m"; // White
-            case "Fire": 
-                return "\u001b[38;2;252;10;10mFire\u001b[0m"; // Red 
-            case "Fighting": 
-                return "\u001b[38;2;212;103;0mFighting\u001b[0m"; // Reddish Brown  
-            case "Water": 
-                return "\u001b[38;2;54;152;249mWater\u001b[0m"; // Blue
-            case "Flying": 
-                return "\u001b[38;2;129;185;239mFlying\u001b[0m"; // Cyan 
-            case "Grass": 
-                return "\u001b[38;2;117;194;54mGrass\u001b[0m"; // Green 
-            case "Poison": 
-                return "\u001b[38;2;146;68;147mPoison\u001b[0m"; // Purple
-            case "Electric": 
-                return "\u001b[38;2;250;192;0mElectric\u001b[0m"; // Yellow 
-            case "Ground": 
-                return "\u001b[38;2;205;175;83mGround\u001b[0m"; // Light Brown
-            case "Psychic": 
-                return "\u001b[38;2;238;72;128mPsychic\u001b[0m"; // Pink
-            case "Rock": 
-                return "\u001b[38;2;174;152;80mRock\u001b[0m"; // Brown
-            case "Ice": 
-                return "\u001b[38;2;125;216;247mIce\u001b[0m"; // Light Cyan
-            case "Dragon": 
-                return "\u001b[38;2;1;77;78mDragon\u001b[0m"; // Blueish Purple
-            case "Ghost": 
-                return "\u001b[38;2;71;70;146mGhost\u001b[0m"; // Dark Purple 
-            case "Dark": 
-                return "\u001b[38;2;0;0;0mDark\u001b[0m"; // Black
-            case "Steel": 
-                return "\u001b[38;2;143;142;158mSteel\u001b[0m"; // Grey 
-            case "Fairy": 
-                return "\u001b[38;2;225;149;225mFairy\u001b[0m"; // Light Pink
-            case "Bug": 
-                return "\u001b[38;2;135;150;15mBug\u001b[0m"; // Dull Green
+        switch (type.ToLower()) { 
+            case "water": 
+                return "\u001b[38;2;54;152;249mWater" + RESET_FORMATTING; // Blue
+            case "normal": 
+                return "\u001b[38;2;255;255;255mNormal" + RESET_FORMATTING; // White
+            case "grass": 
+                return "\u001b[38;2;117;194;54mGrass" + RESET_FORMATTING; // Green 
+            case "flying": 
+                return "\u001b[38;2;129;185;239mFlying" + RESET_FORMATTING; // Cyan 
+            case "psychic": 
+                return "\u001b[38;2;238;72;128mPsychic" + RESET_FORMATTING; // Pink
+            case "bug": 
+                return "\u001b[38;2;135;150;15mBug" + RESET_FORMATTING; // Dull Green
+            case "fire": 
+                return "\u001b[38;2;252;10;10mFire" + RESET_FORMATTING; // Red 
+            case "poison": 
+                return "\u001b[38;2;146;68;147mPoison" + RESET_FORMATTING; // Purple
+            case "fighting": 
+                return "\u001b[38;2;212;103;0mFighting" + RESET_FORMATTING; // Reddish Brown  
+            case "dark": 
+                return "\u001b[38;2;0;0;0mDark" + RESET_FORMATTING; // Black
+            case "rock": 
+                return "\u001b[38;2;174;152;80mRock" + RESET_FORMATTING; // Brown
+            case "ground": 
+                return "\u001b[38;2;205;175;83mGround" + RESET_FORMATTING; // Light Brown
+            case "steel": 
+                return "\u001b[38;2;143;142;158mSteel" + RESET_FORMATTING; // Grey 
+            case "dragon": 
+                return "\u001b[38;2;1;77;78mDragon" + RESET_FORMATTING; // Blueish Purple
+            case "electric": 
+                return "\u001b[38;2;250;192;0mElectric" + RESET_FORMATTING; // Yellow 
+            case "ghost": 
+                return "\u001b[38;2;71;70;146mGhost" + RESET_FORMATTING; // Dark Purple 
+            case "fairy": 
+                return "\u001b[38;2;225;149;225mFairy" + RESET_FORMATTING; // Light Pink
+            case "ice": 
+                return "\u001b[38;2;125;216;247mIce" + RESET_FORMATTING; // Light Cyan
             default: 
-                return "INVALID TYPE"; 
+                return ""; 
         }
     }
 
     // Method:       GetTypeColour(string) 
     // Description:  Get the escape sequence to make text the colour of the given type. 
+    //               Ordered by number of Pokemon in each type for a lil cool efficiency :]
     // Parameters:   string type:   The type to get the colour of. 
     // Returns:      The escape sequence with the colour corresponding to the given type. 
-    //               If the type is invalid, returns "INVALID TYPE". 
+    //               If the type is invalid, returns an empty string. 
     public static string GetTypeColour(string type) { 
-        switch (type) { 
-            case "Normal": 
-                return "\u001b[38;2;255;255;255m"; // White
-            case "Fire": 
-                return "\u001b[38;2;252;10;10m"; // Red 
-            case "Fighting": 
-                return "\u001b[38;2;212;103;0m"; // Reddish Brown  
-            case "Water": 
+        switch (type.ToLower()) { 
+            case "water": 
                 return "\u001b[38;2;54;152;249m"; // Blue
-            case "Flying": 
-                return "\u001b[38;2;129;185;239m"; // Cyan 
-            case "Grass": 
+            case "normal": 
+                return "\u001b[38;2;255;255;255m"; // White
+            case "grass": 
                 return "\u001b[38;2;117;194;54m"; // Green 
-            case "Poison": 
-                return "\u001b[38;2;146;68;147m"; // Purple
-            case "Electric": 
-                return "\u001b[38;2;250;192;0m"; // Yellow 
-            case "Ground": 
-                return "\u001b[38;2;205;175;83m"; // Light Brown
-            case "Psychic": 
+            case "flying": 
+                return "\u001b[38;2;129;185;239m"; // Cyan 
+            case "psychic": 
                 return "\u001b[38;2;238;72;128m"; // Pink
-            case "Rock": 
-                return "\u001b[38;2;174;152;80m"; // Brown
-            case "Ice": 
-                return "\u001b[38;2;125;216;247m"; // Light Cyan
-            case "Dragon": 
-                return "\u001b[38;2;1;77;78m"; // Blueish Purple
-            case "Ghost": 
-                return "\u001b[38;2;71;70;146m"; // Dark Purple 
-            case "Dark": 
-                return "\u001b[38;2;0;0;0m"; // Black
-            case "Steel": 
-                return "\u001b[38;2;143;142;158m"; // Grey 
-            case "Fairy": 
-                return "\u001b[38;2;225;149;225m"; // Light Pink
-            case "Bug": 
+            case "bug": 
                 return "\u001b[38;2;135;150;15m"; // Dull Green
+            case "fire": 
+                return "\u001b[38;2;252;10;10m"; // Red 
+            case "poison": 
+                return "\u001b[38;2;146;68;147m"; // Purple
+            case "fighting": 
+                return "\u001b[38;2;212;103;0m"; // Reddish Brown  
+            case "dark": 
+                return "\u001b[38;2;0;0;0m"; // Black
+            case "rock": 
+                return "\u001b[38;2;174;152;80m"; // Brown
+            case "ground": 
+                return "\u001b[38;2;205;175;83m"; // Light Brown
+            case "steel": 
+                return "\u001b[38;2;143;142;158m"; // Grey 
+            case "dragon": 
+                return "\u001b[38;2;1;77;78m"; // Blueish Purple
+            case "electric": 
+                return "\u001b[38;2;250;192;0m"; // Yellow 
+            case "ghost": 
+                return "\u001b[38;2;71;70;146m"; // Dark Purple 
+            case "fairy": 
+                return "\u001b[38;2;225;149;225m"; // Light Pink
+            case "ice": 
+                return "\u001b[38;2;125;216;247m"; // Light Cyan
+
             default: 
-                return "INVALID TYPE"; 
+                return " "; 
         }
     }
 
