@@ -1,5 +1,6 @@
 ﻿using System; 
 using System.IO; 
+using StringExtensions; 
 public class PokemonBattleSim { 
     public static void Main() { 
         Console.Clear(); 
